@@ -103,5 +103,5 @@ Environment variable changes only reach the functions after a redeploy.
 
 ## More documentation
 
-- [`HANDOVER.md`](HANDOVER.md) — architecture, account ownership, credential rotation and the transfer checklist
+- [`HANDOVER.md`](HANDOVER.md) — who owns which account, how to operate and troubleshoot the site, and the remaining handover work
 - [`EDITING-GUIDE.md`](EDITING-GUIDE.md) — how to edit catalogue content by hand

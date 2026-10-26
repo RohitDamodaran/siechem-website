@@ -1,93 +1,91 @@
 # Siechem Website — Technical Handover
 
-This document is for the engineer who takes over running this site. It covers what
-the system is made of, which external accounts it depends on, and the exact steps
-to transfer it without breaking anything.
+For the engineer who runs this site. It covers what the system is made of, **who owns which account today**, how to operate it, and the work that is still open.
 
-For day-to-day **content editing**, see [EDITING-GUIDE.md](EDITING-GUIDE.md) instead.
+Status as of **26 Oct 2026**. For day-to-day **content editing** see [EDITING-GUIDE.md](EDITING-GUIDE.md); for a short overview see [README.md](README.md).
 
 ---
 
 ## 1. What this site is
 
-A **static HTML site** with no framework — no React, no build-time templating, no
-CMS runtime. Every public page is a hand-written `.html` file committed to the repo.
+A **static HTML site** with no framework — no React, no build-time templating, no CMS runtime. Every public page is a hand-written `.html` file committed to the repo.
 
-A small set of **serverless functions** (in `api/`) provide the parts that can't be
-static: the quote-request form, and the admin panel that lets staff edit the product
-catalogue.
+A small set of **serverless functions** (in `api/`) provide the parts that can't be static: the quote-request form, and the admin panel that lets staff edit the product catalogue.
 
-Deployment is on **Vercel**. The build step (`scripts/minify.mjs`) copies the site
-into `dist/` and minifies it; Vercel serves `dist/`.
+Deployment is on **Vercel**. The build step (`scripts/minify.mjs`) copies the site into `dist/` and minifies it; Vercel serves `dist/`.
 
 ```
 Browser ──► Vercel CDN ──► dist/*.html          (static pages, catalogue JSON)
                     └────► api/*.js             (serverless: quote form, admin)
-                                  └──► Supabase (admin catalogue database)
-                                  └──► GitHub   (publish writes catalogue JSON back)
-                                  └──► Gmail    (quote notification emails)
+                                  └──► Supabase      (admin catalogue database, product images)
+                                  └──► GitHub        (Publish writes catalogue JSON back)
+                                  └──► SMTP mailbox  (quote notification emails)
 ```
 
 ### Why the catalogue is JSON, not a live database
 
-Public pages never talk to a database. The catalogue lives in committed JSON files
-(`catalog/data/`), which the browser fetches as plain static files. The admin panel
-edits a Supabase database, and **Publish** regenerates those JSON files and commits
-them. This keeps customer-facing pages fast and dependency-free — if Supabase went
-down, the public site would be unaffected.
+Public pages never talk to a database. The catalogue lives in committed JSON files (`catalog/data/`), which the browser fetches as plain static files. The admin panel edits a Supabase database, and **Publish** regenerates those JSON files and commits them. This keeps customer-facing pages fast and dependency-free — if Supabase went down, the public site would be unaffected (product images hosted in Supabase Storage would not load; see §4).
 
 The trade-off: catalogue changes are not live until someone clicks **Publish**.
 
 ---
 
-## 2. External accounts this site depends on
+## 2. Accounts: who owns what today
 
-The site cannot run without all five. Each must be owned by Siechem after handover.
+| Service | Owner / location now | What it does | If it is lost or down |
+|---|---|---|---|
+| **GitHub** | Repo `RohitDamodaran/siechem-website` (Siechem's account, **public**). The maintaining developer is a collaborator. | Source code; `catalogues-v1` release holds the 30 catalogue PDFs | Publish stops; PDF downloads break |
+| **Vercel** | Project `siechem-website` in the **Siechem** team (**Hobby** plan), deploying from the repo above. Live URL `siechem-website.vercel.app`. | Hosting, build, serverless functions, env vars | Entire site |
+| **Supabase** | Project `fihlhaqxpiobwfotxsxs` in **Siechem's Org** (**Free** plan), region South Asia (Mumbai). | Admin catalogue database + product image storage | Admin panel; images for families that use uploaded images |
+| **Mail** | Mailboxes on the cPanel behind `mail.siechem.com` (not the web host's cPanel) | Sends and receives quote emails | Quote form emails |
+| **Domain `siechem.in`** | Registered at **Square Brothers**; DNS hosted there | Intended production domain | Site unreachable on that name |
+| **Domain `siechem.com`** | DNS in Cloudflare; web record still points at the previous cPanel web host | Still serves the **old** website | — |
 
-| Service | What it does | Breaks if lost |
-|---|---|---|
-| **GitHub** | Source code, and hosts the 30 catalogue PDFs as Release assets | Publish button; all catalogue PDF downloads |
-| **Vercel** | Hosting, build, serverless functions, env vars | Entire site |
-| **Supabase** | Admin catalogue database + product image storage | Admin panel; all product images |
-| **Gmail** | Sends quote-request notification emails | Quote form emails |
-| **Cloudflare** | DNS for siechem.com | Domain resolution |
+**Legacy project (not for production use).** The original Vercel project (`siechem.vercel.app`) still exists in the previous maintainer's personal account. Its Git integration broke when the repo moved, and its Publish no longer works (its token has no access to the transferred repo). It is kept only as a rollback until the Siechem project has run stably; delete it afterwards (§8).
+
+### Plan limits that matter
+
+- **Vercel Hobby** is for personal, non-commercial use under Vercel's terms, and **team invitations are Pro-only**. Consequence: nobody outside the Siechem Vercel account can be added to the team, so env vars, logs and deploy hooks can only be managed by Siechem. Code changes still flow through GitHub: a push to `main` deploys automatically.
+- **Supabase Free** pauses a project after about **7 days of inactivity** and has **no automatic backups**. This has already caused an outage (§4).
 
 ---
 
 ## 3. Environment variables
 
-All eight are set in **Vercel → Settings → Environment Variables**. They are not in
-the repo, and `.env` files are gitignored. After a transfer, every one must be
-re-entered on the new Vercel account.
+Set in **Vercel → Project → Settings → Environment Variables**. They are not in the repo and `.env` files are gitignored. A change only reaches the functions after a **redeploy**.
 
 | Variable | Purpose | Where to get it |
 |---|---|---|
 | `SUPABASE_URL` | Supabase project API URL | Supabase → Project Settings → API |
-| `SUPABASE_SERVICE_ROLE_KEY` | Server-side DB key; **bypasses row-level security** | Supabase → Project Settings → API |
-| `GITHUB_TOKEN` | Lets Publish commit catalogue JSON | GitHub → Settings → Developer settings → Fine-grained PAT |
-| `VERCEL_DEPLOY_HOOK_URL` | Triggers a rebuild after Publish commits | Vercel → Settings → Git → Deploy Hooks |
-| `SMTP_HOST` | Outgoing mail server for quote emails | Siechem's mail server, e.g. `mail.siechem.com` |
-| `SMTP_PORT` | `465` for SSL (default) or `587` for STARTTLS | Hosting provider |
-| `SMTP_USER` | Sending mailbox address | e.g. `sales@siechem.com` |
-| `SMTP_PASS` | That mailbox's password | Whoever administers the cPanel mail |
+| `SUPABASE_SERVICE_ROLE_KEY` | Server-side DB key; **bypasses row-level security** | Supabase → Project Settings → API → Legacy keys |
+| `GITHUB_TOKEN` | Lets Publish commit catalogue JSON | GitHub → Settings → Developer settings → Fine-grained token |
+| `VERCEL_DEPLOY_HOOK_URL` | Triggers a rebuild after Publish commits | Vercel → Project → Settings → Git → Deploy Hooks |
+| `SMTP_HOST` | Outgoing mail server | `mail.siechem.com` |
+| `SMTP_PORT` | `465` (SSL, default) or `587` (STARTTLS) | Mailbox's "Connect Devices" page in cPanel |
+| `SMTP_USER` | Sending mailbox address | The mailbox the form sends from |
+| `SMTP_PASS` | That mailbox's password | Whoever administers the mail cPanel |
 | `SALES_EMAIL` | *Optional.* Where enquiries are delivered; defaults to `SMTP_USER` | — |
-| `ADMIN_PASSWORD` | Password for the admin panel login | Choose one; store in the company password manager |
+| `ADMIN_PASSWORD` | Admin panel login | Choose one; keep it in the company password manager |
 | `ADMIN_SESSION_SECRET` | Signs admin session tokens | Any long random string (`openssl rand -hex 32`) |
 
-> **`SUPABASE_SERVICE_ROLE_KEY` bypasses all database security.** It is server-only.
-> Never put it in client-side code, and never commit it.
+`GMAIL_USER` / `GMAIL_PASS` are a legacy fallback used only when `SMTP_HOST` is unset. They can be deleted.
 
-### The GitHub token expires by default
+> **`SUPABASE_SERVICE_ROLE_KEY` bypasses all database security.** It is server-only. Never put it in client-side code and never commit it.
 
-Personal Access Tokens default to a 30-day expiry. When this token expires, the
-admin panel's Publish button fails with **"GitHub API 401: Bad credentials"** — the
-rest of the site keeps working, so it looks like an admin bug rather than an expired
-credential. This has already happened once.
+> **Set `SMTP_HOST`, `SMTP_USER` and `SMTP_PASS` together.** If `SMTP_HOST` is set without the other two, the code tries the mail server with the wrong credentials and quote emails stop.
 
-When creating the replacement, use a **fine-grained PAT** with:
-- Repository access: **only** the siechem website repo
+### The deploy hook belongs to one Vercel project
+
+A deploy hook is tied to the project that created it. If the Vercel project is ever recreated, create a new hook and update `VERCEL_DEPLOY_HOOK_URL`, or Publish will commit but never go live.
+
+### The GitHub token must outlive its creator
+
+Fine-grained tokens are scoped to specific repositories and **default to a 30-day expiry**. When a token expires, Publish fails with `GitHub API 401: Bad credentials` (or `403: Resource not accessible by personal access token` if it lacks access to the repo) while the rest of the site keeps working, so it looks like an admin bug.
+
+The token must be created under the **GitHub account that owns the repo**, with:
+- Repository access: **only** `siechem-website`
 - Permissions: **Contents → Read and write**
-- Expiration: **No expiration**
+- Expiration: **No expiration** (or a calendar reminder well before it lapses)
 
 ---
 
@@ -95,8 +93,7 @@ When creating the replacement, use a **fine-grained PAT** with:
 
 **URL:** `/admin` · **Login:** the value of `ADMIN_PASSWORD`
 
-Sessions are stateless — a signed token valid for 12 hours, with no session table.
-Changing `ADMIN_SESSION_SECRET` immediately logs everyone out.
+Sessions are stateless — a signed token valid for 12 hours, with no session table. Changing `ADMIN_SESSION_SECRET` immediately logs everyone out.
 
 ### The publish pipeline
 
@@ -113,9 +110,7 @@ Editing in the admin panel writes to Supabase only. Nothing is public until Publ
 8. Vercel rebuilds and the changes go live (~1–2 minutes)
 ```
 
-Deletions are tracked too — `admin_audit_log` is queried for `delete_series` and
-`remove_image` entries since the last publish, so a family whose only pending change
-is a deletion still shows as having unpublished changes.
+Deletions are tracked too — `admin_audit_log` is queried for `delete_series` and `remove_image` entries since the last publish, so a family whose only pending change is a deletion still shows as having unpublished changes.
 
 ### Database tables
 
@@ -126,7 +121,17 @@ is a deletion still shows as having unpublished changes.
 | `admin_audit_log` | Every admin action — the source of truth for "what changed since last publish" |
 | `admin_publish_log` | Timestamp of each publish |
 
-Product images go to the Supabase Storage bucket **`product-images`**.
+Product images go to the Supabase Storage bucket **`product-images`**. Only the families whose images were uploaded through the admin panel use it (`aero-44`, `aero-55`, `automotive`).
+
+### Troubleshooting: "Failed to load" / missing images (Supabase paused)
+
+**Symptoms:** the admin page shows `Failed to load: TypeError: fetch failed` or a wall of HTML mentioning *Cloudflare* / *Error code 521*; the `admin-families` request in the browser's Network tab returns **500** after several seconds; product images for the three families above disappear on the public site.
+
+**Cause:** the Free-tier Supabase project paused after a week without activity. Public pages don't query the database, so visitor traffic does not keep it awake.
+
+**Fix:** Supabase dashboard → the project → **Restore**. Restoration can take from a few minutes to several hours; the status must read *Healthy* before the admin panel works again. This happened on 1 Oct 2026.
+
+**Prevention:** upgrade the project to **Pro** (no auto-pause, daily backups). As a stopgap, have someone open the admin panel at least once a week.
 
 ---
 
@@ -139,32 +144,17 @@ A customer submits the quote form → `api/quote.js` sends **two** emails over S
 
 ### Which mail server it uses
 
-Siechem's own email runs on their cPanel server — `siechem.com`'s MX records point at
-SpamExperts, and `mail.siechem.com` is the mail host. So quote emails should be sent
-through **that** mailbox, not through Gmail.
+Siechem's email runs on its own cPanel mail host, not Gmail. `SMTP_HOST` is `mail.siechem.com` on port `465`, authenticating as a Siechem mailbox. Mailboxes are created in the cPanel of the **mail host** (the one that lists the real mailboxes), not in the web host's cPanel, which only has a couple of system accounts.
 
-Set `SMTP_HOST`, `SMTP_USER` and `SMTP_PASS` to the Siechem mailbox and it will be
-used. If `SMTP_HOST` is unset, the code falls back to Gmail via the legacy
-`GMAIL_USER` / `GMAIL_PASS` variables, so an existing Gmail setup keeps working until
-the switch is made.
-
-> **App Passwords are a Gmail-only concept.** A cPanel mailbox authenticates with its
-> own ordinary password — there is no 2-Step Verification to enable and nothing to
-> generate. Only the Gmail fallback path needs an App Password.
-
-Port `465` connects with implicit TLS; port `587` upgrades via STARTTLS. If mail fails
-to send after a change, the port/TLS pairing is the first thing to check.
+- **A cPanel mailbox uses its ordinary password.** There is no App Password or 2-Step Verification; those are Gmail-only.
+- **Port `465`** is implicit TLS; **`587`** upgrades via STARTTLS. If sending fails after a change, check the port first.
+- **If the sending mailbox's password is ever changed, the quote form stops sending.** Update `SMTP_PASS` in Vercel and redeploy. Using a dedicated mailbox just for the website (for example `website@siechem.com`, with `SALES_EMAIL` pointing at the sales inbox) avoids tying the form to a mailbox people log into every day.
 
 ### Submissions are not stored anywhere
 
-`api/quote.js` only sends the two emails above — it does not write to Supabase, a
-file, or any other store. The `sales@siechem.com` inbox and the customer's own inbox
-are the only two places a submission exists. If a notification email is lost (deleted,
-misfiled, bounced), there is no way to recover it from the site.
+`api/quote.js` only sends the two emails above — it does not write to Supabase, a file, or any other store. The sales inbox and the customer's own inbox are the only two places a submission exists. If a notification email is lost (deleted, misfiled, bounced), there is no way to recover it from the site.
 
-This is a deliberate scope decision, not an oversight: a `quote_submissions` table in
-Supabase would be a natural addition if Siechem later wants a searchable record, but
-it hasn't been requested.
+This is a deliberate scope decision: a `quote_submissions` table in Supabase would be a natural addition if Siechem later wants a searchable record.
 
 ---
 
@@ -173,62 +163,53 @@ it hasn't been requested.
 ### Normal code change
 
 ```bash
-node scripts/minify.mjs
-git add -A
+node scripts/minify.mjs        # optional: confirm the build succeeds locally
+git add <files>
 git commit -m "your message"
-git push origin main
-vercel --prod --yes
+git push origin main           # Vercel builds and deploys production automatically
 ```
 
-Pushing to `main` alone is not always sufficient — run `vercel --prod --yes` to be
-certain production is updated.
+The Siechem Vercel project is connected to the repo, so a push to `main` is all that is needed. Check the **Deployments** tab if a change doesn't appear. Note that **admin Publish also commits to `main`**, so `git pull` before you push.
 
 ### After adding or removing a page
-
-Regenerate the sitemap, then deploy as above:
 
 ```bash
 node scripts/gen-sitemap.mjs
 ```
 
+Commit the regenerated `sitemap.xml` with the change.
+
 ### Publishing catalogue changes
 
-Use the admin panel's Publish button. Don't hand-edit `catalog/data/*.json` — the
-next Publish regenerates those files from Supabase and overwrites manual edits.
+Use the admin panel's Publish button. Don't hand-edit `catalog/data/*.json` — the next Publish regenerates those files from Supabase and overwrites manual edits.
 
 ---
 
-## 7. Things that are hardcoded and will break on transfer
+## 7. Hardcoded values
 
-These are **not** environment variables. Code and data changes are required.
+These are **not** environment variables; changing them needs a code or data edit.
 
-### a) The repo path in the publish code
+### a) The repo path in the publish code — correct today
 
 `api/admin-publish.js` line 13:
 
 ```js
-const REPO = 'nareshh3105/siechem-website';
+const REPO = 'RohitDamodaran/siechem-website';
 ```
 
-After the repo moves to the Siechem account, Publish keeps trying to commit to the
-old path and fails. Update this line — ideally convert it to an env var so future
-transfers need no code change.
+If the repo is renamed or moved again, update this line or Publish will fail. Converting it to an env var would remove the need for a code change.
 
-### b) 30 catalogue PDFs on GitHub Releases
+### b) 30 catalogue PDFs on GitHub Releases — links still use the old owner
 
-Every catalogue download link in `catalog/data/families.json` looks like:
+Every download link in `catalog/data/families.json` still reads:
 
 ```
 https://github.com/nareshh3105/siechem-website/releases/download/catalogues-v1/aero-44.pdf
 ```
 
-The PDFs are **Release assets on the personal repo** (they are too large to commit —
-`catalogue-pdfs/` is gitignored). GitHub redirects these URLs after a transfer, but
-they break permanently if the repo is renamed or the old account is deleted. After
-transfer, re-create the `catalogues-v1` release on the Siechem repo and update these
-URLs.
+The PDFs are Release assets (too large to commit — `catalogue-pdfs/` is gitignored) and now live in the transferred repo. The old-owner links **currently work only because GitHub redirects them** (verified 26 Oct 2026). That redirect disappears if the old username ever creates a repository with the same name. Rewrite the 30 URLs to `RohitDamodaran/siechem-website`, ideally through the admin panel's family fields so the next Publish doesn't overwrite them from the database.
 
-### c) Product image URLs point at a specific Supabase project
+### c) Product image URLs point at one Supabase project
 
 Image URLs are baked into the committed JSON as absolute paths:
 
@@ -236,122 +217,52 @@ Image URLs are baked into the committed JSON as absolute paths:
 https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/...
 ```
 
-**Transfer the existing Supabase project's ownership — do not create a new one.**
-Creating a new project changes the subdomain, which breaks every product image on
-the site. Recovering from that means re-uploading all images and rewriting every URL.
+The project was **transferred**, so its reference is unchanged and the URLs still work. **Never replace it with a new Supabase project:** a new project has a new subdomain, which breaks every product image.
 
-### d) Canonical URLs
+### d) The domain is written into several files — still `siechem.vercel.app`
 
-13 HTML files hardcode `https://siechem.vercel.app/` in `<link rel="canonical">` and
-`og:url` tags. `robots.txt` and `scripts/gen-sitemap.mjs` also carry the domain.
-Once siechem.com is live, all of these must change together — otherwise Google
-credits the `.vercel.app` address instead of the real domain.
+| Where | What |
+|---|---|
+| `<link rel="canonical">` and `og:url` in 13 HTML files | `https://siechem.vercel.app/…` |
+| `robots.txt` | `Sitemap:` line |
+| `scripts/gen-sitemap.mjs` | `ORIGIN` constant (and the generated `sitemap.xml`) |
+| `api/quote.js` | "Submitted via…" line and a footer link in the customer email |
+
+Change all of them together to the production hostname once it is chosen (§8), then run `node scripts/gen-sitemap.mjs`. Until they change, Google is told the `.vercel.app` address is the canonical one.
 
 ---
 
-## 8. Transfer checklist
+## 8. Status and remaining work
 
-**Chosen sequence: transfer ownership first, then go live.** Siechem owns every
-account before siechem.com points at the new site.
+### Done
 
-The order of the transfers themselves is not arbitrary — Vercel depends on both
-GitHub and Supabase, so those move first.
+- Supabase project transferred to Siechem's organisation (project reference unchanged, images verified)
+- GitHub repo transferred to Siechem's account; `REPO` in `api/admin-publish.js` updated
+- New Vercel project created by Siechem from the repo; all environment variables entered; new deploy hook created
+- Publish verified end to end (Supabase → GitHub commit → Vercel rebuild)
+- Quote emails verified, sending through the Siechem mailbox over SMTP
+- `siechem.in` DNS configured at Square Brothers and attached to the Vercel project
 
-> **The admin panel's Publish button stops working partway through Phase 3 and stays
-> broken until Phase 4 is done.** Tell Siechem's staff not to make catalogue edits
-> during the transfer window. Editing still saves to the database; only publishing
-> to the live site is affected.
+### Remaining, in rough priority order
 
-### Phase 1 — Siechem creates accounts
+1. **Upgrade Supabase to Pro.** The Free tier already caused an outage (§4) and has no backups.
+2. **Upgrade Vercel to Pro**, or accept the limits in §2: Hobby is non-commercial, and the maintainer cannot be added to the team.
+3. **Finish the `siechem.in` go-live.**
+   - In Vercel → Domains, confirm both `siechem.in` and `www.siechem.in` show *Valid Configuration* and have a certificate. By default the apex redirects to `www`, so `www.siechem.in` is the primary host.
+   - Update the domain references in §7d, regenerate the sitemap, deploy.
+   - Verify the domain in Google Search Console and submit `/sitemap.xml`.
+   - Collect high-traffic URLs from the old `siechem.com` site and add redirects for any that would 404 (`vercel.json` already redirects a set of legacy paths).
+   - Decide what `siechem.com` should do long term (redirect to `siechem.in`, or stay separate). **Keep the old web host running for a few weeks** as a rollback.
+4. **Repoint the 30 catalogue PDF links** to the new owner's path (§7b).
+5. **Decommission the legacy Vercel project** after a stable period: delete it, delete its deploy hook, revoke the previous maintainer's personal GitHub token, and remove their copies of any credentials. Rotate any credential that was shared outside a password manager during the migration.
+6. **Give the form its own mailbox** (§5).
+7. **Supply four partner logos** that are still missing from `assets/partners/`: Schneider Electric, Mitsubishi Electric, DRDO and Indian Railway. Only the files are needed; they have not been provided.
 
-- [ ] GitHub account or organisation
-- [ ] Vercel account on a **paid plan** (see the warning below)
-- [ ] Supabase account
-- [ ] A mailbox for quote enquiries — `sales@siechem.com` on their existing cPanel
-      mail server (see §5; no Google account needed)
+### DNS notes for `siechem.in` (Square Brothers)
 
-> **The current Vercel project is on the Hobby plan, which permits non-commercial
-> use only.** A company website on Hobby violates Vercel's terms and can be
-> suspended. Siechem needs a Pro plan (~$20/month).
+Square Brothers has **two sets of nameservers**: the default "coming soon" parking set, and its DNS-hosting set (`mdns1`–`mdns4.squarebrothers.net`). Records entered in the DNS Management screen **only take effect when the domain's nameservers are set to the `mdns` set** (Domain → *Modify or Manage Nameservers*). While parked, the domain resolved to a parking page no matter what was entered there.
 
-### Phase 2 — Back up before touching anything
-
-Everything below is reversible except mistakes made without a backup.
-
-- [ ] Export the Supabase database (all four `admin_*` tables)
-- [ ] Download all 30 catalogue PDFs from the current GitHub release
-- [ ] Record the current value of every environment variable — several cannot be
-      read back out of Vercel once set
-- [ ] Confirm `git log` on the local clone matches `origin/main`
-
-### Phase 3 — Transfer ownership, in this order
-
-**a) Supabase first** — least disruptive, and Vercel needs its keys.
-
-- [ ] Transfer the **existing project** to the Siechem organisation
-      (do not create a new project — see §7c)
-- [ ] Confirm the project reference in the URL is unchanged, so image URLs still work
-- [ ] Add the maintaining developer back as a member
-
-**b) GitHub second** — Vercel's deploys are wired to this repo.
-
-- [ ] **Settings → Transfer ownership** → Siechem account
-- [ ] Re-create the `catalogues-v1` release and upload the 30 catalogue PDFs (§7b)
-- [ ] Generate a new fine-grained PAT: this repo only, Contents read/write,
-      **no expiration**
-- [ ] Add the maintaining developer back as a collaborator
-
-**c) Vercel last** — it depends on both of the above.
-
-- [ ] **Settings → Transfer project** → Siechem account
-- [ ] Confirm the `siechem.vercel.app` address still resolves; if the project was
-      renamed, the testing URL changes too
-- [ ] Re-connect the Git integration to the transferred repo
-- [ ] Create a new deploy hook
-- [ ] Add the maintaining developer to the team
-- [ ] Re-link the local clone: `vercel link`
-
-### Phase 4 — Re-enter credentials and fix the hardcoded values
-
-Every environment variable must be re-entered on the new Vercel account — they do
-not travel with a project transfer.
-
-- [ ] `SUPABASE_URL` / `SUPABASE_SERVICE_ROLE_KEY`
-- [ ] `GITHUB_TOKEN` — the new PAT from Phase 3b
-- [ ] `VERCEL_DEPLOY_HOOK_URL` — the new hook from Phase 3c
-- [ ] `SMTP_HOST` / `SMTP_PORT` / `SMTP_USER` / `SMTP_PASS` — the Siechem mailbox
-      (§5). **Add all four together**; setting `SMTP_HOST` alone breaks quote email.
-- [ ] `ADMIN_PASSWORD` — new password, stored in the company password manager
-- [ ] `ADMIN_SESSION_SECRET` — new random string
-- [ ] Update `REPO` in `api/admin-publish.js` to the new repo path (§7a)
-- [ ] Update the 30 PDF URLs in `catalog/data/families.json` (§7b)
-- [ ] Deploy, then confirm the admin panel's **Publish** works again
-
-### Phase 5 — Verify the transferred setup, still on the old domain
-
-Do this before any DNS change, while siechem.com still serves the old site.
-
-- [ ] Site loads correctly on the Vercel address
-- [ ] **Submit a test quote → confirm it arrives at `sales@siechem.com`**
-- [ ] Log into `/admin`, make a small edit, click **Publish**, confirm it goes live
-- [ ] Open a catalogue PDF and confirm it downloads
-- [ ] Confirm product images render on product pages
-- [ ] Revoke the previous owner's tokens and remove stale account access
-
-### Phase 6 — Go live
-
-Only once Phase 5 passes cleanly.
-
-- [ ] Agree a date and time with Siechem
-- [ ] Collect their high-traffic legacy URLs and add redirects for any that would 404
-- [ ] Add the Cloudflare DNS records Vercel specifies, set to **DNS only**
-      (grey cloud) — Cloudflare's proxy blocks Vercel's SSL issuance
-- [ ] Wait for verification and SSL to issue
-- [ ] Update canonical/`og:url` tags, `robots.txt` and `gen-sitemap.mjs` to
-      siechem.com (§7d), run `node scripts/gen-sitemap.mjs`, deploy
-- [ ] Confirm siechem.com loads with valid SSL
-- [ ] Verify the domain in Google Search Console and submit `/sitemap.xml`
-- [ ] **Keep the old cPanel web server running for a few weeks** as a rollback path
+Records Vercel asked for: an `A` record on `@` and a `CNAME` on `www` pointing at the target shown under Vercel → Domains → *View DNS configuration*. Do not delete the four `NS` rows in the DNS Management table. Nameserver changes can take hours to reach every resolver, and during that window some networks see the new site while others don't.
 
 ---
 
@@ -382,34 +293,19 @@ vercel.json                Routing, redirects, cache headers
 
 ### Query-param templates
 
-`products/product-family.html`, `products/product-variant.html`, and
-`catalogues/catalogue-view.html` render nothing without a query string — they are
-templates driven by `?id=`. They are deliberately excluded from `sitemap.xml`.
+`products/product-family.html`, `products/product-variant.html`, and `catalogues/catalogue-view.html` render nothing without a query string — they are templates driven by `?id=` / `?f=`. They are deliberately excluded from `sitemap.xml`.
 
 ---
 
 ## 10. Known issues and deferred work
 
-- **`REPO` should be an environment variable.** Hardcoding it means every future
-  ownership change needs a code edit (§7a).
-- **Catalogue PDFs depend on GitHub Releases.** Workable, but a dedicated file host
-  or Supabase Storage would be less fragile than release assets (§7b).
-- **`assets/vendor/page-flip.browser.js` is patched by hand.** The upstream
-  library sizes its canvas in CSS pixels with no regard for
-  `devicePixelRatio`, so every catalogue page was downsampled to CSS resolution
-  before being drawn — the book looked soft on high-DPI screens and blurred
-  badly under browser zoom, no matter what resolution the pages were rendered
-  at. `resizeCanvas()` now multiplies the backing store by the pixel ratio
-  (capped at 4) and scales the drawing context to match.
-
-  This file is **not** the copy in `node_modules`. Re-copying it from the
-  package, or reinstalling over it, silently reverts the fix and the blur
-  returns. If the library is ever upgraded, re-apply the same change.
-
-- **No automated tests.** Verification is manual — the Phase 5 checklist is the
-  practical substitute.
-- **`catalogue-pdfs/` is gitignored** (~1.9 GB, exceeds GitHub's file size limit).
-  Keep a separate backup of the source PDFs; they are not recoverable from the repo.
-- **`.gitignore` blanket-ignores `*.txt` and `*.json`**, with named exceptions.
-  A new file of either type will be silently ignored unless an exception is added —
-  this is easy to miss, since `git add` gives no warning.
+- **The GitHub repo is public.** Source, history and this document are world-readable. No secrets are committed, but consider making it private (GitHub → Settings → Change visibility); afterwards confirm Vercel's GitHub integration still has access.
+- **`REPO` should be an environment variable.** Hardcoding it means every future ownership change needs a code edit (§7a).
+- **Catalogue PDFs depend on GitHub Releases.** Workable, but a dedicated file host or Supabase Storage would be less fragile (§7b).
+- **The hero video has two encodes.** Screens up to 768 px wide and 2G/3G connections load `video/cable-video-hero-mobile.mp4` (640×360, ~5 MB); larger screens load `cable-video-hero.mp4`. The page plays it at 2.3× speed, so the network must deliver 2.3× the file's bitrate to avoid stalling. Replace both files if the footage changes.
+- **`assets/vendor/page-flip.browser.js` is patched by hand.** The upstream library sizes its canvas in CSS pixels with no regard for `devicePixelRatio`, so catalogue pages looked soft on high-DPI screens and blurred badly under browser zoom. `resizeCanvas()` now multiplies the backing store by the pixel ratio (capped at 4) and scales the drawing context to match. This file is **not** the copy in `node_modules`; reinstalling or re-copying over it silently reverts the fix. If the library is ever upgraded, re-apply the change.
+- **Admin errors are shown raw.** When an upstream service fails, `api/admin-families.js` passes the error text through unsanitised, so the admin page can show a full HTML error page. Harmless, but alarming to non-technical users.
+- **Two certificate logos are oversized.** `assets/partners/cer-5.png` and `cer-18.png` are ~200 KB each but display at 44 px, and they delay the page's `load` event. Resizing them would help mobile load times.
+- **No automated tests.** Verification is manual: load the site, log into `/admin`, Publish a small change, submit a test quote, open a catalogue PDF and a product page with images.
+- **`catalogue-pdfs/` is gitignored** (~1.9 GB, over GitHub's file size limit). Keep a separate backup of the source PDFs; they cannot be recovered from the repo.
+- **`.gitignore` blanket-ignores `*.txt` and `*.json`**, with named exceptions (`robots.txt`, `package.json`, `vercel.json`, …). A new file of either type is silently ignored unless an exception is added — `git add` gives no warning.
