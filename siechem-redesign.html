@@ -1664,20 +1664,48 @@
   <!-- Hero Video Section -->
   <main>
   <section class="hero-video-section">
-    <video class="hero-video-bg" autoplay loop muted playsinline preload="none" poster="/assets/video-posters/hero-poster.webp" data-src="/video/cable-video-hero.mp4" id="hero-video">
+    <video class="hero-video-bg" autoplay loop muted playsinline preload="none" poster="/assets/video-posters/hero-poster.webp" data-src="/video/cable-video-hero.mp4" data-src-mobile="/video/cable-video-hero-mobile.mp4" id="hero-video">
     </video>
     <script>
-      // Defer the hero video download until the page has finished loading;
-      // the poster (a frame of the same video) paints immediately instead.
-      window.addEventListener('load', () => {
-        setTimeout(() => {
-          const v = document.getElementById('hero-video');
-          if (v && !v.src) {
-            v.src = v.dataset.src;
-            v.play().catch(() => {});
-          }
-        }, 200);
-      });
+      // The poster (a frame of the same video) paints immediately; the video
+      // itself is attached from script so it never competes with the first
+      // paint. It used to wait for window "load", which on a phone means every
+      // image on the page (~1 MB) had to finish first, so the video only began
+      // downloading several seconds in. DOMContentLoaded is early enough to
+      // start straight away without touching the critical render path.
+      (function () {
+        var v = document.getElementById('hero-video');
+        if (!v) return;
+
+        function start() {
+          if (v.getAttribute('src')) return;
+          // Phones and slow links get a 640x360 encode (5 MB instead of 14 MB).
+          // The clip plays at 2.3x, so the network must deliver 2.3x the file's
+          // bitrate just to keep up; the lighter file is what makes that
+          // possible on mobile data.
+          var conn = navigator.connection || {};
+          var small = window.matchMedia('(max-width: 768px)').matches ||
+                      /(^|-)(2g|3g)$/.test(conn.effectiveType || '');
+          v.preload = 'auto';
+          v.src = small && v.dataset.srcMobile ? v.dataset.srcMobile : v.dataset.src;
+          v.play().catch(function () {});
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', start);
+        } else {
+          start();
+        }
+
+        // Some phones (iOS Low Power Mode, data savers) refuse muted autoplay.
+        // The first touch or scroll counts as a user gesture and starts it.
+        function resume() {
+          if (v.paused && v.getAttribute('src')) v.play().catch(function () {});
+        }
+        ['touchstart', 'pointerdown', 'scroll'].forEach(function (t) {
+          window.addEventListener(t, resume, { once: true, passive: true });
+        });
+      })();
     </script>
     <div class="hero-video-overlay"></div>
     <!-- Scroll indicator -->
