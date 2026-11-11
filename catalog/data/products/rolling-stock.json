@@ -1,564 +1,6 @@
 {
   "series": [
     {
-      "id": "a0a5938840",
-      "family": "rolling-stock",
-      "name": "BS EN 50264-3-1 Single Core, 600/1000V AC, EBXL 90°C Rolling Stock Cable",
-      "headers": [
-        "Part Number",
-        "Cross Section (mm2)",
-        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
-        "Conductor Diameter (mm) (Nom)",
-        "Max. Conductor Resistance at 20°C (Ω/km)",
-        "Insulation Thickness (mm) (Min)",
-        "Insulation Thickness (mm) (Nom)",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
-        "Cable Weight approx (Kg/Km)",
-        "Current Rating at 45ºC (A)"
-      ],
-      "rows": [
-        [
-          "55910XX*",
-          "1",
-          "32 x 0.20",
-          "1.25",
-          "20.0",
-          "0.44",
-          "0.6",
-          "2.4",
-          "2.8",
-          "15",
-          "20"
-        ],
-        [
-          "55913XX",
-          "1.5",
-          "30 x 0.25",
-          "1.5",
-          "13.7",
-          "0.53",
-          "0.7",
-          "2.8",
-          "3.3",
-          "20",
-          "25"
-        ],
-        [
-          "55916XX",
-          "2.5",
-          "50 x 0.25",
-          "1.95",
-          "8.21",
-          "0.53",
-          "0.7",
-          "3.2",
-          "3.8",
-          "30",
-          "33"
-        ],
-        [
-          "55919XX",
-          "4",
-          "56 x 0.30",
-          "2.5",
-          "5.09",
-          "0.53",
-          "0.7",
-          "3.8",
-          "4.4",
-          "45",
-          "46"
-        ],
-        [
-          "55923XX",
-          "6",
-          "84 x 0.30",
-          "3.0",
-          "3.39",
-          "0.53",
-          "0.7",
-          "4.2",
-          "5.0",
-          "65",
-          "60"
-        ],
-        [
-          "55927XX",
-          "10",
-          "80 x 0.40",
-          "3.9",
-          "1.95",
-          "0.53",
-          "0.7",
-          "5.1",
-          "5.9",
-          "105",
-          "85"
-        ],
-        [
-          "55928XX",
-          "16",
-          "126 x 0.40",
-          "5.0",
-          "1.24",
-          "0.53",
-          "0.7",
-          "6.1",
-          "7.2",
-          "155",
-          "110"
-        ],
-        [
-          "55930XX",
-          "25",
-          "196 x 0.40",
-          "6.4",
-          "0.795",
-          "0.71",
-          "0.9",
-          "7.8",
-          "9.1",
-          "250",
-          "150"
-        ],
-        [
-          "55932XX",
-          "35",
-          "276 x 0.40",
-          "7.7",
-          "0.565",
-          "0.71",
-          "0.9",
-          "9.0",
-          "10.6",
-          "330",
-          "190"
-        ],
-        [
-          "55934XX",
-          "50",
-          "396 x 0.40",
-          "9.2",
-          "0.393",
-          "0.80",
-          "1.0",
-          "10.6",
-          "12.4",
-          "465",
-          "240"
-        ],
-        [
-          "55937XX",
-          "70",
-          "360 x 0.50",
-          "11.0",
-          "0.277",
-          "0.89",
-          "1.1",
-          "12.5",
-          "14.6",
-          "635",
-          "300"
-        ],
-        [
-          "55938XX",
-          "95",
-          "475 x 0.50",
-          "12.5",
-          "0.210",
-          "0.89",
-          "1.1",
-          "13.9",
-          "16.3",
-          "870",
-          "360"
-        ],
-        [
-          "55941XX",
-          "120",
-          "608 x 0.50",
-          "14.2",
-          "0.164",
-          "0.98",
-          "1.2",
-          "15.7",
-          "18.4",
-          "1090",
-          "425"
-        ],
-        [
-          "55942XX",
-          "150",
-          "756 x 0.50",
-          "15.8",
-          "0.132",
-          "1.16",
-          "1.4",
-          "17.6",
-          "20.6",
-          "1365",
-          "490"
-        ],
-        [
-          "55944XX",
-          "185",
-          "925 x 0.50",
-          "17.5",
-          "0.108",
-          "1.34",
-          "1.6",
-          "19.6",
-          "22.9",
-          "1780",
-          "560"
-        ],
-        [
-          "55946XX",
-          "240",
-          "1221 x 0.50",
-          "20.1",
-          "0.0817",
-          "1.43",
-          "1.7",
-          "22.2",
-          "26.0",
-          "2165",
-          "675"
-        ],
-        [
-          "55948XX",
-          "300",
-          "1525 x 0.50",
-          "22.5",
-          "0.0654",
-          "1.52",
-          "1.8",
-          "24.6",
-          "28.8",
-          "2850",
-          "775"
-        ],
-        [
-          "55949XX",
-          "400",
-          "2013 x 0.50",
-          "25.8",
-          "0.0495",
-          "1.70",
-          "2.0",
-          "28.1",
-          "32.9",
-          "3800",
-          "950"
-        ],
-        [
-          "C20306XX*",
-          "0.5",
-          "16 x 0.20",
-          "0.90",
-          "40.1",
-          "0.35",
-          "0.5",
-          "2.10",
-          "2.30",
-          "10",
-          "11"
-        ],
-        [
-          "C20308XX",
-          "0.75",
-          "24 x 0.20",
-          "1.10",
-          "26.7",
-          "0.44",
-          "0.6",
-          "2.2",
-          "2.6",
-          "14",
-          "13"
-        ]
-      ],
-      "catalogueNo": "559",
-      "info": {
-        "features": [
-          "Excellent resistance to high and low temperature",
-          "Outstanding Flame retardant",
-          "Halogen free",
-          "Thin walled with excellent flexibility",
-          "Resistance to oil, fuel, ozone and weathering.",
-          "Easy to strip",
-          "Low smoke density",
-          "Soldering iron resistant",
-          "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 600/1000V AC",
-          "Specification : BS EN 50264-3-1",
-          "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 60228, Class 5",
-          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
-          "NFPA -130",
-          "EN 45545"
-        ],
-        "application": [
-          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
-          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
-        ],
-        "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, Class 5.",
-          "Separator : Polyester tape(Optional)",
-          "Insulation : EBXL - EI 109 (Dual wall)",
-          "Colour : Black or as per customer order"
-        ]
-      }
-    },
-    {
-      "id": "a478079c97",
-      "family": "rolling-stock",
-      "name": "Sietrans GKW S EMC FS 180 Fire Resistant Cables",
-      "headers": [
-        "Part Number",
-        "No. of Cores X Cross Section (Nos) X (mm 2)",
-        "Conductor Construction No of Strands X Strand Dia. (Nos) X",
-        "Nominal Conductor Diameter",
-        "Max Conductor Resistance at 20 0C",
-        "Nominal Overall Diamet e r",
-        "Cable Weight (Kg/Km) Approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "mm",
-          "mm",
-          "Ω/km",
-          "mm",
-          ""
-        ],
-        [
-          "A5471314",
-          "14 X 1.5",
-          "30 X 0.25",
-          "1.59",
-          "13.7",
-          "17.0 ± 1.7",
-          "515"
-        ],
-        [
-          "A5471316",
-          "16 X 1.5",
-          "30 X 0.25",
-          "1.59",
-          "13.7",
-          "18.0 ± 1.8",
-          "580"
-        ],
-        [
-          "A5471320",
-          "20 X 1.5",
-          "30 X 0.25",
-          "1.59",
-          "13.7",
-          "20.0 ± 2.0",
-          "710"
-        ],
-        [
-          "A5471324",
-          "24 X 1.5",
-          "30 X 0.25",
-          "1.59",
-          "13.7",
-          "22.2 ± 2.2",
-          "850"
-        ],
-        [
-          "A5471327",
-          "27 X 1.5",
-          "30 X 0.25",
-          "1.59",
-          "13.7",
-          "22.7 ± 2.3",
-          "925"
-        ],
-        [
-          "A5471602",
-          "2 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "9.7 ± 1.0",
-          "165"
-        ],
-        [
-          "A5471603",
-          "3 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "10.3 ± 1.0",
-          "200"
-        ],
-        [
-          "A5471604",
-          "4 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "11.4 ± 1.1",
-          "250"
-        ],
-        [
-          "A5471605",
-          "5 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "12.6 ± 1.3",
-          "295"
-        ],
-        [
-          "A5471606",
-          "6 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "13.8 ± 1.4",
-          "350"
-        ],
-        [
-          "A5471607",
-          "7 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "14.0 ± 1.4",
-          "380"
-        ],
-        [
-          "A5471608",
-          "8 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "15.6 ± 1.6",
-          "450"
-        ],
-        [
-          "A5471609",
-          "9 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "17.0 ± 1.7",
-          "510"
-        ],
-        [
-          "A5471610",
-          "10 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "17.8 ± 1.8",
-          "560"
-        ],
-        [
-          "A5471612",
-          "12 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "18.5 ± 1.9",
-          "640"
-        ],
-        [
-          "A5471612G",
-          "12G X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "18.5 ± 1.9",
-          "640"
-        ],
-        [
-          "A5471614",
-          "14 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "19.5 ± 2.0",
-          "725"
-        ],
-        [
-          "A5471616",
-          "16 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "20.7 ± 2.1",
-          "815"
-        ],
-        [
-          "A5471620",
-          "20 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "23.1 ± 2.3",
-          "1000"
-        ],
-        [
-          "A5471624",
-          "24 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "25.6 ± 2.6",
-          "1200"
-        ],
-        [
-          "A5471627",
-          "27 X 2.5",
-          "50 X 0.25",
-          "2.05",
-          "8.21",
-          "26.2 ± 2.6",
-          "1315"
-        ]
-      ],
-      "catalogueNo": "A547",
-      "info": {
-        "features": [
-          "Maintains circuit integrity for 3 hours under fire condition.",
-          "High temperature resistance for use -40°C up to +120°C",
-          "Advance performance halogen free",
-          "Oil and fuel resistance",
-          "Electron beam cross-linked",
-          "Halogen free",
-          "Fire resistance"
-        ],
-        "application": [
-          "For protected installation inside & outside of rail vehicles and buses.",
-          "These cables also maintain their function over a limited period in the event of a fire and are suitable for connecting fixed and moving parts such as",
-          "emergency lamps, flue gas outlets and switchgear.",
-          "Fire Survival applications."
-        ],
-        "construction": [
-          "Conductor : Annealed Tinned Flexible Copper Conductor",
-          "Flame Barrier : Phlogopite Tape",
-          "Insulation : Electron Beam Cross Linked Polyolefin Copolymer (EI 109 acc. to EN 50264-1& EN 50306-1)",
-          "Insulation Colour : Grey Core with Number Printing",
-          "ü Flame Barrier : Phlogopite Tape",
-          "Shielding : Annealed Tinned Copper",
-          "Flame Barrier : Phlogopite Tape",
-          "Outer Sheath : Electron Beam Cross Linked Elastomer Compound (EM 104 acc. to EN 50264-1& EN 50306-1)",
-          "Sheath Colour : Black"
-        ]
-      }
-    },
-    {
       "id": "99d3da4b22",
       "family": "rolling-stock",
       "name": "GKW-LW/T Multi Core, 600/1000V AC, 900/1500V DC, EBXL 120°C Rolling Stock Cable",
@@ -1811,243 +1253,6 @@
       }
     },
     {
-      "id": "56f799969d",
-      "family": "rolling-stock",
-      "name": "BS EN 50264-3-1 Single Core, 1800/3000V AC, EBXL 90°C Rolling Stock Cable",
-      "headers": [
-        "Part Number",
-        "Cross Section (mm2)",
-        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
-        "Conductor Diameter (mm) (Nom)",
-        "Max. Conductor Resistance at 20°C Ω/km",
-        "Insulation Thickness (mm) (Nom)",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
-        "Cable Weight (Kg/Km) approx."
-      ],
-      "rows": [
-        [
-          "56013XX*",
-          "1.5",
-          "32 x 0.25",
-          "1.5",
-          "13.7",
-          "2.0",
-          "5.3",
-          "6.2",
-          "52"
-        ],
-        [
-          "56016XX",
-          "2.5",
-          "48 x 0.25",
-          "1.95",
-          "8.21",
-          "2.0",
-          "5.7",
-          "6.7",
-          "65"
-        ],
-        [
-          "56019XX",
-          "4",
-          "56 x 0.30",
-          "2.5",
-          "5.09",
-          "2.0",
-          "6.2",
-          "7.3",
-          "80"
-        ],
-        [
-          "56023XX",
-          "6",
-          "80 x 0.30",
-          "3.0",
-          "3.39",
-          "2.0",
-          "6.7",
-          "7.8",
-          "105"
-        ],
-        [
-          "56027XX",
-          "10",
-          "80 x 0.40",
-          "3.9",
-          "1.95",
-          "2.0",
-          "7.5",
-          "8.8",
-          "150"
-        ],
-        [
-          "56028XX",
-          "16",
-          "128 x 0.40",
-          "5.0",
-          "1.24",
-          "2.0",
-          "8.6",
-          "10.0",
-          "210"
-        ],
-        [
-          "56030XX",
-          "25",
-          "192 x 0.40",
-          "6.4",
-          "0.795",
-          "2.0",
-          "9.9",
-          "11.6",
-          "300"
-        ],
-        [
-          "56032XX",
-          "35",
-          "272 x 0.40",
-          "7.7",
-          "0.565",
-          "2.0",
-          "11.1",
-          "13.0",
-          "390"
-        ],
-        [
-          "56034XX",
-          "50",
-          "384 x 0.40",
-          "9.2",
-          "0.393",
-          "2.0",
-          "12.5",
-          "14.6",
-          "525"
-        ],
-        [
-          "56037XX",
-          "70",
-          "360 x 0.50",
-          "11.0",
-          "0.277",
-          "2.0",
-          "14.2",
-          "16.6",
-          "720"
-        ],
-        [
-          "56038XX",
-          "95",
-          "456 x 0.50",
-          "12.5",
-          "0.210",
-          "2.2",
-          "16.0",
-          "18.7",
-          "955"
-        ],
-        [
-          "56041XX",
-          "120",
-          "608 x 0.50",
-          "14.2",
-          "0.164",
-          "2.2",
-          "17.6",
-          "20.6",
-          "1190"
-        ],
-        [
-          "56042XX",
-          "150",
-          "760 x 0.50",
-          "15.8",
-          "0.132",
-          "2.2",
-          "19.1",
-          "22.3",
-          "1440"
-        ],
-        [
-          "56044XX",
-          "185",
-          "888 x 0.50",
-          "17.5",
-          "0.108",
-          "2.4",
-          "20.9",
-          "24.4",
-          "1775"
-        ],
-        [
-          "56046XX",
-          "240",
-          "1184 x 0.50",
-          "20.1",
-          "0.0817",
-          "2.4",
-          "23.7",
-          "27.5",
-          "2260"
-        ],
-        [
-          "56048XX",
-          "300",
-          "1480 x 0.50",
-          "22.5",
-          "0.0654",
-          "2.4",
-          "25.6",
-          "30.1",
-          "2940"
-        ],
-        [
-          "56049XX",
-          "400",
-          "2013 x 0.50",
-          "25.8",
-          "0.0495",
-          "2.6",
-          "29.2",
-          "34.2",
-          "3885"
-        ]
-      ],
-      "catalogueNo": "560",
-      "info": {
-        "features": [
-          "Excellent resistance to high and low temperature",
-          "Outstanding Flame retardant",
-          "Halogen free",
-          "Thin walled with excellent flexibility",
-          "Resistance to oil, fuel, ozone and weathering.",
-          "Easy to strip",
-          "Low smoke density",
-          "Soldering iron resistant",
-          "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 1800/3000V AC",
-          "Specification : BS EN 50264-3-1",
-          "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 60228, Class 5",
-          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
-        ],
-        "application": [
-          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
-          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
-        ],
-        "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, Class 5.",
-          "Insulation : EBXL - EI 109",
-          "Colour : Black or as per customer order"
-        ]
-      }
-    },
-    {
       "id": "ca3eddb1af",
       "family": "rolling-stock",
       "name": "4 GKW/T EMC Single Core, Screened, 1800/3000V AC, 2700/4500V DC, EBXL 120°C Rolling Stock Cable",
@@ -2577,14 +1782,12 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 1800/3000V AC",
-          "Specification : BS EN 50264-3-1",
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 1800/3000V AC",
+          "Specification: BS EN 50264-3-1",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 60228, Class 5",
-          "In addition to BS EN 50264 spec, cables",
-          "also meet fire performance tests as per",
-          "UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
+          "Conductor: BS EN 60228, Class 5",
+          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
           "NFPA -130, EN 45545"
         ],
         "application": [
@@ -2592,414 +1795,10 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, Class 5.",
-          "Insulation : EBXL - EI 109",
-          "Outer Sheath : EBXL - EM 104",
-          "Colour : Black or as per customer order"
-        ]
-      }
-    },
-    {
-      "id": "66d3ea4192",
-      "family": "rolling-stock",
-      "name": "BS EN 50306-4 1E Multi Core, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
-      "headers": [
-        "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
-        "Conductor Construction No.of Strands x strand dia. (Nos x mm)",
-        "Max. Conductor Resistance at 20°C (Ω/km)",
-        "Max. Core Diameter (mm)",
-        "Min. Sheath Thickness (mm)",
-        "Outer Diameter (mm) — (Min)",
-        "Outer Diameter (mm) — (Max)",
-        "Cable Weight (Kg/Km) approx."
-      ],
-      "rows": [
-        [
-          "R5540602",
-          "2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "4.9",
-          "5.9",
-          "28"
-        ],
-        [
-          "R5540603",
-          "3 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "5.1",
-          "6.1",
-          "38"
-        ],
-        [
-          "R5540604",
-          "4 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "5.5",
-          "6.5",
-          "56"
-        ],
-        [
-          "R5540607",
-          "7 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "6.3",
-          "7.3",
-          "76"
-        ],
-        [
-          "R5540613",
-          "13 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "8.3",
-          "9.3",
-          "124"
-        ],
-        [
-          "R5540619",
-          "19 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "9.0",
-          "10.2",
-          "164"
-        ],
-        [
-          "R5540637",
-          "37 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.45",
-          "1.0",
-          "12.3",
-          "13.5",
-          "296"
-        ],
-        [
-          "R5540802",
-          "2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "5.3",
-          "6.3",
-          "45"
-        ],
-        [
-          "R5540803",
-          "3 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "5.5",
-          "6.5",
-          "49"
-        ],
-        [
-          "R5540804",
-          "4 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "6.0",
-          "7.0",
-          "69"
-        ],
-        [
-          "R5540807",
-          "7 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "6.9",
-          "7.9",
-          "98"
-        ],
-        [
-          "R5540813",
-          "13 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "9.1",
-          "10.3",
-          "165"
-        ],
-        [
-          "R5540819",
-          "19 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "10.0",
-          "11.2",
-          "220"
-        ],
-        [
-          "R5540837",
-          "37 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "13.2",
-          "14.4",
-          "399"
-        ],
-        [
-          "R5540848",
-          "48 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.65",
-          "1.0",
-          "14.8",
-          "16.4",
-          "507"
-        ],
-        [
-          "R5541002",
-          "2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "5.6",
-          "6.6",
-          "42"
-        ],
-        [
-          "R5541003",
-          "3 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "5.9",
-          "6.9",
-          "53"
-        ],
-        [
-          "R5541004",
-          "4 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "6.3",
-          "7.3",
-          "80"
-        ],
-        [
-          "R5541007",
-          "7 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "7.3",
-          "8.3",
-          "118"
-        ],
-        [
-          "R5541013",
-          "13 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "9.7",
-          "10.9",
-          "200"
-        ],
-        [
-          "R5541019",
-          "19 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "10.7",
-          "11.9",
-          "272"
-        ],
-        [
-          "R5541037",
-          "37 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.80",
-          "1.0",
-          "14.0",
-          "15.6",
-          "494"
-        ],
-        [
-          "R5541302",
-          "2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "6.3",
-          "7.3",
-          "60"
-        ],
-        [
-          "R5541303",
-          "3 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "6.6",
-          "7.6",
-          "77"
-        ],
-        [
-          "R5541304",
-          "4 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "7.4",
-          "8.4",
-          "110"
-        ],
-        [
-          "R5541307",
-          "7 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "8.6",
-          "9.8",
-          "168"
-        ],
-        [
-          "R5541313",
-          "13 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "11.7",
-          "12.9",
-          "283"
-        ],
-        [
-          "R5541319",
-          "19 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "13.0",
-          "14.2",
-          "390"
-        ],
-        [
-          "R5541337",
-          "37 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "2.30",
-          "1.0",
-          "17.2",
-          "18.8",
-          "716"
-        ],
-        [
-          "R5541602",
-          "2 X 2.5",
-          "37 X 0.30",
-          "8.21",
-          "2.85",
-          "1.0",
-          "7.7",
-          "8.7",
-          "108"
-        ],
-        [
-          "R5541603",
-          "3 X 2.5",
-          "37 X 0.30",
-          "8.21",
-          "2.85",
-          "1.0",
-          "8.1",
-          "9.1",
-          "131"
-        ],
-        [
-          "R5541604",
-          "4 X 2.5",
-          "37 X 0.30",
-          "8.21",
-          "2.85",
-          "1.0",
-          "8.8",
-          "10.0",
-          "165"
-        ]
-      ],
-      "catalogueNo": "R554",
-      "info": {
-        "features": [
-          "Excellent resistance to high and low temperature",
-          "Outstanding Flame retardant",
-          "Halogen free",
-          "Thin walled with excellent flexibility",
-          "Resistance to oil, fuel, ozone and weathering.",
-          "Easy to strip",
-          "Low smoke density",
-          "Soldering iron resistant",
-          "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 1 Class E",
-          "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 50306-2 : 2020",
-          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3,DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
-        ],
-        "application": [
-          "For mechanically exposed installation in Rail / Bus and other transport vehicles.",
-          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
-        ],
-        "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Separator : Polyester Tape",
-          "Outersheath : EBXL - EM 104",
-          "Black colour or as per customer order."
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, Class 5.",
+          "Insulation: EBXL - EI 109",
+          "Outer Sheath: EBXL - EM 104",
+          "Colour: Black or as per customer order"
         ]
       }
     },
@@ -6514,13 +5313,13 @@
       "name": "BS EN 50306-2, Single Core, 300 V AC, EBXL 105°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "Cross Section (mm2)",
+        "Cross Section (mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Diameter mm",
         "Max. Conductor Resistance at 20°C (Ω/km)",
         "Min. Insulation Thickness mm",
         "Outer Diameter (mm) (Min)",
-        "Outer Diameter (Max(mm) (Max)",
+        "Outer Diameter (mm) (Max)",
         "Cable Weight (Kg/Km) approx."
       ],
       "rows": [
@@ -8682,13 +7481,13 @@
       "name": "BS EN 50306-4 3P Multi Core, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable ",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
+        "No. of cores x Cross Section (Nos) x (mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Resistance at 20°C (Ω/km)",
         "Max. Core Diameter (mm)",
         "Min. Sheath Thickness (mm)",
-        "Outer Diameter ( mm) (Min)",
-        "Outer Diameter ( mm)  (Max)",
+        "Min. Outer Diameter ( mm)",
+        "Max. Outer Diameter ( mm)",
         "Cable Weight  approx. (Kg/Km)"
       ],
       "rows": [
@@ -8961,11 +7760,11 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -40°C to + 90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 3 Class P",
+          "Temperature Range: -40°C to + 90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4 : 2020, Table 3 Class P",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 50306-2 : 2020",
+          "Conductor: BS EN 50306-2 : 2020",
           "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3,DIN 5510-2, NF F 16-101",
           "NFPA -130,EN 45545"
         ],
@@ -8974,12 +7773,12 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside  the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed",
+          "Conductor: Finely Stranded Annealed",
           "Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Screen : Tinned Copper Braid",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Screen: Tinned Copper Braid",
           "Separator Tape",
-          "Outersheath : EBXL - EM 104",
+          "Outer sheath: EBXL - EM 104",
           "Black colour or as per customer order"
         ]
       }
@@ -8990,13 +7789,13 @@
       "name": "BS EN 50306-2, Single Core, 300 V AC, EBXL 105°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "Cross Section (mm2)",
+        "Cross Section (mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Diameter mm",
         "Max. Conductor Resistance at 20°C (Ω/km)",
         "Min. Insulation Thickness mm",
         "Outer Diameter (mm) (Min)",
-        "Outer Diameter (Max(mm) (Max)",
+        "Outer Diameter (mm) (Max)",
         "Cable Weight (Kg/Km) approx."
       ],
       "rows": [
@@ -9109,6 +7908,399 @@
           "Conductor : Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
           "Insulation : Cross Linked Ethylene Copolymer",
           "Colour : White or as per customer order."
+        ]
+      }
+    },
+    {
+      "id": "new-mwbsgf5m",
+      "family": "rolling-stock",
+      "name": "BS EN 50306-3 Single and Multi Core, Screened, 300 V AC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "No. of cores x Cross Section (Nos) x (mm²)",
+        "Conductor Construction No. of Strands x Strand dia. (Nos x mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Max. Core Diameter (mm)",
+        "Min. Sheath Thickness (mm)",
+        "Outer Diameter (mm) — (Min)",
+        "Outer Diameter (mm) — (Max)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "C85006XXYY",
+          "1 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "2.3",
+          "2.9",
+          "15"
+        ],
+        [
+          "C7070602",
+          "2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "3.5",
+          "4.4",
+          "32"
+        ],
+        [
+          "C7070603",
+          "3 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "3.7",
+          "4.7",
+          "38"
+        ],
+        [
+          "C7070604",
+          "4 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "4.0",
+          "5.2",
+          "46"
+        ],
+        [
+          "C7070606",
+          "6 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "5.5",
+          "6.5",
+          "67"
+        ],
+        [
+          "C7070608",
+          "8 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "0.20",
+          "6.1",
+          "7.1",
+          "86"
+        ],
+        [
+          "C85008XXYY",
+          "1 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "2.5",
+          "3.1",
+          "19"
+        ],
+        [
+          "C70720802",
+          "2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "3.9",
+          "4.8",
+          "41"
+        ],
+        [
+          "C7070803",
+          "3 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "4.0",
+          "5.2",
+          "49"
+        ],
+        [
+          "C7070804",
+          "4 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "4.5",
+          "5.7",
+          "59"
+        ],
+        [
+          "C7070806",
+          "6 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "6.1",
+          "7.1",
+          "87"
+        ],
+        [
+          "C7070808",
+          "8 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "0.20",
+          "7.3",
+          "8.3",
+          "112"
+        ],
+        [
+          "C80510XXYY",
+          "1 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "2.7",
+          "3.3",
+          "21"
+        ],
+        [
+          "C7071002",
+          "2 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "4.2",
+          "5.3",
+          "46"
+        ],
+        [
+          "C7071003",
+          "3 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "4.5",
+          "5.7",
+          "56"
+        ],
+        [
+          "C7071004",
+          "4 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "5.0",
+          "6.2",
+          "70"
+        ],
+        [
+          "C7071006",
+          "6 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "6.3",
+          "7.3",
+          "103"
+        ],
+        [
+          "C7071008",
+          "8 X 1.0",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "0.20",
+          "7.5",
+          "8.5",
+          "135"
+        ],
+        [
+          "C707A2402",
+          "2 X 1.2",
+          "19 X 0.29",
+          "15.8",
+          "2.10",
+          "0.20",
+          "4.5",
+          "5.5",
+          "55"
+        ],
+        [
+          "C707A2403",
+          "3 X 1.2",
+          "19 X 0.29",
+          "15.8",
+          "2.10",
+          "0.20",
+          "4.7",
+          "5.8",
+          "68"
+        ],
+        [
+          "C80513XXYY",
+          "1 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "3.1",
+          "3.7",
+          "28"
+        ],
+        [
+          "C7071302",
+          "2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "5.1",
+          "6.2",
+          "65"
+        ],
+        [
+          "C7071303",
+          "3 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "5.4",
+          "6.6",
+          "80"
+        ],
+        [
+          "C7071304",
+          "4 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "6.0",
+          "7.2",
+          "100"
+        ],
+        [
+          "C7071306",
+          "6 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "7.3",
+          "8.3",
+          "149"
+        ],
+        [
+          "C7071308",
+          "8 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "0.20",
+          "8.5",
+          "9.5",
+          "195"
+        ],
+        [
+          "C7071404",
+          "4 X 2.0",
+          "37 X 0.26",
+          "10.5",
+          "2.50",
+          "0.20",
+          "7.0",
+          "8.0",
+          "130"
+        ],
+        [
+          "C80516XXYY",
+          "1 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "0.20",
+          "3.6",
+          "4.5",
+          "43"
+        ],
+        [
+          "C7071602",
+          "2 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "0.20",
+          "6.4",
+          "7.5",
+          "95"
+        ],
+        [
+          "C7071603",
+          "3 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "0.20",
+          "6.8",
+          "8.0",
+          "120"
+        ],
+        [
+          "C7071604",
+          "4 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "0.20",
+          "7.5",
+          "8.7",
+          "150"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range : -40°C to +90°C.",
+          "Rated Voltage : 300 V AC",
+          "Specification : BS EN 50306-3 : 2020",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor : BS EN 50306-2 : 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3,DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer (White)",
+          "Screen: i) Tinned Copper Braid",
+          "ii) Wire diameter ≥ 0.10 mm",
+          "iii) Filling Factor ≥ 0.55",
+          "Outer sheath: EBXL - Type S2 (Black)"
         ]
       }
     },
@@ -9767,18 +8959,422 @@
       }
     },
     {
+      "id": "66d3ea4192",
+      "family": "rolling-stock",
+      "name": "BS EN 50306-4 1E Multi Core, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "No. of cores x Cross Section (Nos) x (mm²)",
+        "Conductor Construction No. of Strands x strand dia. (Nos x mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Max. Core Diameter (mm)",
+        "Min. Sheath Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "R5540602",
+          "2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "4.9",
+          "5.9",
+          "28"
+        ],
+        [
+          "R5540603",
+          "3 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "5.1",
+          "6.1",
+          "38"
+        ],
+        [
+          "R5540604",
+          "4 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "5.5",
+          "6.5",
+          "56"
+        ],
+        [
+          "R5540607",
+          "7 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "6.3",
+          "7.3",
+          "76"
+        ],
+        [
+          "R5540613",
+          "13 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "8.3",
+          "9.3",
+          "124"
+        ],
+        [
+          "R5540619",
+          "19 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "9.0",
+          "10.2",
+          "164"
+        ],
+        [
+          "R5540637",
+          "37 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.45",
+          "1.0",
+          "12.3",
+          "13.5",
+          "296"
+        ],
+        [
+          "R5540802",
+          "2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "5.3",
+          "6.3",
+          "45"
+        ],
+        [
+          "R5540803",
+          "3 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "5.5",
+          "6.5",
+          "49"
+        ],
+        [
+          "R5540804",
+          "4 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "6.0",
+          "7.0",
+          "69"
+        ],
+        [
+          "R5540807",
+          "7 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "6.9",
+          "7.9",
+          "98"
+        ],
+        [
+          "R5540813",
+          "13 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "9.1",
+          "10.3",
+          "165"
+        ],
+        [
+          "R5540819",
+          "19 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "10.0",
+          "11.2",
+          "220"
+        ],
+        [
+          "R5540837",
+          "37 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "13.2",
+          "14.4",
+          "399"
+        ],
+        [
+          "R5540848",
+          "48 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.65",
+          "1.0",
+          "14.8",
+          "16.4",
+          "507"
+        ],
+        [
+          "R5541002",
+          "2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "5.6",
+          "6.6",
+          "42"
+        ],
+        [
+          "R5541003",
+          "3 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "5.9",
+          "6.9",
+          "53"
+        ],
+        [
+          "R5541004",
+          "4 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "6.3",
+          "7.3",
+          "80"
+        ],
+        [
+          "R5541007",
+          "7 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "7.3",
+          "8.3",
+          "118"
+        ],
+        [
+          "R5541013",
+          "13 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "9.7",
+          "10.9",
+          "200"
+        ],
+        [
+          "R5541019",
+          "19 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "10.7",
+          "11.9",
+          "272"
+        ],
+        [
+          "R5541037",
+          "37 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.80",
+          "1.0",
+          "14.0",
+          "15.6",
+          "494"
+        ],
+        [
+          "R5541302",
+          "2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "6.3",
+          "7.3",
+          "60"
+        ],
+        [
+          "R5541303",
+          "3 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "6.6",
+          "7.6",
+          "77"
+        ],
+        [
+          "R5541304",
+          "4 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "7.4",
+          "8.4",
+          "110"
+        ],
+        [
+          "R5541307",
+          "7 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "8.6",
+          "9.8",
+          "168"
+        ],
+        [
+          "R5541313",
+          "13 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "11.7",
+          "12.9",
+          "283"
+        ],
+        [
+          "R5541319",
+          "19 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "13.0",
+          "14.2",
+          "390"
+        ],
+        [
+          "R5541337",
+          "37 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "2.30",
+          "1.0",
+          "17.2",
+          "18.8",
+          "716"
+        ],
+        [
+          "R5541602",
+          "2 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "1.0",
+          "7.7",
+          "8.7",
+          "108"
+        ],
+        [
+          "R5541603",
+          "3 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "1.0",
+          "8.1",
+          "9.1",
+          "131"
+        ],
+        [
+          "R5541604",
+          "4 X 2.5",
+          "37 X 0.30",
+          "8.21",
+          "2.85",
+          "1.0",
+          "8.8",
+          "10.0",
+          "165"
+        ]
+      ],
+      "catalogueNo": "R554",
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4: 2020, Table 1 Class E",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
+        ],
+        "application": [
+          "For mechanically exposed installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Separator: Polyester Tape",
+          "Outer sheath: EBXL - EM 104",
+          "Black colour or as per customer order."
+        ]
+      }
+    },
+    {
       "id": "f4b8e26fc8",
       "family": "rolling-stock",
       "name": "BS EN 50306-4 3E Multi Core, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x mm2",
+        "No. of cores x Cross Section (Nos x mm²)",
         "Conductor Construction No. of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Resistance at 20°C Ω/km",
         "Max. Core Diameter mm",
         "Min. Sheath Thickness mm",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
         "Cable Weight  approx. (Kg/Km)"
       ],
       "rows": [
@@ -10051,11 +9647,11 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -400C to +900C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 3 Class E",
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4: 2020, Table 3 Class E",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 50306-2 : 2020",
+          "Conductor: BS EN 50306-2: 2020",
           "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101.",
           "NFPA -130, EN 45545"
         ],
@@ -10064,11 +9660,11 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Screen : Tinned Copper Braid",
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Screen: Tinned Copper Braid",
           "Separator Tape",
-          "Outersheath : EBXL - EM 104",
+          "Outer sheath: EBXL - EM 104",
           "Black colour or as per customer order."
         ]
       }
@@ -10670,6 +10266,480 @@
           "Screen : Tinned Copper Braid-S",
           "Separator Tape",
           "Outersheath : EBXL - LSZH (EM 104) (Code M)",
+          "Black colour or as per customer order."
+        ]
+      }
+    },
+    {
+      "id": "55db2e735e",
+      "family": "rolling-stock",
+      "name": "BS EN 50306-4 7P Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "No. of cores x Cross Section (Nos) x (mm²)",
+        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Nom. Thickness of Overall Sheath (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "RA5370602P",
+          "2 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "6.6",
+          "7.9",
+          "67"
+        ],
+        [
+          "RA5370603P",
+          "3 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "7.0",
+          "8.1",
+          "85"
+        ],
+        [
+          "RA5370604P",
+          "4 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "7.7",
+          "8.7",
+          "100"
+        ],
+        [
+          "RA5370607P",
+          "7 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "9.0",
+          "10.6",
+          "145"
+        ],
+        [
+          "RA5370802P",
+          "2 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "0.56",
+          "7.1",
+          "9.0",
+          "85"
+        ],
+        [
+          "RA5370803P",
+          "3 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "0.56",
+          "7.7",
+          "9.2",
+          "105"
+        ],
+        [
+          "RA5370804P",
+          "4 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "0.56",
+          "9.0",
+          "10.0",
+          "140"
+        ],
+        [
+          "RA5370807P",
+          "7 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "0.56",
+          "10.8",
+          "11.8",
+          "215"
+        ],
+        [
+          "RA5371002P",
+          "2 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "0.56",
+          "7.8",
+          "9.5",
+          "105"
+        ],
+        [
+          "RA5371003P",
+          "3 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "0.56",
+          "8.3",
+          "9.7",
+          "130"
+        ],
+        [
+          "RA5371004P",
+          "4 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "0.56",
+          "9.1",
+          "10.3",
+          "160"
+        ],
+        [
+          "RA5371007P",
+          "7 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "0.56",
+          "11.0",
+          "12.4",
+          "250"
+        ],
+        [
+          "RA5371302P",
+          "2 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "0.56",
+          "9.8",
+          "11.2",
+          "140"
+        ],
+        [
+          "RA5371303P",
+          "3 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "0.56",
+          "10.4",
+          "11.4",
+          "185"
+        ],
+        [
+          "RA5371304P",
+          "4 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "0.56",
+          "11.6",
+          "12.6",
+          "235"
+        ],
+        [
+          "RA5371307P",
+          "7 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "0.56",
+          "14.0",
+          "15.3",
+          "375"
+        ],
+        [
+          "B7460605P",
+          "5 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "8.3",
+          "9.5",
+          "115"
+        ],
+        [
+          "B7460606P",
+          "6 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "0.56",
+          "9.0",
+          "10.6",
+          "130"
+        ],
+        [
+          "B7460806P",
+          "6 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "0.56",
+          "10.8",
+          "11.8",
+          "200"
+        ]
+      ],
+      "catalogueNo": "RA537",
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4: 2020, Table 7, Class P",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Screened and Sheathed Pairs: EN 50306-3: 2020",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed",
+          "Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Pair: Cores twisted",
+          "General Screen: i) Tinned Copper Braid",
+          "ii) Wire diameter ≥ 0.10 mm",
+          "iii) Filling Factor ≥ 0.55",
+          "Separator Tape",
+          "Outer sheath: EBXL - EM 104",
+          "Black colour or as per customer order."
+        ]
+      }
+    },
+    {
+      "id": "60d9dc5aa7",
+      "family": "rolling-stock",
+      "name": "BS EN 50306-4 7E Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "No. of cores x Cross Section (Nos) x (mm²)",
+        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Nom. Thickness of Overall Sheath (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "RA5380602P",
+          "2 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.0",
+          "7.1",
+          "8.9",
+          "84"
+        ],
+        [
+          "RA5380603P",
+          "3 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.0",
+          "7.5",
+          "9.1",
+          "100"
+        ],
+        [
+          "RA5380604P",
+          "4 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.0",
+          "8.3",
+          "9.7",
+          "125"
+        ],
+        [
+          "RA5380607P",
+          "7 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.0",
+          "9.6",
+          "11.6",
+          "180"
+        ],
+        [
+          "RA5380802P",
+          "2 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.0",
+          "7.6",
+          "10.0",
+          "105"
+        ],
+        [
+          "RA5380803P",
+          "3 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.0",
+          "8.2",
+          "10.2",
+          "125"
+        ],
+        [
+          "RA5380804P",
+          "4 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.0",
+          "9.5",
+          "10.8",
+          "155"
+        ],
+        [
+          "RA5380807P",
+          "7 X 2 X 0.75",
+          "37 X 0.16",
+          "26.7",
+          "1.0",
+          "11.4",
+          "12.8",
+          "235"
+        ],
+        [
+          "RA5381002P",
+          "2 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.0",
+          "8.3",
+          "10.5",
+          "120"
+        ],
+        [
+          "RA5381003P",
+          "3 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.0",
+          "8.8",
+          "10.7",
+          "145"
+        ],
+        [
+          "RA5381004P",
+          "4 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.0",
+          "9.6",
+          "11.3",
+          "180"
+        ],
+        [
+          "RA5381007P",
+          "7 X 2 X 1",
+          "37 X 0.18",
+          "20.0",
+          "1.0",
+          "11.6",
+          "13.4",
+          "270"
+        ],
+        [
+          "RA5381302P",
+          "2 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "1.0",
+          "10.3",
+          "12.2",
+          "170"
+        ],
+        [
+          "RA5381303P",
+          "3 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "1.0",
+          "11.0",
+          "12.4",
+          "210"
+        ],
+        [
+          "RA5381304P",
+          "4 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "1.0",
+          "12.1",
+          "13.1",
+          "255"
+        ],
+        [
+          "RA5381307P",
+          "7 X 2 X 1.5",
+          "37 X 0.23",
+          "13.7",
+          "1.0",
+          "14.5",
+          "16.3",
+          "415"
+        ],
+        [
+          "C2050606P",
+          "6 X 2 X 0.5",
+          "19 X 0.18",
+          "40.1",
+          "1.0",
+          "10.4",
+          "11.2",
+          "160"
+        ]
+      ],
+      "catalogueNo": "RA538",
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4: 2020, Table 7, Class E",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Screened and Sheathed Pairs: EN50306-3: 2020",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
+          "NFPA -130, EN 45545"
+        ],
+        "application": [
+          "For mechanically exposed installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Pair: Cores twisted",
+          "General Screen: i) Tinned Copper Braid",
+          "ii) Wire diameter ≥ 0.10 mm",
+          "iii) Filling Factor ≥ 0.55",
+          "Separator Tape",
+          "Outersheath: EBXL - EM 104",
           "Black colour or as per customer order."
         ]
       }
@@ -11320,18 +11390,543 @@
       }
     },
     {
+      "id": "new-mwbzn4bl",
+      "family": "rolling-stock",
+      "name": "BS EN 50264-3-1 Single Core, 600/1000V AC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "Cross Section (mm²)",
+        "Conductor Construction \nNo. of Strands x Strand dia. (Nos x mm)",
+        "Nom. Conductor Diameter (mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Min. Insulation Thickness (mm)",
+        "Nom. Insulation Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight approx (Kg/Km)",
+        "Current Rating at 45ºC (A)"
+      ],
+      "rows": [
+        [
+          "C70910XX*",
+          "1",
+          "32 x 0.20",
+          "1.25",
+          "20.0",
+          "0.44",
+          "0.6",
+          "2.4",
+          "2.8",
+          "15",
+          "20"
+        ],
+        [
+          "C70913XX",
+          "1.5",
+          "30 x 0.25",
+          "1.5",
+          "13.7",
+          "0.53",
+          "0.7",
+          "2.8",
+          "3.3",
+          "20",
+          "25"
+        ],
+        [
+          "C70916XX",
+          "2.5",
+          "50 x 0.25",
+          "1.95",
+          "8.21",
+          "0.53",
+          "0.7",
+          "3.2",
+          "3.8",
+          "30",
+          "33"
+        ],
+        [
+          "C70919XX",
+          "4",
+          "56 x 0.30",
+          "2.5",
+          "5.09",
+          "0.53",
+          "0.7",
+          "3.8",
+          "4.4",
+          "45",
+          "46"
+        ],
+        [
+          "C70923XX",
+          "6",
+          "84 x 0.30",
+          "3.0",
+          "3.39",
+          "0.53",
+          "0.7",
+          "4.2",
+          "5.0",
+          "65",
+          "60"
+        ],
+        [
+          "C70927XX",
+          "10",
+          "80 x 0.40",
+          "3.9",
+          "1.95",
+          "0.53",
+          "0.7",
+          "5.1",
+          "5.9",
+          "105",
+          "85"
+        ],
+        [
+          "C70928XX",
+          "16",
+          "126 x 0.40",
+          "5.0",
+          "1.24",
+          "0.53",
+          "0.7",
+          "6.1",
+          "7.2",
+          "155",
+          "110"
+        ],
+        [
+          "C70930XX",
+          "25",
+          "196 x 0.40",
+          "6.4",
+          "0.795",
+          "0.71",
+          "0.9",
+          "7.8",
+          "9.1",
+          "250",
+          "150"
+        ],
+        [
+          "C70932XX",
+          "35",
+          "276 x 0.40",
+          "7.7",
+          "0.565",
+          "0.71",
+          "0.9",
+          "9.0",
+          "10.6",
+          "330",
+          "190"
+        ],
+        [
+          "C70934XX",
+          "50",
+          "396 x 0.40",
+          "9.2",
+          "0.393",
+          "0.80",
+          "1.0",
+          "10.6",
+          "12.4",
+          "465",
+          "240"
+        ],
+        [
+          "C70937XX",
+          "70",
+          "360 x 0.50",
+          "11.0",
+          "0.277",
+          "0.89",
+          "1.1",
+          "12.5",
+          "14.6",
+          "635",
+          "300"
+        ],
+        [
+          "C70938XX",
+          "95",
+          "475 x 0.50",
+          "12.5",
+          "0.210",
+          "0.89",
+          "1.1",
+          "13.9",
+          "16.3",
+          "870",
+          "360"
+        ],
+        [
+          "C70941XX",
+          "120",
+          "608 x 0.50",
+          "14.2",
+          "0.164",
+          "0.98",
+          "1.2",
+          "15.7",
+          "18.4",
+          "1090",
+          "425"
+        ],
+        [
+          "C70942XX",
+          "150",
+          "756 x 0.50",
+          "15.8",
+          "0.132",
+          "1.16",
+          "1.4",
+          "17.6",
+          "20.6",
+          "1365",
+          "490"
+        ],
+        [
+          "C70944XX",
+          "185",
+          "925 x 0.50",
+          "17.5",
+          "0.108",
+          "1.34",
+          "1.6",
+          "19.6",
+          "22.9",
+          "1780",
+          "560"
+        ],
+        [
+          "C70946XX",
+          "240",
+          "1221 x 0.50",
+          "20.1",
+          "0.0817",
+          "1.43",
+          "1.7",
+          "22.2",
+          "26.0",
+          "2165",
+          "675"
+        ],
+        [
+          "C70948XX",
+          "300",
+          "1525 x 0.50",
+          "22.5",
+          "0.0654",
+          "1.52",
+          "1.8",
+          "24.6",
+          "28.8",
+          "2850",
+          "775"
+        ],
+        [
+          "C70949XX",
+          "400",
+          "2013 x 0.50",
+          "25.8",
+          "0.0495",
+          "1.70",
+          "2.0",
+          "28.1",
+          "32.9",
+          "3800",
+          "950"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect.",
+          "Long service life of more than 30 years with optimized life-cycle cost"
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 600/1000V AC",
+          "Specification: BS EN 50264-3-1",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor: BS EN 60228, Class 5",
+          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130",
+          "EN 45545"
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, Class 5.",
+          "Separator: Polyester tape (Optional)",
+          "Insulation: EBXL - EI 109 (Dual wall)",
+          "Colour: Black or as per customer order"
+        ]
+      }
+    },
+    {
+      "id": "56f799969d",
+      "family": "rolling-stock",
+      "name": "BS EN 50264-3-1 Single Core, 1800/3000V AC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "Cross Section (mm²)",
+        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
+        "Nom. Conductor Diameter (mm)",
+        "Max. Conductor Resistance at 20°C Ω/km",
+        "Nom. Insulation Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "56013XX*",
+          "1.5",
+          "32 x 0.25",
+          "1.5",
+          "13.7",
+          "2.0",
+          "5.3",
+          "6.2",
+          "52"
+        ],
+        [
+          "56016XX",
+          "2.5",
+          "48 x 0.25",
+          "1.95",
+          "8.21",
+          "2.0",
+          "5.7",
+          "6.7",
+          "65"
+        ],
+        [
+          "56019XX",
+          "4",
+          "56 x 0.30",
+          "2.5",
+          "5.09",
+          "2.0",
+          "6.2",
+          "7.3",
+          "80"
+        ],
+        [
+          "56023XX",
+          "6",
+          "80 x 0.30",
+          "3.0",
+          "3.39",
+          "2.0",
+          "6.7",
+          "7.8",
+          "105"
+        ],
+        [
+          "56027XX",
+          "10",
+          "80 x 0.40",
+          "3.9",
+          "1.95",
+          "2.0",
+          "7.5",
+          "8.8",
+          "150"
+        ],
+        [
+          "56028XX",
+          "16",
+          "128 x 0.40",
+          "5.0",
+          "1.24",
+          "2.0",
+          "8.6",
+          "10.0",
+          "210"
+        ],
+        [
+          "56030XX",
+          "25",
+          "192 x 0.40",
+          "6.4",
+          "0.795",
+          "2.0",
+          "9.9",
+          "11.6",
+          "300"
+        ],
+        [
+          "56032XX",
+          "35",
+          "272 x 0.40",
+          "7.7",
+          "0.565",
+          "2.0",
+          "11.1",
+          "13.0",
+          "390"
+        ],
+        [
+          "56034XX",
+          "50",
+          "384 x 0.40",
+          "9.2",
+          "0.393",
+          "2.0",
+          "12.5",
+          "14.6",
+          "525"
+        ],
+        [
+          "56037XX",
+          "70",
+          "360 x 0.50",
+          "11.0",
+          "0.277",
+          "2.0",
+          "14.2",
+          "16.6",
+          "720"
+        ],
+        [
+          "56038XX",
+          "95",
+          "456 x 0.50",
+          "12.5",
+          "0.210",
+          "2.2",
+          "16.0",
+          "18.7",
+          "955"
+        ],
+        [
+          "56041XX",
+          "120",
+          "608 x 0.50",
+          "14.2",
+          "0.164",
+          "2.2",
+          "17.6",
+          "20.6",
+          "1190"
+        ],
+        [
+          "56042XX",
+          "150",
+          "760 x 0.50",
+          "15.8",
+          "0.132",
+          "2.2",
+          "19.1",
+          "22.3",
+          "1440"
+        ],
+        [
+          "56044XX",
+          "185",
+          "888 x 0.50",
+          "17.5",
+          "0.108",
+          "2.4",
+          "20.9",
+          "24.4",
+          "1775"
+        ],
+        [
+          "56046XX",
+          "240",
+          "1184 x 0.50",
+          "20.1",
+          "0.0817",
+          "2.4",
+          "23.7",
+          "27.5",
+          "2260"
+        ],
+        [
+          "56048XX",
+          "300",
+          "1480 x 0.50",
+          "22.5",
+          "0.0654",
+          "2.4",
+          "25.6",
+          "30.1",
+          "2940"
+        ],
+        [
+          "56049XX",
+          "400",
+          "2013 x 0.50",
+          "25.8",
+          "0.0495",
+          "2.6",
+          "29.2",
+          "34.2",
+          "3885"
+        ]
+      ],
+      "catalogueNo": "560",
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 1800/3000V AC",
+          "Specification: BS EN 50264-3-1",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor: BS EN 60228, Class 5",
+          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, Class 5.",
+          "Insulation: EBXL - EI 109",
+          "Colour: Black or as per customer order"
+        ]
+      }
+    },
+    {
       "id": "7e6fbdd14a",
       "family": "rolling-stock",
       "name": "BS EN 50306-4 5P Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x mm2",
+        "No. of cores x Cross Section (Nos x mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
-        "Max. Conductor Resistance at 20°C Ω/km",
-        "Max. Core Diameter mm",
-        "Min. Sheath Thickness mm",
-        "Outer Diameter (Min) (mm)",
-        "Outer Diameter (Max) (mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Max. Core Diameter (mm)",
+        "Min. Sheath Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
         "Cable Weight (Kg/Km) approx."
       ],
       "rows": [
@@ -11527,13 +12122,13 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 5, Class P",
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification: BS EN 50306-4: 2020, Table 5, Class P",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Screened and Sheathed Pairs : EN 50306-3 : 2020",
-          "Conductor : BS EN 50306-2 : 2020",
-          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3,DIN 5510-2, NF F 16-101",
+          "Screened and Sheathed Pairs: EN 50306-3: 2020",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
           "NFPA -130, EN 45545"
         ],
         "application": [
@@ -11541,14 +12136,14 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed",
+          "Conductor: Finely Stranded Annealed",
           "Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Pair : Cores twisted and Screened",
-          "Screen : Tinned Copper Braid",
-          "Pair Sheath : EBXL - EM 104 (Black)",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Pair: Cores twisted and Screened",
+          "Screen: Tinned Copper Braid",
+          "Pair Sheath: EBXL - EM 104 (Black)",
           "Separator Tape",
-          "Outersheath : EBXL - EM 104",
+          "Outer sheath: EBXL - EM 104",
           "Black Colour or as per customer order."
         ]
       }
@@ -12414,13 +13009,13 @@
       "name": "BS EN 50306-4 1P Multi Core, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm 2)",
+        "No. of cores x Cross Section (Nos) x (mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Resistance at 20°C (Ω/km)",
         "Max. Core Diameter (mm)",
         "Min. Sheath Thickness (mm)",
-        "Outer Diameter (Min)",
-        "Outer Diameter (Max)",
+        "Min. Outer Diameter mm",
+        "Max. Outer Diameter (mm)",
         "Cable Weight (Kg/Km) approx."
       ],
       "rows": [
@@ -12792,12 +13387,12 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification :BS EN 50306-4 : 2020, Table 1 Class P",
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300V AC 450V DC",
+          "Specification:BS EN 50306-4: 2020, Table 1 Class P",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 50306-2 : 2020",
-          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2,NF F 16-101",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
           "NFPA -130, EN 45545"
         ],
         "application": [
@@ -12805,11 +13400,11 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed",
+          "Conductor: Finely Stranded Annealed",
           "Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Separator : Polyester Tape",
-          "Outersheath : EBXL- EM 104",
+          "Insulation: Cross Linked Ethylene Copolymer",
+          "Separator: Polyester Tape",
+          "Outer sheath: EBXL- EM 104",
           "Black colour or as per customer order."
         ]
       }
@@ -12820,13 +13415,13 @@
       "name": "BS EN 50306-4 5E Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
+        "No. of cores x Cross Section (Nos) x (mm²)",
         "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Resistance at 20°C (Ω/km)",
-        "Max. Core Diameter mm",
-        "Min. Sheath Thickness mm",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
+        "Max. Core Diameter (mm)",
+        "Min. Sheath Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
         "Cable Weight  approx. (Kg/Km)"
       ],
       "rows": [
@@ -13204,256 +13799,6 @@
           "Conductor : Finely Stranded Annealed Electro Tinned Copper, Flexible. (Unilay*)",
           "Insulation : EBXL - LSZH. (Code M)",
           "White colour or as per customer order."
-        ]
-      }
-    },
-    {
-      "id": "55db2e735e",
-      "family": "rolling-stock",
-      "name": "BS EN 50306-4 7P Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
-      "headers": [
-        "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
-        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
-        "Max. Conductor Resistance at 20°C (Ω/km)",
-        "Nom. Thickness of Overall Sheath (mm)",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
-        "Cable Weight (Kg/Km) approx."
-      ],
-      "rows": [
-        [
-          "RA5370602P",
-          "2 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "6.6",
-          "7.9",
-          "67"
-        ],
-        [
-          "RA5370603P",
-          "3 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "7.0",
-          "8.1",
-          "85"
-        ],
-        [
-          "RA5370604P",
-          "4 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "7.7",
-          "8.7",
-          "100"
-        ],
-        [
-          "RA5370607P",
-          "7 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "9.0",
-          "10.6",
-          "145"
-        ],
-        [
-          "RA5370802P",
-          "2 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "0.56",
-          "7.1",
-          "9.0",
-          "85"
-        ],
-        [
-          "RA5370803P",
-          "3 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "0.56",
-          "7.7",
-          "9.2",
-          "105"
-        ],
-        [
-          "RA5370804P",
-          "4 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "0.56",
-          "9.0",
-          "10.0",
-          "140"
-        ],
-        [
-          "RA5370807P",
-          "7 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "0.56",
-          "10.8",
-          "11.8",
-          "215"
-        ],
-        [
-          "RA5371002P",
-          "2 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "0.56",
-          "7.8",
-          "9.5",
-          "105"
-        ],
-        [
-          "RA5371003P",
-          "3 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "0.56",
-          "8.3",
-          "9.7",
-          "130"
-        ],
-        [
-          "RA5371004P",
-          "4 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "0.56",
-          "9.1",
-          "10.3",
-          "160"
-        ],
-        [
-          "RA5371007P",
-          "7 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "0.56",
-          "11.0",
-          "12.4",
-          "250"
-        ],
-        [
-          "RA5371302P",
-          "2 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "0.56",
-          "9.8",
-          "11.2",
-          "140"
-        ],
-        [
-          "RA5371303P",
-          "3 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "0.56",
-          "10.4",
-          "11.4",
-          "185"
-        ],
-        [
-          "RA5371304P",
-          "4 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "0.56",
-          "11.6",
-          "12.6",
-          "235"
-        ],
-        [
-          "RA5371307P",
-          "7 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "0.56",
-          "14.0",
-          "15.3",
-          "375"
-        ],
-        [
-          "B7460605P",
-          "5 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "8.3",
-          "9.5",
-          "115"
-        ],
-        [
-          "B7460606P",
-          "6 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "0.56",
-          "9.0",
-          "10.6",
-          "130"
-        ],
-        [
-          "B7460806P",
-          "6 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "0.56",
-          "10.8",
-          "11.8",
-          "200"
-        ]
-      ],
-      "catalogueNo": "RA537",
-      "info": {
-        "features": [
-          "Excellent resistance to high and low temperature",
-          "Outstanding Flame retardant",
-          "Halogen free",
-          "Thin walled with excellent flexibility",
-          "Resistance to oil, fuel, ozone and weathering.",
-          "Easy to strip",
-          "Low smoke density",
-          "Soldering iron resistant",
-          "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 7, Class P",
-          "Hazard Level Classification as per EN 45545-2, HL3",
-          "Screened and Sheathed Pairs : EN 50306-3 : 2020",
-          "Conductor : BS EN 50306-2 : 2020",
-          "In addition to BS EN 50306 spec, cables",
-          "also meet fire performance tests as per",
-          "UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
-          "NFPA -130, EN 45545"
-        ],
-        "application": [
-          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
-          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
-        ],
-        "construction": [
-          "Conductor : Finely Stranded Annealed",
-          "Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Pair : Cores twisted",
-          "General Screen : i) Tinned Copper Braid",
-          "ii) Wire dia ≥ 0.10 mm",
-          "iii) Filling Factor ≥ 0.55",
-          "Separator Tape",
-          "Outersheath : EBXL - EM 104",
-          "Black colour or as per customer order."
         ]
       }
     },
@@ -14305,234 +14650,6 @@
       }
     },
     {
-      "id": "60d9dc5aa7",
-      "family": "rolling-stock",
-      "name": "BS EN 50306-4 7E Multi Pair, Screened, 300V AC, 450V DC, EBXL 90°C Rolling Stock Cable",
-      "headers": [
-        "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
-        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
-        "Max. Conductor Resistance at 20°C (Ω/km)",
-        "Nom. Thickness of Overall Sheath (mm)",
-        "Outer Diameter (mm) (Min)",
-        "Outer Diameter (mm) (Max)",
-        "Cable Weight (Kg/Km) approx."
-      ],
-      "rows": [
-        [
-          "RA5380602P",
-          "2 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.0",
-          "7.1",
-          "8.9",
-          "84"
-        ],
-        [
-          "RA5380603P",
-          "3 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.0",
-          "7.5",
-          "9.1",
-          "100"
-        ],
-        [
-          "RA5380604P",
-          "4 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.0",
-          "8.3",
-          "9.7",
-          "125"
-        ],
-        [
-          "RA5380607P",
-          "7 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.0",
-          "9.6",
-          "11.6",
-          "180"
-        ],
-        [
-          "RA5380802P",
-          "2 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.0",
-          "7.6",
-          "10.0",
-          "105"
-        ],
-        [
-          "RA5380803P",
-          "3 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.0",
-          "8.2",
-          "10.2",
-          "125"
-        ],
-        [
-          "RA5380804P",
-          "4 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.0",
-          "9.5",
-          "10.8",
-          "155"
-        ],
-        [
-          "RA5380807P",
-          "7 X 2 X 0.75",
-          "37 X 0.16",
-          "26.7",
-          "1.0",
-          "11.4",
-          "12.8",
-          "235"
-        ],
-        [
-          "RA5381002P",
-          "2 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.0",
-          "8.3",
-          "10.5",
-          "120"
-        ],
-        [
-          "RA5381003P",
-          "3 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.0",
-          "8.8",
-          "10.7",
-          "145"
-        ],
-        [
-          "RA5381004P",
-          "4 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.0",
-          "9.6",
-          "11.3",
-          "180"
-        ],
-        [
-          "RA5381007P",
-          "7 X 2 X 1",
-          "37 X 0.18",
-          "20.0",
-          "1.0",
-          "11.6",
-          "13.4",
-          "270"
-        ],
-        [
-          "RA5381302P",
-          "2 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "1.0",
-          "10.3",
-          "12.2",
-          "170"
-        ],
-        [
-          "RA5381303P",
-          "3 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "1.0",
-          "11.0",
-          "12.4",
-          "210"
-        ],
-        [
-          "RA5381304P",
-          "4 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "1.0",
-          "12.1",
-          "13.1",
-          "255"
-        ],
-        [
-          "RA5381307P",
-          "7 X 2 X 1.5",
-          "37 X 0.23",
-          "13.7",
-          "1.0",
-          "14.5",
-          "16.3",
-          "415"
-        ],
-        [
-          "C2050606P",
-          "6 X 2 X 0.5",
-          "19 X 0.18",
-          "40.1",
-          "1.0",
-          "10.4",
-          "11.2",
-          "160"
-        ]
-      ],
-      "catalogueNo": "RA538",
-      "info": {
-        "features": [
-          "Excellent resistance to high and low temperature",
-          "Outstanding Flame retardant",
-          "Halogen free",
-          "Thin walled with excellent flexibility",
-          "Resistance to oil, fuel, ozone and weathering.",
-          "Easy to strip",
-          "Low smoke density",
-          "Soldering iron resistant",
-          "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300V AC 450V DC",
-          "Specification : BS EN 50306-4 : 2020, Table 7, Class E",
-          "Hazard Level Classification as per EN 45545-2, HL3",
-          "Screened and Sheathed Pairs : EN50306-3 : 2020",
-          "Conductor : BS EN 50306-2 : 2020",
-          "In addition to BS EN 50306 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
-          "NFPA -130, EN 45545"
-        ],
-        "application": [
-          "For mechanically exposed installation in Rail / Bus and other transport vehicles.",
-          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
-        ],
-        "construction": [
-          "Conductor : Finely Stranded Annealed",
-          "Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer",
-          "Pair : Cores twisted",
-          "General Screen : i) Tinned Copper Braid",
-          "ii) Wire dia ≥ 0.10 mm",
-          "iii) Filling Factor ≥ 0.55",
-          "Separator Tape",
-          "Outersheath : EBXL - EM 104",
-          "Black colour or as per customer order."
-        ]
-      }
-    },
-    {
       "id": "b2e86fcb64",
       "family": "rolling-stock",
       "name": "4 GKW Single Core, Sheathed, 1800/3000V AC, 2700/4500V DC, EBXL 120°C Rolling Stock Cable",
@@ -14805,6 +14922,564 @@
           "Insulation : EBXL - LSZH. (EI 110) Grey or as per customer order",
           "Outersheath : EBXL - LSZH. (EI109)",
           "Black colour or as per customer order"
+        ]
+      }
+    },
+    {
+      "id": "a0a5938840",
+      "family": "rolling-stock",
+      "name": "BS EN 50264-3-1 Single Core, 600/1000V AC, EBXL 90°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "Cross Section (mm²)",
+        "Conductor Construction \nNo. of Strands x Strand dia. (Nos x mm)",
+        "Nom. Conductor Diameter (mm)",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Min. Insulation Thickness (mm)",
+        "Nom. Insulation Thickness (mm)",
+        "Min. Outer Diameter (mm)",
+        "Max. Outer Diameter (mm)",
+        "Cable Weight approx (Kg/Km)",
+        "Current Rating at 45ºC (A)"
+      ],
+      "rows": [
+        [
+          "55910XX*",
+          "1",
+          "32 x 0.20",
+          "1.25",
+          "20.0",
+          "0.44",
+          "0.6",
+          "2.4",
+          "2.8",
+          "15",
+          "20"
+        ],
+        [
+          "55913XX",
+          "1.5",
+          "30 x 0.25",
+          "1.5",
+          "13.7",
+          "0.53",
+          "0.7",
+          "2.8",
+          "3.3",
+          "20",
+          "25"
+        ],
+        [
+          "55916XX",
+          "2.5",
+          "50 x 0.25",
+          "1.95",
+          "8.21",
+          "0.53",
+          "0.7",
+          "3.2",
+          "3.8",
+          "30",
+          "33"
+        ],
+        [
+          "55919XX",
+          "4",
+          "56 x 0.30",
+          "2.5",
+          "5.09",
+          "0.53",
+          "0.7",
+          "3.8",
+          "4.4",
+          "45",
+          "46"
+        ],
+        [
+          "55923XX",
+          "6",
+          "84 x 0.30",
+          "3.0",
+          "3.39",
+          "0.53",
+          "0.7",
+          "4.2",
+          "5.0",
+          "65",
+          "60"
+        ],
+        [
+          "55927XX",
+          "10",
+          "80 x 0.40",
+          "3.9",
+          "1.95",
+          "0.53",
+          "0.7",
+          "5.1",
+          "5.9",
+          "105",
+          "85"
+        ],
+        [
+          "55928XX",
+          "16",
+          "126 x 0.40",
+          "5.0",
+          "1.24",
+          "0.53",
+          "0.7",
+          "6.1",
+          "7.2",
+          "155",
+          "110"
+        ],
+        [
+          "55930XX",
+          "25",
+          "196 x 0.40",
+          "6.4",
+          "0.795",
+          "0.71",
+          "0.9",
+          "7.8",
+          "9.1",
+          "250",
+          "150"
+        ],
+        [
+          "55932XX",
+          "35",
+          "276 x 0.40",
+          "7.7",
+          "0.565",
+          "0.71",
+          "0.9",
+          "9.0",
+          "10.6",
+          "330",
+          "190"
+        ],
+        [
+          "55934XX",
+          "50",
+          "396 x 0.40",
+          "9.2",
+          "0.393",
+          "0.80",
+          "1.0",
+          "10.6",
+          "12.4",
+          "465",
+          "240"
+        ],
+        [
+          "55937XX",
+          "70",
+          "360 x 0.50",
+          "11.0",
+          "0.277",
+          "0.89",
+          "1.1",
+          "12.5",
+          "14.6",
+          "635",
+          "300"
+        ],
+        [
+          "55938XX",
+          "95",
+          "475 x 0.50",
+          "12.5",
+          "0.210",
+          "0.89",
+          "1.1",
+          "13.9",
+          "16.3",
+          "870",
+          "360"
+        ],
+        [
+          "55941XX",
+          "120",
+          "608 x 0.50",
+          "14.2",
+          "0.164",
+          "0.98",
+          "1.2",
+          "15.7",
+          "18.4",
+          "1090",
+          "425"
+        ],
+        [
+          "55942XX",
+          "150",
+          "756 x 0.50",
+          "15.8",
+          "0.132",
+          "1.16",
+          "1.4",
+          "17.6",
+          "20.6",
+          "1365",
+          "490"
+        ],
+        [
+          "55944XX",
+          "185",
+          "925 x 0.50",
+          "17.5",
+          "0.108",
+          "1.34",
+          "1.6",
+          "19.6",
+          "22.9",
+          "1780",
+          "560"
+        ],
+        [
+          "55946XX",
+          "240",
+          "1221 x 0.50",
+          "20.1",
+          "0.0817",
+          "1.43",
+          "1.7",
+          "22.2",
+          "26.0",
+          "2165",
+          "675"
+        ],
+        [
+          "55948XX",
+          "300",
+          "1525 x 0.50",
+          "22.5",
+          "0.0654",
+          "1.52",
+          "1.8",
+          "24.6",
+          "28.8",
+          "2850",
+          "775"
+        ],
+        [
+          "55949XX",
+          "400",
+          "2013 x 0.50",
+          "25.8",
+          "0.0495",
+          "1.70",
+          "2.0",
+          "28.1",
+          "32.9",
+          "3800",
+          "950"
+        ],
+        [
+          "C20306XX",
+          "0.5",
+          "16 x 0.20",
+          "0.90",
+          "40.1",
+          "0.35",
+          "0.5",
+          "2.10",
+          "2.30",
+          "10",
+          "11"
+        ],
+        [
+          "C20308XX",
+          "0.75",
+          "24 x 0.20",
+          "1.10",
+          "26.7",
+          "0.44",
+          "0.6",
+          "2.2",
+          "2.6",
+          "14",
+          "13"
+        ]
+      ],
+      "catalogueNo": "559",
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 600/1000V AC",
+          "Specification: BS EN 50264-3-1",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor: BS EN 60228, Class 5",
+          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101",
+          "NFPA -130",
+          "EN 45545"
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, Class 5.",
+          "Separator: Polyester tape (Optional)",
+          "Insulation: EBXL - EI 109 (Dual wall)",
+          "Colour: Black or as per customer order"
+        ]
+      }
+    },
+    {
+      "id": "a478079c97",
+      "family": "rolling-stock",
+      "name": "Sietrans GKW S EMC FS 180 Fire Resistant Cables",
+      "headers": [
+        "Part Number",
+        "No. of Cores X Cross Section (Nos) X (mm 2)",
+        "Conductor Construction No of Strands X Strand Dia. (Nos) X",
+        "Nominal Conductor Diameter",
+        "Max Conductor Resistance at 20 0C",
+        "Nominal Overall Diamet e r",
+        "Cable Weight (Kg/Km) Approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "mm",
+          "mm",
+          "Ω/km",
+          "mm",
+          ""
+        ],
+        [
+          "A5471314",
+          "14 X 1.5",
+          "30 X 0.25",
+          "1.59",
+          "13.7",
+          "17.0 ± 1.7",
+          "515"
+        ],
+        [
+          "A5471316",
+          "16 X 1.5",
+          "30 X 0.25",
+          "1.59",
+          "13.7",
+          "18.0 ± 1.8",
+          "580"
+        ],
+        [
+          "A5471320",
+          "20 X 1.5",
+          "30 X 0.25",
+          "1.59",
+          "13.7",
+          "20.0 ± 2.0",
+          "710"
+        ],
+        [
+          "A5471324",
+          "24 X 1.5",
+          "30 X 0.25",
+          "1.59",
+          "13.7",
+          "22.2 ± 2.2",
+          "850"
+        ],
+        [
+          "A5471327",
+          "27 X 1.5",
+          "30 X 0.25",
+          "1.59",
+          "13.7",
+          "22.7 ± 2.3",
+          "925"
+        ],
+        [
+          "A5471602",
+          "2 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "9.7 ± 1.0",
+          "165"
+        ],
+        [
+          "A5471603",
+          "3 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "10.3 ± 1.0",
+          "200"
+        ],
+        [
+          "A5471604",
+          "4 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "11.4 ± 1.1",
+          "250"
+        ],
+        [
+          "A5471605",
+          "5 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "12.6 ± 1.3",
+          "295"
+        ],
+        [
+          "A5471606",
+          "6 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "13.8 ± 1.4",
+          "350"
+        ],
+        [
+          "A5471607",
+          "7 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "14.0 ± 1.4",
+          "380"
+        ],
+        [
+          "A5471608",
+          "8 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "15.6 ± 1.6",
+          "450"
+        ],
+        [
+          "A5471609",
+          "9 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "17.0 ± 1.7",
+          "510"
+        ],
+        [
+          "A5471610",
+          "10 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "17.8 ± 1.8",
+          "560"
+        ],
+        [
+          "A5471612",
+          "12 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "18.5 ± 1.9",
+          "640"
+        ],
+        [
+          "A5471612G",
+          "12G X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "18.5 ± 1.9",
+          "640"
+        ],
+        [
+          "A5471614",
+          "14 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "19.5 ± 2.0",
+          "725"
+        ],
+        [
+          "A5471616",
+          "16 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "20.7 ± 2.1",
+          "815"
+        ],
+        [
+          "A5471620",
+          "20 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "23.1 ± 2.3",
+          "1000"
+        ],
+        [
+          "A5471624",
+          "24 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "25.6 ± 2.6",
+          "1200"
+        ],
+        [
+          "A5471627",
+          "27 X 2.5",
+          "50 X 0.25",
+          "2.05",
+          "8.21",
+          "26.2 ± 2.6",
+          "1315"
+        ]
+      ],
+      "catalogueNo": "A547",
+      "info": {
+        "features": [
+          "Maintains circuit integrity for 3 hours under fire condition.",
+          "High temperature resistance for use -40°C up to +120°C",
+          "Advance performance halogen free",
+          "Oil and fuel resistance",
+          "Electron beam cross-linked",
+          "Halogen free",
+          "Fire resistance"
+        ],
+        "application": [
+          "For protected installation inside & outside of rail vehicles and buses.",
+          "These cables also maintain their function over a limited period in the event of a fire and are suitable for connecting fixed and moving parts such as",
+          "emergency lamps, flue gas outlets and switchgear.",
+          "Fire Survival applications."
+        ],
+        "construction": [
+          "Conductor : Annealed Tinned Flexible Copper Conductor",
+          "Flame Barrier : Phlogopite Tape",
+          "Insulation : Electron Beam Cross Linked Polyolefin Copolymer (EI 109 acc. to EN 50264-1& EN 50306-1)",
+          "Insulation Colour : Grey Core with Number Printing",
+          "ü Flame Barrier : Phlogopite Tape",
+          "Shielding : Annealed Tinned Copper",
+          "Flame Barrier : Phlogopite Tape",
+          "Outer Sheath : Electron Beam Cross Linked Elastomer Compound (EM 104 acc. to EN 50264-1& EN 50306-1)",
+          "Sheath Colour : Black"
         ]
       }
     }

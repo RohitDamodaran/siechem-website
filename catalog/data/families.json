@@ -494,6 +494,246 @@
         {
           "code": "21",
           "name": "Pink"
+        },
+        {
+          "code": "24",
+          "name": "Red-Black"
+        },
+        {
+          "code": "25",
+          "name": "Red-Orange"
+        },
+        {
+          "code": "26",
+          "name": "Yellow-Blue"
+        },
+        {
+          "code": "27",
+          "name": "Yellow-Pink"
+        },
+        {
+          "code": "28",
+          "name": "Yellow-White"
+        },
+        {
+          "code": "29",
+          "name": "Green-Yellow"
+        },
+        {
+          "code": "30",
+          "name": "Blue-Black"
+        },
+        {
+          "code": "31",
+          "name": "Blue-Red"
+        },
+        {
+          "code": "32",
+          "name": "Blue-Yellow"
+        },
+        {
+          "code": "33",
+          "name": "Blue-Green"
+        },
+        {
+          "code": "36",
+          "name": "Black-Blue"
+        },
+        {
+          "code": "37",
+          "name": "Black-Green"
+        },
+        {
+          "code": "38",
+          "name": "Black-Orange"
+        },
+        {
+          "code": "40",
+          "name": "Black-White"
+        },
+        {
+          "code": "41",
+          "name": "Black-Yellow"
+        },
+        {
+          "code": "42",
+          "name": "Green-Black"
+        },
+        {
+          "code": "43",
+          "name": "Green-Red"
+        },
+        {
+          "code": "44",
+          "name": "Green-Grey"
+        },
+        {
+          "code": "45",
+          "name": "Green-Brown"
+        },
+        {
+          "code": "46",
+          "name": "Grey-White"
+        },
+        {
+          "code": "47",
+          "name": "Grey-Red"
+        },
+        {
+          "code": "48",
+          "name": "Grey-Violet"
+        },
+        {
+          "code": "49",
+          "name": "Grey-Black"
+        },
+        {
+          "code": "50",
+          "name": "Grey-Blue"
+        },
+        {
+          "code": "51",
+          "name": "Grey-Green"
+        },
+        {
+          "code": "52",
+          "name": "Brown-Blue"
+        },
+        {
+          "code": "53",
+          "name": "Brown-Grey"
+        },
+        {
+          "code": "54",
+          "name": "Brown-Red"
+        },
+        {
+          "code": "55",
+          "name": "Brown-Orange"
+        },
+        {
+          "code": "56",
+          "name": "Brown-Black"
+        },
+        {
+          "code": "57",
+          "name": "Brown-Yellow"
+        },
+        {
+          "code": "58",
+          "name": "Brown-White"
+        },
+        {
+          "code": "59",
+          "name": "Brown-Green"
+        },
+        {
+          "code": "60",
+          "name": "White-Orange"
+        },
+        {
+          "code": "61",
+          "name": "White-Beige"
+        },
+        {
+          "code": "62",
+          "name": "White-Black"
+        },
+        {
+          "code": "63",
+          "name": "White-Brown"
+        },
+        {
+          "code": "64",
+          "name": "White-Blue"
+        },
+        {
+          "code": "65",
+          "name": "White-Grey"
+        },
+        {
+          "code": "66",
+          "name": "White-Red"
+        },
+        {
+          "code": "67",
+          "name": "Orange-Black"
+        },
+        {
+          "code": "68",
+          "name": "Orange-Grey"
+        },
+        {
+          "code": "69",
+          "name": "Orange-Brownn"
+        },
+        {
+          "code": "70",
+          "name": "Orange-Blue"
+        },
+        {
+          "code": "71",
+          "name": "Orange-Green"
+        },
+        {
+          "code": "72",
+          "name": "Orange-Red"
+        },
+        {
+          "code": "73",
+          "name": "Orange-White"
+        },
+        {
+          "code": "75",
+          "name": "Violet-Grey"
+        },
+        {
+          "code": "76",
+          "name": "Violet-Blue"
+        },
+        {
+          "code": "77",
+          "name": "Violet-Green"
+        },
+        {
+          "code": "83",
+          "name": "Pink-White"
+        },
+        {
+          "code": "84",
+          "name": "Beige-White"
+        },
+        {
+          "code": "86",
+          "name": "Beige-Blue"
+        },
+        {
+          "code": "87",
+          "name": "Beige-Green"
+        },
+        {
+          "code": "88",
+          "name": "Beige-Grey"
+        },
+        {
+          "code": "89",
+          "name": "Beige-Orange"
+        },
+        {
+          "code": "93",
+          "name": "Red-Green"
+        },
+        {
+          "code": "94",
+          "name": "Red-Yellow"
+        },
+        {
+          "code": "95",
+          "name": "Yellow-Red"
+        },
+        {
+          "code": "96",
+          "name": "Yellow-Black"
         }
       ],
       "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering."
@@ -2310,7 +2550,7 @@
       "sourcePdfs": [
         "Rolling Stock cable updated.pdf"
       ],
-      "seriesCount": 46,
+      "seriesCount": 48,
       "voltBuckets": [
         "1.1–3.3kV",
         "300–750V",
