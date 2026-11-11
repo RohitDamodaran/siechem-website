@@ -6592,7 +6592,8 @@
           "Low smoke density",
           "Soldering iron resistant",
           "Electron Beam Cross Linked.",
-          "Resistance to corona effect."
+          "Resistance to corona effect.",
+          "Long service life of more than 30 years with optimized life-cycle cost"
         ],
         "technical": [
           "Temperature Range : -40°C to +105°C.",
@@ -7860,7 +7861,7 @@
       "name": "BS EN 50306-3 Single and Multi Core, Screened, 300 V AC, EBXL 90°C Rolling Stock Cable",
       "headers": [
         "Part Number",
-        "No. of cores x Cross Section (Nos) x (mm2)",
+        "No. of cores x Cross Section (Nos) x (mm²)",
         "Conductor Construction No. of Strands x Strand dia. (Nos x mm)",
         "Max. Conductor Resistance at 20°C (Ω/km)",
         "Max. Core Diameter (mm)",
@@ -8206,12 +8207,12 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
-          "Insulation : Cross Linked Ethylene Copolymer (White)",
-          "Screen : i) Tinned Copper Braid",
-          "ii) Wire dia ≥ 0.10 mm",
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation: Cross Linked Ethylene Copolymer (White)",
+          "Screen: i) Tinned Copper Braid",
+          "ii) Wire diameter ≥ 0.10 mm",
           "iii) Filling Factor ≥ 0.55",
-          "Outer sheath : EBXL - Type S2 (Black)"
+          "Outer sheath: EBXL - Type S2 (Black)"
         ]
       }
     },
@@ -8980,6 +8981,134 @@
           "Separator Tape",
           "Outersheath : EBXL - EM 104",
           "Black colour or as per customer order"
+        ]
+      }
+    },
+    {
+      "id": "new-mwbqo2iz",
+      "family": "rolling-stock",
+      "name": "BS EN 50306-2, Single Core, 300 V AC, EBXL 105°C Rolling Stock Cable",
+      "headers": [
+        "Part Number",
+        "Cross Section (mm2)",
+        "Conductor Construction No.of Strands x Strand dia. (Nos x mm)",
+        "Max. Conductor Diameter mm",
+        "Max. Conductor Resistance at 20°C (Ω/km)",
+        "Min. Insulation Thickness mm",
+        "Outer Diameter (mm) (Min)",
+        "Outer Diameter (Max(mm) (Max)",
+        "Cable Weight (Kg/Km) approx."
+      ],
+      "rows": [
+        [
+          "C70606XX*",
+          "0.5",
+          "19 X 0.18",
+          "0.95",
+          "40.1",
+          "0.18",
+          "1.15",
+          "1.45",
+          "6"
+        ],
+        [
+          "C70608XX",
+          "0.75",
+          "37 X 0.16",
+          "1.15",
+          "26.7",
+          "0.18",
+          "1.35",
+          "1.65",
+          "8"
+        ],
+        [
+          "C70610XX",
+          "1.0",
+          "37 X 0.18",
+          "1.23",
+          "20.0",
+          "0.18",
+          "1.40",
+          "1.80",
+          "10"
+        ],
+        [
+          "C706A24XX",
+          "1.2",
+          "19 x 0.29",
+          "1.41",
+          "15.8",
+          "0.20",
+          "1.80",
+          "2.10",
+          "13"
+        ],
+        [
+          "C70613XX",
+          "1.5",
+          "37 X 0.23",
+          "1.58",
+          "13.7",
+          "0.22",
+          "1.90",
+          "2.30",
+          "15"
+        ],
+        [
+          "C70616XX",
+          "2.5",
+          "37 X 0.30",
+          "2.01",
+          "8.21",
+          "0.28",
+          "2.45",
+          "2.85",
+          "25"
+        ],
+        [
+          "C70619XX",
+          "4.0",
+          "56 x 0.30",
+          "2.57",
+          "4.89",
+          "0.28",
+          "2.90",
+          "3.25",
+          "42"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Excellent resistance to high and low temperature",
+          "Outstanding Flame retardant",
+          "Halogen free",
+          "Thin walled with excellent flexibility",
+          "Resistance to oil, fuel, ozone and weathering.",
+          "Easy to strip",
+          "Low smoke density",
+          "Soldering iron resistant",
+          "Electron Beam Cross Linked.",
+          "Resistance to corona effect.",
+          "Long service life of more than 30 years with optimized life-cycle cost"
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +105°C.",
+          "Rated Voltage: 300 V AC",
+          "Specification: BS EN 50306-2: 2020",
+          "Hazard Level Classification as per EN 45545-2, HL3",
+          "Conductor: BS EN 50306-2: 2020",
+          "In addition to BS EN 50264 spec, cables also meet fire performance tests as per EN 45545-2,R15/R16-HL3 (equivalent to BS 6853)",
+          "In-house test facility available for all tests as per relevant EN Specs."
+        ],
+        "application": [
+          "For mechanically protected installation in Rail / Bus and other transport vehicles.",
+          "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
+        ],
+        "construction": [
+          "Conductor : Finely Stranded Annealed Electro Tinned Copper, (Unilay*)",
+          "Insulation : Cross Linked Ethylene Copolymer",
+          "Colour : White or as per customer order."
         ]
       }
     },

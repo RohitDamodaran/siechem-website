@@ -112,7 +112,7 @@
           "name": "Violet"
         }
       ],
-      "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog."
+      "colorNote": "Note: XX* & YY*: Please add last two digits in the part number as per the colour code given hereunder replacing XX &YY while ordering."
     },
     {
       "id": "aero-55",
@@ -2310,7 +2310,7 @@
       "sourcePdfs": [
         "Rolling Stock cable updated.pdf"
       ],
-      "seriesCount": 45,
+      "seriesCount": 46,
       "voltBuckets": [
         "1.1–3.3kV",
         "300–750V",
