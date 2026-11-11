@@ -293,6 +293,1291 @@
       }
     },
     {
+      "id": "6fb1927d92",
+      "family": "automotive",
+      "name": "Automotive Cables",
+      "headers": [
+        "S.NO",
+        ". Type",
+        "Conductor",
+        "Insulation",
+        "Spec",
+        "Temp. Range",
+        "Catalogue"
+      ],
+      "rows": [
+        [
+          "1",
+          "AV",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JIS C 3406",
+          "-400C to +800C",
+          "801"
+        ],
+        [
+          "2",
+          "AV-f",
+          "Soft annealed flexible copper conductor",
+          "PVC",
+          "JIS C 3406",
+          "-400C to +800C",
+          "802"
+        ],
+        [
+          "3",
+          "AVS",
+          "Soft annealed copper conductor",
+          "PVC Thin type",
+          "JASO D 611",
+          "-400C to +800C",
+          "803"
+        ],
+        [
+          "4",
+          "AVS- f",
+          "Soft annealed flexible copper conductor",
+          "PVC Thin type",
+          "JASO D 611",
+          "-400C to +800C",
+          "804"
+        ],
+        [
+          "5",
+          "AVSS",
+          "Soft annealed copper conductor",
+          "PVC Super thin type",
+          "JASO D 611",
+          "-400C to +800C",
+          "805"
+        ],
+        [
+          "6",
+          "AVSS- f",
+          "Soft annealed flexible copper conductor",
+          "PVC Super thin type",
+          "JASO D 611",
+          "-400C to +800C",
+          "806"
+        ],
+        [
+          "7",
+          "AVSSH -f",
+          "Soft annealed flexible copper conductor",
+          "HR PVC Super Thin type",
+          "JASO D 611",
+          "-400C to +1000C",
+          "808"
+        ],
+        [
+          "8",
+          "AVSSX",
+          "Soft annealed copper conductor",
+          "EBXL - PVC Super thin type",
+          "JASO D 608",
+          "-400C to +1000C",
+          "809"
+        ],
+        [
+          "9",
+          "AVSSX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - PVC Super thin type",
+          "JASO D 611",
+          "-400C to +1000C",
+          "810"
+        ],
+        [
+          "10",
+          "AVX",
+          "Soft annealed copper conductor",
+          "EBXL - PVC",
+          "JASO D 608",
+          "-400C to +1000C",
+          "811"
+        ],
+        [
+          "11",
+          "AVX- f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - PVC",
+          "JASO D 608",
+          "-400C to +1000C",
+          "812"
+        ],
+        [
+          "12",
+          "AEX",
+          "Soft annealed copper conductor",
+          "EBXL - XLPE",
+          "JASO D 608",
+          "-400C to +1200C",
+          "813"
+        ],
+        [
+          "13",
+          "AEX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - XLPE",
+          "JASO D 608",
+          "-400C to +1200C",
+          "814"
+        ],
+        [
+          "14",
+          "AESSX",
+          "Soft annealed copper conductor",
+          "EBXL -XLPE Super Thin Type",
+          "JASO D 608",
+          "-400C to +1200C",
+          "815"
+        ],
+        [
+          "15",
+          "AESSX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL -XLPE Super Thin Type",
+          "JASO D 611",
+          "-400C to +1200C",
+          "816"
+        ],
+        [
+          "16",
+          "CPE-FR",
+          "Soft annealed copper conductor",
+          "EBXL - FR CPE 125",
+          "ISO 6722",
+          "-400C to +1250C",
+          "826"
+        ],
+        [
+          "17",
+          "CPE -FR TW",
+          "Soft annealed copper conductor",
+          "EBXL - FR CPE 125",
+          "ISO 6722",
+          "-400C to +1250C",
+          "A826"
+        ],
+        [
+          "18",
+          "EB",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-400C to +800C",
+          "831"
+        ],
+        [
+          "19",
+          "HEB",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-400C to +800C",
+          "870"
+        ],
+        [
+          "20",
+          "HDEB",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-400C to +800C",
+          "832"
+        ],
+        [
+          "21",
+          "EEX/EEXF",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-400C to +1200C",
+          "C384"
+        ],
+        [
+          "22",
+          "EEHX/EEHX-f",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-400C to +1200C",
+          "C385"
+        ],
+        [
+          "23",
+          "EEXXS/EEXBS-f",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-400C to +1200C",
+          "C394"
+        ],
+        [
+          "24",
+          "EEHXSBS-f",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-400C to +1500C",
+          "C397"
+        ],
+        [
+          "21",
+          "LOW VOLTAGE AUTO CABLE",
+          "Soft annealde copper conductor",
+          "PVC",
+          "IS 2465",
+          "-400C to +700C",
+          "829"
+        ],
+        [
+          "22",
+          "HEAVY DUTY BATTERY CABLE",
+          "Soft annealde copper conductor",
+          "PVC",
+          "IS 2 465",
+          "-400C to +700C",
+          "830"
+        ],
+        [
+          "26",
+          "GPT",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J1128",
+          "-400C to +850C",
+          "A880"
+        ],
+        [
+          "27",
+          "HDT",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J1128",
+          "-400C to +850C",
+          "A881"
+        ],
+        [
+          "28",
+          "TWP",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J1128",
+          "-400C to +850C",
+          "851"
+        ],
+        [
+          "29",
+          "TXL",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO",
+          "SAE J1128",
+          "-400C to +1250C",
+          "819/C819"
+        ],
+        [
+          "30",
+          "GXL",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO",
+          "SAE J1128",
+          "-400C to +1250C",
+          "820/C820"
+        ],
+        [
+          "31",
+          "SXL",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO",
+          "SAE J1128",
+          "-400C to +1250C",
+          "821/C821"
+        ],
+        [
+          "32",
+          "STT",
+          "Soft annealed copper conductor",
+          "Thin wall thermoplastic",
+          "SAE J1127",
+          "-400C to +800C",
+          "824"
+        ],
+        [
+          "33",
+          "SGT",
+          "Soft annealed copper conductor",
+          "General purpose thermoplastic",
+          "SAE J1127",
+          "-400C to +800C",
+          "825"
+        ],
+        [
+          "34",
+          "STX",
+          "Soft annealed copper conductor",
+          "Thin wall XLPO",
+          "SAE J1127",
+          "-400C to +1250C",
+          "822"
+        ],
+        [
+          "35",
+          "SGX",
+          "Soft annealed copper conductor",
+          "General purpose XLPO",
+          "SAE J1127",
+          "-400C to +1250C",
+          "823"
+        ],
+        [
+          "36",
+          "WTA",
+          "Soft annealed copper conductor",
+          "Ultra thin wall PVC",
+          "SAE J1678",
+          "-400C to +850C",
+          "A882"
+        ],
+        [
+          "37",
+          "WXC",
+          "Soft annealed copper conductor",
+          "Ultra thin wall XLPE",
+          "SAE J1678",
+          "-400C to +1250C",
+          "A883"
+        ],
+        [
+          "37",
+          "RK",
+          "Soft annealed copper conductor",
+          "PVC Class TI 1",
+          "Volvo type",
+          "Upto +700C",
+          "868"
+        ],
+        [
+          "38",
+          "RXKB",
+          "Soft annealed copper conductor",
+          "HFFR XLPE",
+          "Volvo type",
+          "Upto +1000C",
+          "867"
+        ],
+        [
+          "39",
+          "R2",
+          "soft annealed copper conductor",
+          "P VC temp. Class B",
+          "V olvo type",
+          "Upto +1000C",
+          "865"
+        ],
+        [
+          "40",
+          "R4",
+          "Soft annealed copper conductor",
+          "PVC temp. Class D",
+          "Volvo type",
+          "Upto +1500C",
+          "866"
+        ],
+        [
+          "42",
+          "Auto 85",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722, Class A",
+          "ISO 6722",
+          "-400C to +850C",
+          "A822"
+        ],
+        [
+          "43",
+          "Auto 85 -TW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722,Class A",
+          "ISO 6722",
+          "-400C to +850C",
+          "A823"
+        ],
+        [
+          "44",
+          "Auto 85- UTW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722,Class A",
+          "ISO 6722",
+          "-400C to +850C",
+          "A824"
+        ],
+        [
+          "45",
+          "Auto 100",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722,Class B",
+          "ISO 6722",
+          "-400C to +1000C",
+          "A831"
+        ],
+        [
+          "46",
+          "Auto 100 TW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722,Class B",
+          "ISO 6722",
+          "-400C to +1000C",
+          "A832"
+        ],
+        [
+          "47",
+          "Auto 100 UTW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722,Class B",
+          "ISO 6722",
+          "-400C to +1000C",
+          "A833"
+        ],
+        [
+          "48",
+          "Auto 125",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class C",
+          "ISO 6722, Class C",
+          "-400C to +1250C",
+          "A810"
+        ],
+        [
+          "49",
+          "Auto 125- TW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class C",
+          "ISO 6722, Class C",
+          "-400C to +1250C",
+          "A811"
+        ],
+        [
+          "50",
+          "Auto 125 -UTW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class C",
+          "ISO 6722, Class C",
+          "-400C to +1250C",
+          "A812"
+        ],
+        [
+          "51",
+          "Auto 150",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class D",
+          "ISO 6722, Class D",
+          "-400C to +1500C",
+          "A813"
+        ],
+        [
+          "52",
+          "FLR91X-A",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class D",
+          "ISO 6722, Class D",
+          "-400C to +1500C",
+          "A814"
+        ],
+        [
+          "53",
+          "FLR91X-B",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class D",
+          "ISO 6722, Class D",
+          "-400C to +1500C",
+          "A808"
+        ],
+        [
+          "54",
+          "Auto 150 -UTW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 Class D",
+          "ISO 6722, Class D",
+          "-400C to +1500C",
+          "A815"
+        ],
+        [
+          "55",
+          "T4 Class D",
+          "www.sieche Soft annealed copper conductor",
+          "mEB.XcLo Smpecially Formulated, Copolymer",
+          "ISO 6722, Class D",
+          "-400C to +1500C",
+          "A700"
+        ],
+        [
+          "1",
+          "AV",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JIS C 3406",
+          "-40°C to +80°C",
+          "801"
+        ],
+        [
+          "2",
+          "AV-f",
+          "Soft annealed flexible copper conductor",
+          "PVC",
+          "JIS C 3406",
+          "-40°C to +80°C",
+          "802"
+        ],
+        [
+          "3",
+          "AVS",
+          "Soft annealed copper conductor",
+          "PVC Thin type",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "803"
+        ],
+        [
+          "4",
+          "AVS-f",
+          "Soft annealed flexible copper conductor",
+          "PVC Thin type",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "804"
+        ],
+        [
+          "5",
+          "AVSS",
+          "Soft annealed copper conductor",
+          "PVC Super thin type",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "805"
+        ],
+        [
+          "6",
+          "AVSS-f",
+          "Soft annealed flexible copper conductor",
+          "PVC Super thin type",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "806"
+        ],
+        [
+          "7",
+          "AVSSH-f",
+          "Soft annealed flexible copper conductor",
+          "HR PVC Super Thin type",
+          "JASO D 611",
+          "-40°C to +100°C",
+          "808"
+        ],
+        [
+          "8",
+          "AVSSX",
+          "Soft annealed copper conductor",
+          "EBXL - PVC Super thin type",
+          "JASO D 608",
+          "-40°C to +100°C",
+          "809"
+        ],
+        [
+          "9",
+          "AVSSX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - PVC Super thin type",
+          "JASO D 611",
+          "-40°C to +100°C",
+          "810"
+        ],
+        [
+          "10",
+          "AVX",
+          "Soft annealed copper conductor",
+          "EBXL - PVC",
+          "JASO D 608",
+          "-40°C to +100°C",
+          "811"
+        ],
+        [
+          "11",
+          "AVX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - PVC",
+          "JASO D 608",
+          "-40°C to +100°C",
+          "812"
+        ],
+        [
+          "12",
+          "AEX",
+          "Soft annealed copper conductor",
+          "EBXL - XLPE",
+          "JASO D 608",
+          "-40°C to +120°C",
+          "813"
+        ],
+        [
+          "13",
+          "AEX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - XLPE",
+          "JASO D 608",
+          "-40°C to +120°C",
+          "814"
+        ],
+        [
+          "14",
+          "AESSX",
+          "Soft annealed copper conductor",
+          "EBXL - XLPE Super Thin Type",
+          "JASO D 608",
+          "-40°C to +120°C",
+          "815"
+        ],
+        [
+          "15",
+          "AESSX-f",
+          "Soft annealed flexible copper conductor",
+          "EBXL - XLPE Super Thin Type",
+          "JASO D 611",
+          "-40°C to +120°C",
+          "816"
+        ],
+        [
+          "16",
+          "EB",
+          "Soft annealed copper conductor",
+          "Lead free PVC",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "831"
+        ],
+        [
+          "17",
+          "HEB",
+          "Soft annealed copper conductor",
+          "Lead free PVC",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "870"
+        ],
+        [
+          "18",
+          "HDEB",
+          "Soft annealed copper conductor",
+          "Lead free PVC",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "832"
+        ],
+        [
+          "19",
+          "EEX/EEXF",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-40°C to +120°C",
+          "C396/C384"
+        ],
+        [
+          "20",
+          "EEHX/EEHX-f",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-40°C to +150°C",
+          "C387"
+        ],
+        [
+          "21",
+          "EEXS/EEXBS-f/EEXS/EEXBS",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-40°C to +120°C",
+          "C385/C397"
+        ],
+        [
+          "22",
+          "EEHXBSX",
+          "Soft annealed copper conductor",
+          "EBXL",
+          "JASO D 624",
+          "-40°C to +150°C",
+          "C395"
+        ],
+        [
+          "23",
+          "EX30",
+          "Soft annealed copper conductor",
+          "XLPE-150°C",
+          "JASO D 624",
+          "-40°C to +150°C",
+          "C296"
+        ],
+        [
+          "24",
+          "Auto DIVUS (CIVUS) Cable",
+          "Soft annealed Tinned copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-40°C to +85°C",
+          "C256"
+        ],
+        [
+          "25",
+          "CAVUS",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "C398"
+        ],
+        [
+          "26",
+          "CAVS",
+          "Soft annealed copper conductor",
+          "PVC",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "C422"
+        ],
+        [
+          "27",
+          "APEX-BS",
+          "Soft annealed copper conductor",
+          "XLPE insulation, PVC Sheath",
+          "JASO D 611, ES Spec",
+          "-40°C to +120°C",
+          "C424"
+        ],
+        [
+          "28",
+          "AEX-BS",
+          "Soft annealed copper conductor",
+          "XLPE insulation, PVC Sheath",
+          "JASO D 608, ES Spec",
+          "-40°C to +120°C",
+          "C425"
+        ],
+        [
+          "29",
+          "HAEXF",
+          "Soft annealed Tinned copper conductor",
+          "XLPE",
+          "JASO D 608",
+          "-40°C to +150°C",
+          "C428"
+        ],
+        [
+          "30",
+          "Metal-Leaf Shielded Camera",
+          "Soft annealed copper conductor",
+          "HDPE",
+          "JASO D 611",
+          "-40°C to +80°C",
+          "A795"
+        ],
+        [
+          "31",
+          "Low Voltage Auto Cable",
+          "Soft annealed copper conductor",
+          "Lead free PVC",
+          "IS 2465",
+          "-40°C to +70°C",
+          "829"
+        ],
+        [
+          "32",
+          "Extra Flexible Battery Cable",
+          "Soft annealed flexible copper conductor",
+          "PVC",
+          "ISO 6722-1",
+          "-30°C to +70°C",
+          "B806"
+        ],
+        [
+          "33",
+          "Heavy Duty Battery Cable",
+          "Soft annealed copper conductor",
+          "Lead free PVC",
+          "IS 2465",
+          "-40°C to +70°C",
+          "830"
+        ],
+        [
+          "34",
+          "GPT",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J 1128",
+          "-40°C to +85°C",
+          "A880"
+        ],
+        [
+          "35",
+          "HDT",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J 1128",
+          "-40°C to +85°C",
+          "A881"
+        ],
+        [
+          "36",
+          "TWP",
+          "Soft annealed copper conductor",
+          "PVC",
+          "SAE J 1128",
+          "-40°C to +85°C",
+          "851"
+        ],
+        [
+          "37",
+          "TXL",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO",
+          "SAE J 1128",
+          "-40°C to +125°C",
+          "819/C819"
+        ],
+        [
+          "38",
+          "GXL",
+          "Soft annealed copper conductor",
+          "EBXL- XLPO",
+          "SAE J 1128",
+          "-40°C to +125°C",
+          "820/C820"
+        ],
+        [
+          "39",
+          "SXL",
+          "Soft annealed copper conductor",
+          "EBXL- XLPO",
+          "SAE J 1128",
+          "-40°C to +125°C",
+          "821/C821"
+        ],
+        [
+          "40",
+          "STT",
+          "Soft annealed copper conductor",
+          "Thin wall thermoplastic",
+          "SAE J 1127",
+          "-40°C to +80°C",
+          "824"
+        ],
+        [
+          "41",
+          "SGT",
+          "Soft annealed copper conductor",
+          "General purpose thermoplastic",
+          "SAE J 1127",
+          "-40°C to +80°C",
+          "825"
+        ],
+        [
+          "42",
+          "STX",
+          "Soft annealed copper conductor",
+          "Thin wall XLPO",
+          "SAE J 1127",
+          "-40°C to +125°C",
+          "822"
+        ],
+        [
+          "43",
+          "SGX",
+          "Soft annealed copper conductor",
+          "General purpose XLPO",
+          "SAE J 1127",
+          "-40°C to +125°C",
+          "823"
+        ],
+        [
+          "44",
+          "SGR",
+          "Soft annealed copper conductor",
+          "Thermoset Elastomer (EPDM)",
+          "SAE J 1127",
+          "-40°C to +125°C",
+          "A892"
+        ],
+        [
+          "45",
+          "WTA",
+          "Soft annealed copper conductor",
+          "Ultra thin wall PVC",
+          "SAE J 1678",
+          "-40°C to +85°C",
+          "A882"
+        ],
+        [
+          "46",
+          "WXC",
+          "Soft annealed copper conductor",
+          "Ultra thin wall XLPE",
+          "SAE J 1678",
+          "-40°C to +125°C",
+          "A883"
+        ],
+        [
+          "47",
+          "RK",
+          "Extra multi stranded copper conductor",
+          "PVC Class TI 1",
+          "Volvo type",
+          "-40°C to +70°C",
+          "868"
+        ],
+        [
+          "48",
+          "SXKB",
+          "Soft annealed flexible copper conductor",
+          "XLPE",
+          "Volvo type",
+          "-40°C to +90°C",
+          "864"
+        ],
+        [
+          "49",
+          "RXKB",
+          "Soft annealed flexible copper conductor",
+          "HFFR XLPE",
+          "Volvo type",
+          "-40°C to +100°C",
+          "867"
+        ],
+        [
+          "50",
+          "R2",
+          "Extra multi stranded copper conductor",
+          "PVC temp. Class B",
+          "Volvo 1052521",
+          "-40°C to +100°C",
+          "865"
+        ],
+        [
+          "51",
+          "R4",
+          "Extra multi stranded copper conductor",
+          "PVC temp. Class D",
+          "Volvo 1059032",
+          "-40°C to +150°C",
+          "866"
+        ],
+        [
+          "52",
+          "Auto 85",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1, Class A",
+          "ISO 6722-1",
+          "-40°C to +85°C",
+          "A822"
+        ],
+        [
+          "53",
+          "Auto 85 TW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class A",
+          "ISO 6722-1",
+          "-40°C to +85°C",
+          "A823"
+        ],
+        [
+          "54",
+          "Auto 85 UTW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class A",
+          "ISO 6722-1",
+          "-40°C to +85°C",
+          "A824"
+        ],
+        [
+          "55",
+          "Auto 100",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class B",
+          "ISO 6722-1",
+          "-40°C to +100°C",
+          "A831"
+        ],
+        [
+          "56",
+          "Auto 100 TW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class B",
+          "ISO 6722-1",
+          "-40°C to +100°C",
+          "A832"
+        ],
+        [
+          "57",
+          "Auto 100 TW (Asymmetrical)",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class B",
+          "ISO 6722-1",
+          "-40°C to +100°C",
+          "A827"
+        ],
+        [
+          "58",
+          "Auto 100 UTW",
+          "Soft annealed copper conductor",
+          "PVC ISO 6722-1,Class B",
+          "ISO 6722-1",
+          "-40°C to +100°C",
+          "A833"
+        ],
+        [
+          "59",
+          "CPE-FR",
+          "Soft annealed copper conductor",
+          "EBXL - CPE FR 125",
+          "ISO 6722-1",
+          "-40°C to +125°C",
+          "826"
+        ],
+        [
+          "60",
+          "CPE -FR TW",
+          "Soft annealed copper conductor",
+          "EBXL - CPE FR 125",
+          "ISO 6722-1",
+          "-40°C to +125°C",
+          "A826"
+        ],
+        [
+          "61",
+          "Auto 125",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class C",
+          "ISO 6722-1, Class C",
+          "-40°C to +125°C",
+          "A810"
+        ],
+        [
+          "62",
+          "Auto 125 TW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class C",
+          "ISO 6722-1, Class C",
+          "-40°C to +125°C",
+          "A811"
+        ],
+        [
+          "63",
+          "Auto 125 UTW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class C",
+          "ISO 6722-1, Class C",
+          "-40°C to +125°C",
+          "A812"
+        ],
+        [
+          "64",
+          "Auto 125 P",
+          "Soft annealed copper conductor",
+          "Polypropylene FR Low Halogen",
+          "Ford ES AU5T-1A 348.FIAT 91107/17 Renault 36-05-009/-N.VW 60306-1",
+          "-40°C to +125°C",
+          "841"
+        ],
+        [
+          "65",
+          "Auto 125 X-A (FLR2X -A)",
+          "Soft annealed copper conductor",
+          "PE-X",
+          "ISO 6722-1, Class C",
+          "-40°C to +125°C",
+          "842"
+        ],
+        [
+          "66",
+          "Auto 125 X-B",
+          "Soft annealed flexible copper conductor",
+          "PE-X",
+          "ISO 6722-1, Class C",
+          "-40°C to +125°C",
+          "843"
+        ],
+        [
+          "67",
+          "Auto 150",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class D",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "A813"
+        ],
+        [
+          "68",
+          "FLR91X-A",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class D",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "A814"
+        ],
+        [
+          "69",
+          "FLR91X-B",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722-1 Class D",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "A808"
+        ],
+        [
+          "70",
+          "Auto 150 -UTW",
+          "Soft annealed copper conductor",
+          "EBXL - XLPO, ISO 6722 -1Class D",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "A815"
+        ],
+        [
+          "71",
+          "T4 Class D",
+          "Soft annealed copper conductor",
+          "EBXL Specially Formulated Copolymer",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "A700"
+        ],
+        [
+          "72",
+          "Auto 150 A-A",
+          "Soft annealed copper conductor",
+          "TPE-E",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "844"
+        ],
+        [
+          "73",
+          "Auto 150 A-B",
+          "Soft annealed flexible copper conductor",
+          "T PE-E",
+          "ISO 6722-1, Class D",
+          "-40°C to +150°C",
+          "845"
+        ],
+        [
+          "74",
+          "Auto 180 E-A",
+          "Soft annealed copper conductor",
+          "ETFE",
+          "ISO 6722-1 LV112-1",
+          "-65°C to +180°C",
+          "846"
+        ],
+        [
+          "75",
+          "Auto 180 E-B",
+          "Soft annealed flexible copper conductor",
+          "ETFE",
+          "ISO 6722-1 LV112-1",
+          "-65°C to +180°C",
+          "847"
+        ],
+        [
+          "76",
+          "Auto 200 G",
+          "Soft annealed copper conductor",
+          "Silicon Rubber",
+          "ISO 6722-1, Class F",
+          "-80°C to +200°C",
+          "A870"
+        ],
+        [
+          "77",
+          "Auto 200 G AL",
+          "Aluminium conductor",
+          "Silicon Rubber",
+          "ISO 6722-1, Class F",
+          "-80°C to +200°C",
+          "A871"
+        ],
+        [
+          "78",
+          "Auto 200 T6",
+          "Soft annealed Bare copper conductor",
+          "Teflon",
+          "ISO 6722-1",
+          "-65°C to +200°C",
+          "C242"
+        ],
+        [
+          "79",
+          "Auto 200",
+          "Soft annealed copper conductor",
+          "Teflon",
+          "ISO 6722-1",
+          "-65°C to +200°C",
+          "B628"
+        ],
+        [
+          "80",
+          "Auto 210 F-A",
+          "Soft annealed copper conductor",
+          "FEP",
+          "LV 112-1.VW 60306-1.",
+          "-65°C to +210°C",
+          "848"
+        ],
+        [
+          "81",
+          "Auto 210 F-B",
+          "Soft annealed flexible copper conductor",
+          "FEP",
+          "LV 112-1.VW 60306-1.",
+          "-65°C to +210°C",
+          "849"
+        ],
+        [
+          "82",
+          "Auto 260 T",
+          "Soft annealed copper conductor",
+          "PFA",
+          "ISO 6722-1, Class H",
+          "-80°C to +260°C",
+          "850"
+        ],
+        [
+          "83",
+          "Auto 260 R-A",
+          "Soft annealed Nickel plated copper conductor",
+          "PTFE",
+          "ISO 6722-1, Class H",
+          "-90°C to +260°C",
+          "A873"
+        ],
+        [
+          "84",
+          "Auto 260 R-B",
+          "Soft annealed Nickel Plated flexible copper conductor",
+          "PTFE",
+          "ISO 6722-1, Class H",
+          "-90°C to +260°C",
+          "A874"
+        ],
+        [
+          "85",
+          "FLY",
+          "Soft annealed copper conductor",
+          "Plasticized PVC",
+          "LV 112 .BMW GS 95007-1-1.VW 60306-1",
+          "-40°C to +105°C",
+          "833"
+        ]
+      ]
+    },
+    {
       "id": "502a274e5d",
       "family": "automotive",
       "name": "T2 ",
@@ -1579,1415 +2864,222 @@
       }
     },
     {
-      "id": "b0e520e781",
+      "id": "ame914cd5d",
       "family": "automotive",
-      "name": "AVSS f",
+      "name": "Siechem Automotive Engine Harness Wire ISO 6722 T4 Class D",
       "headers": [
         "Part Number",
-        "Nom. Cross Section",
-        "No. of Strands",
-        "Diameter of Single wire Max.",
-        "Conductor Diameter Approx",
-        "Insulation Wall Thickness Nom.",
-        "Cable Overall Diamter (Nom/Max)",
-        "Weight Approx.",
-        "Max. Conductor Resistance at 20°C",
-        "Current Carrying Capacity",
-        "Standard Length*"
+        "Conductor Construction Nominal Cross- Section",
+        "Conductor Construction No. of Strands",
+        "Conductor Construction Diameter of Single wire max.",
+        "Conductor Construction Conductor Diameter Max.",
+        "Insulation Wall Thickness min. Conductor Diameter Max.",
+        "Cable Overall Diameter Min.",
+        "Cable Overall Diameter Max.",
+        "Cable Weight Approx. Max.",
+        "Current Carrying Capacity Weight Approx. Max.",
+        "Max.Conductor Resistance at 200C Weight Approx. Plain",
+        "Max.Conductor Resistance at 200C Weight Approx. Tinned"
       ],
       "rows": [
         [
-          "",
-          "mm²",
-          "Nos",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "Kg/km",
-          "Ω/km",
-          "Amps",
-          "mtrs"
-        ],
-        [
-          "80604XX",
-          "0.3",
-          "19",
-          "0.16",
-          "0.8",
-          "0.30",
-          "1.4/1.5",
+          "C54605XX",
+          "0.35",
+          "7",
+          "0.27",
+          "0.80",
+          "0.20",
+          "1.20",
+          "1.40",
           "5",
-          "48.8",
-          "9",
-          "1000"
+          "13",
+          "54.4",
+          "55.5"
         ],
         [
-          "80606XX",
+          "CA54606XX",
+          "0.5",
+          "7",
+          "0.32",
+          "1.00",
+          "0.22",
+          "1.40",
+          "1.60",
+          "7",
+          "16",
+          "37.1",
+          "38.2"
+        ],
+        [
+          "C54606XX",
           "0.5",
           "19",
           "0.19",
-          "1.0",
-          "0.30",
-          "1.6/1.7",
+          "1.00",
+          "0.22",
+          "1.40",
+          "1.60",
           "7",
-          "34.6",
-          "11",
-          "1000"
+          "16",
+          "37.1",
+          "38.2"
         ],
         [
-          "80608XX",
+          "C54608XX",
           "0.75",
           "19",
-          "0.23",
-          "1.2",
-          "0.30",
-          "1.8/1.9",
+          "0.24",
+          "1.20",
+          "0.24",
+          "1.70",
+          "1.90",
           "9",
-          "23.6",
-          "15",
-          "1000"
+          "22",
+          "24.7",
+          "25.4"
         ],
         [
-          "80612XX",
-          "1.25",
-          "37",
-          "0.21",
+          "C54610XX",
+          "1",
+          "19",
+          "0.27",
+          "1.35",
+          "0.24",
+          "1.90",
+          "2.10",
+          "11",
+          "26",
+          "18.5",
+          "19.1"
+        ],
+        [
+          "C54613XX",
           "1.5",
-          "0.30",
-          "2.1/2.2",
-          "14",
-          "14.6",
-          "20",
-          "1000"
-        ],
-        [
-          "80614XX",
-          "2",
-          "37",
-          "0.26",
-          "1.8",
-          "0.40",
-          "2.6/2.7",
-          "22",
-          "9.50",
-          "26",
-          "500"
-        ]
-      ],
-      "catalogueNo": "806",
-      "info": {
-        "features": [
-          "Flame Retardant",
-          "Highly resistant against acids, alkaline, petrol and diesel",
-          "Extra flexible conductor with pvc very thin wall insulation for smaller diameter and lesser weight",
-          "Excellent flexibility"
-        ],
-        "technical": [
-          "Temperature Range : -400C to +800C (3000 Hours)",
-          "Standard : JASO D 611: 2014",
-          "Test Voltage : 1 kV",
-          "A : Low tension cables for automobiles",
-          "V : Vinyl insulated",
-          "SS : Very Thin type",
-          "f : Extra flexible Conductor"
-        ],
-        "application": [
-          "Wire harness of low-tension electric circuits for automobiles",
-          "Used in motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
-        ],
-        "construction": [
-          "Conductor : Soft-annealed electrolytic copper E-Cu ETP1 according to JIS C 3102, bare conductor construction according to JASO D 611",
-          "Insulation : PVC",
-          "Colour : As per customer order",
-          "Single Core"
-        ]
-      }
-    },
-    {
-      "id": "6fb1927d92",
-      "family": "automotive",
-      "name": "Automotive Cables",
-      "headers": [
-        "S.NO",
-        ". Type",
-        "Conductor",
-        "Insulation",
-        "Spec",
-        "Temp. Range",
-        "Catalogue"
-      ],
-      "rows": [
-        [
-          "1",
-          "AV",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JIS C 3406",
-          "-400C to +800C",
-          "801"
-        ],
-        [
-          "2",
-          "AV-f",
-          "Soft annealed flexible copper conductor",
-          "PVC",
-          "JIS C 3406",
-          "-400C to +800C",
-          "802"
-        ],
-        [
-          "3",
-          "AVS",
-          "Soft annealed copper conductor",
-          "PVC Thin type",
-          "JASO D 611",
-          "-400C to +800C",
-          "803"
-        ],
-        [
-          "4",
-          "AVS- f",
-          "Soft annealed flexible copper conductor",
-          "PVC Thin type",
-          "JASO D 611",
-          "-400C to +800C",
-          "804"
-        ],
-        [
-          "5",
-          "AVSS",
-          "Soft annealed copper conductor",
-          "PVC Super thin type",
-          "JASO D 611",
-          "-400C to +800C",
-          "805"
-        ],
-        [
-          "6",
-          "AVSS- f",
-          "Soft annealed flexible copper conductor",
-          "PVC Super thin type",
-          "JASO D 611",
-          "-400C to +800C",
-          "806"
-        ],
-        [
-          "7",
-          "AVSSH -f",
-          "Soft annealed flexible copper conductor",
-          "HR PVC Super Thin type",
-          "JASO D 611",
-          "-400C to +1000C",
-          "808"
-        ],
-        [
-          "8",
-          "AVSSX",
-          "Soft annealed copper conductor",
-          "EBXL - PVC Super thin type",
-          "JASO D 608",
-          "-400C to +1000C",
-          "809"
-        ],
-        [
-          "9",
-          "AVSSX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - PVC Super thin type",
-          "JASO D 611",
-          "-400C to +1000C",
-          "810"
-        ],
-        [
-          "10",
-          "AVX",
-          "Soft annealed copper conductor",
-          "EBXL - PVC",
-          "JASO D 608",
-          "-400C to +1000C",
-          "811"
-        ],
-        [
-          "11",
-          "AVX- f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - PVC",
-          "JASO D 608",
-          "-400C to +1000C",
-          "812"
-        ],
-        [
-          "12",
-          "AEX",
-          "Soft annealed copper conductor",
-          "EBXL - XLPE",
-          "JASO D 608",
-          "-400C to +1200C",
-          "813"
-        ],
-        [
-          "13",
-          "AEX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - XLPE",
-          "JASO D 608",
-          "-400C to +1200C",
-          "814"
-        ],
-        [
-          "14",
-          "AESSX",
-          "Soft annealed copper conductor",
-          "EBXL -XLPE Super Thin Type",
-          "JASO D 608",
-          "-400C to +1200C",
-          "815"
-        ],
-        [
-          "15",
-          "AESSX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL -XLPE Super Thin Type",
-          "JASO D 611",
-          "-400C to +1200C",
-          "816"
-        ],
-        [
-          "16",
-          "CPE-FR",
-          "Soft annealed copper conductor",
-          "EBXL - FR CPE 125",
-          "ISO 6722",
-          "-400C to +1250C",
-          "826"
-        ],
-        [
-          "17",
-          "CPE -FR TW",
-          "Soft annealed copper conductor",
-          "EBXL - FR CPE 125",
-          "ISO 6722",
-          "-400C to +1250C",
-          "A826"
-        ],
-        [
-          "18",
-          "EB",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-400C to +800C",
-          "831"
-        ],
-        [
           "19",
-          "HEB",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-400C to +800C",
-          "870"
-        ],
-        [
-          "20",
-          "HDEB",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-400C to +800C",
-          "832"
-        ],
-        [
-          "21",
-          "EEX/EEXF",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-400C to +1200C",
-          "C384"
-        ],
-        [
-          "22",
-          "EEHX/EEHX-f",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-400C to +1200C",
-          "C385"
-        ],
-        [
-          "23",
-          "EEXXS/EEXBS-f",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-400C to +1200C",
-          "C394"
-        ],
-        [
-          "24",
-          "EEHXSBS-f",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-400C to +1500C",
-          "C397"
-        ],
-        [
-          "21",
-          "LOW VOLTAGE AUTO CABLE",
-          "Soft annealde copper conductor",
-          "PVC",
-          "IS 2465",
-          "-400C to +700C",
-          "829"
-        ],
-        [
-          "22",
-          "HEAVY DUTY BATTERY CABLE",
-          "Soft annealde copper conductor",
-          "PVC",
-          "IS 2 465",
-          "-400C to +700C",
-          "830"
-        ],
-        [
-          "26",
-          "GPT",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J1128",
-          "-400C to +850C",
-          "A880"
-        ],
-        [
-          "27",
-          "HDT",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J1128",
-          "-400C to +850C",
-          "A881"
-        ],
-        [
-          "28",
-          "TWP",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J1128",
-          "-400C to +850C",
-          "851"
-        ],
-        [
-          "29",
-          "TXL",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO",
-          "SAE J1128",
-          "-400C to +1250C",
-          "819/C819"
-        ],
-        [
-          "30",
-          "GXL",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO",
-          "SAE J1128",
-          "-400C to +1250C",
-          "820/C820"
-        ],
-        [
-          "31",
-          "SXL",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO",
-          "SAE J1128",
-          "-400C to +1250C",
-          "821/C821"
-        ],
-        [
-          "32",
-          "STT",
-          "Soft annealed copper conductor",
-          "Thin wall thermoplastic",
-          "SAE J1127",
-          "-400C to +800C",
-          "824"
-        ],
-        [
-          "33",
-          "SGT",
-          "Soft annealed copper conductor",
-          "General purpose thermoplastic",
-          "SAE J1127",
-          "-400C to +800C",
-          "825"
-        ],
-        [
-          "34",
-          "STX",
-          "Soft annealed copper conductor",
-          "Thin wall XLPO",
-          "SAE J1127",
-          "-400C to +1250C",
-          "822"
-        ],
-        [
-          "35",
-          "SGX",
-          "Soft annealed copper conductor",
-          "General purpose XLPO",
-          "SAE J1127",
-          "-400C to +1250C",
-          "823"
-        ],
-        [
-          "36",
-          "WTA",
-          "Soft annealed copper conductor",
-          "Ultra thin wall PVC",
-          "SAE J1678",
-          "-400C to +850C",
-          "A882"
-        ],
-        [
-          "37",
-          "WXC",
-          "Soft annealed copper conductor",
-          "Ultra thin wall XLPE",
-          "SAE J1678",
-          "-400C to +1250C",
-          "A883"
-        ],
-        [
-          "37",
-          "RK",
-          "Soft annealed copper conductor",
-          "PVC Class TI 1",
-          "Volvo type",
-          "Upto +700C",
-          "868"
-        ],
-        [
-          "38",
-          "RXKB",
-          "Soft annealed copper conductor",
-          "HFFR XLPE",
-          "Volvo type",
-          "Upto +1000C",
-          "867"
-        ],
-        [
-          "39",
-          "R2",
-          "soft annealed copper conductor",
-          "P VC temp. Class B",
-          "V olvo type",
-          "Upto +1000C",
-          "865"
-        ],
-        [
-          "40",
-          "R4",
-          "Soft annealed copper conductor",
-          "PVC temp. Class D",
-          "Volvo type",
-          "Upto +1500C",
-          "866"
-        ],
-        [
-          "42",
-          "Auto 85",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722, Class A",
-          "ISO 6722",
-          "-400C to +850C",
-          "A822"
-        ],
-        [
-          "43",
-          "Auto 85 -TW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722,Class A",
-          "ISO 6722",
-          "-400C to +850C",
-          "A823"
-        ],
-        [
-          "44",
-          "Auto 85- UTW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722,Class A",
-          "ISO 6722",
-          "-400C to +850C",
-          "A824"
-        ],
-        [
-          "45",
-          "Auto 100",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722,Class B",
-          "ISO 6722",
-          "-400C to +1000C",
-          "A831"
-        ],
-        [
-          "46",
-          "Auto 100 TW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722,Class B",
-          "ISO 6722",
-          "-400C to +1000C",
-          "A832"
-        ],
-        [
-          "47",
-          "Auto 100 UTW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722,Class B",
-          "ISO 6722",
-          "-400C to +1000C",
-          "A833"
-        ],
-        [
-          "48",
-          "Auto 125",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class C",
-          "ISO 6722, Class C",
-          "-400C to +1250C",
-          "A810"
-        ],
-        [
-          "49",
-          "Auto 125- TW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class C",
-          "ISO 6722, Class C",
-          "-400C to +1250C",
-          "A811"
-        ],
-        [
-          "50",
-          "Auto 125 -UTW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class C",
-          "ISO 6722, Class C",
-          "-400C to +1250C",
-          "A812"
-        ],
-        [
-          "51",
-          "Auto 150",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class D",
-          "ISO 6722, Class D",
-          "-400C to +1500C",
-          "A813"
-        ],
-        [
-          "52",
-          "FLR91X-A",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class D",
-          "ISO 6722, Class D",
-          "-400C to +1500C",
-          "A814"
-        ],
-        [
-          "53",
-          "FLR91X-B",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class D",
-          "ISO 6722, Class D",
-          "-400C to +1500C",
-          "A808"
-        ],
-        [
-          "54",
-          "Auto 150 -UTW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 Class D",
-          "ISO 6722, Class D",
-          "-400C to +1500C",
-          "A815"
-        ],
-        [
-          "55",
-          "T4 Class D",
-          "www.sieche Soft annealed copper conductor",
-          "mEB.XcLo Smpecially Formulated, Copolymer",
-          "ISO 6722, Class D",
-          "-400C to +1500C",
-          "A700"
-        ],
-        [
-          "1",
-          "AV",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JIS C 3406",
-          "-40°C to +80°C",
-          "801"
-        ],
-        [
-          "2",
-          "AV-f",
-          "Soft annealed flexible copper conductor",
-          "PVC",
-          "JIS C 3406",
-          "-40°C to +80°C",
-          "802"
-        ],
-        [
-          "3",
-          "AVS",
-          "Soft annealed copper conductor",
-          "PVC Thin type",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "803"
-        ],
-        [
-          "4",
-          "AVS-f",
-          "Soft annealed flexible copper conductor",
-          "PVC Thin type",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "804"
-        ],
-        [
-          "5",
-          "AVSS",
-          "Soft annealed copper conductor",
-          "PVC Super thin type",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "805"
-        ],
-        [
-          "6",
-          "AVSS-f",
-          "Soft annealed flexible copper conductor",
-          "PVC Super thin type",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "806"
-        ],
-        [
-          "7",
-          "AVSSH-f",
-          "Soft annealed flexible copper conductor",
-          "HR PVC Super Thin type",
-          "JASO D 611",
-          "-40°C to +100°C",
-          "808"
-        ],
-        [
-          "8",
-          "AVSSX",
-          "Soft annealed copper conductor",
-          "EBXL - PVC Super thin type",
-          "JASO D 608",
-          "-40°C to +100°C",
-          "809"
-        ],
-        [
-          "9",
-          "AVSSX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - PVC Super thin type",
-          "JASO D 611",
-          "-40°C to +100°C",
-          "810"
-        ],
-        [
-          "10",
-          "AVX",
-          "Soft annealed copper conductor",
-          "EBXL - PVC",
-          "JASO D 608",
-          "-40°C to +100°C",
-          "811"
-        ],
-        [
-          "11",
-          "AVX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - PVC",
-          "JASO D 608",
-          "-40°C to +100°C",
-          "812"
-        ],
-        [
-          "12",
-          "AEX",
-          "Soft annealed copper conductor",
-          "EBXL - XLPE",
-          "JASO D 608",
-          "-40°C to +120°C",
-          "813"
-        ],
-        [
-          "13",
-          "AEX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - XLPE",
-          "JASO D 608",
-          "-40°C to +120°C",
-          "814"
-        ],
-        [
-          "14",
-          "AESSX",
-          "Soft annealed copper conductor",
-          "EBXL - XLPE Super Thin Type",
-          "JASO D 608",
-          "-40°C to +120°C",
-          "815"
-        ],
-        [
-          "15",
-          "AESSX-f",
-          "Soft annealed flexible copper conductor",
-          "EBXL - XLPE Super Thin Type",
-          "JASO D 611",
-          "-40°C to +120°C",
-          "816"
-        ],
-        [
-          "16",
-          "EB",
-          "Soft annealed copper conductor",
-          "Lead free PVC",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "831"
-        ],
-        [
+          "0.33",
+          "1.70",
+          "0.24",
+          "2.20",
+          "2.40",
           "17",
-          "HEB",
-          "Soft annealed copper conductor",
-          "Lead free PVC",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "870"
-        ],
-        [
-          "18",
-          "HDEB",
-          "Soft annealed copper conductor",
-          "Lead free PVC",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "832"
-        ],
-        [
-          "19",
-          "EEX/EEXF",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-40°C to +120°C",
-          "C396/C384"
-        ],
-        [
-          "20",
-          "EEHX/EEHX-f",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-40°C to +150°C",
-          "C387"
-        ],
-        [
-          "21",
-          "EEXS/EEXBS-f/EEXS/EEXBS",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-40°C to +120°C",
-          "C385/C397"
-        ],
-        [
-          "22",
-          "EEHXBSX",
-          "Soft annealed copper conductor",
-          "EBXL",
-          "JASO D 624",
-          "-40°C to +150°C",
-          "C395"
-        ],
-        [
-          "23",
-          "EX30",
-          "Soft annealed copper conductor",
-          "XLPE-150°C",
-          "JASO D 624",
-          "-40°C to +150°C",
-          "C296"
-        ],
-        [
-          "24",
-          "Auto DIVUS (CIVUS) Cable",
-          "Soft annealed Tinned copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-40°C to +85°C",
-          "C256"
-        ],
-        [
-          "25",
-          "CAVUS",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "C398"
-        ],
-        [
-          "26",
-          "CAVS",
-          "Soft annealed copper conductor",
-          "PVC",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "C422"
-        ],
-        [
-          "27",
-          "APEX-BS",
-          "Soft annealed copper conductor",
-          "XLPE insulation, PVC Sheath",
-          "JASO D 611, ES Spec",
-          "-40°C to +120°C",
-          "C424"
-        ],
-        [
-          "28",
-          "AEX-BS",
-          "Soft annealed copper conductor",
-          "XLPE insulation, PVC Sheath",
-          "JASO D 608, ES Spec",
-          "-40°C to +120°C",
-          "C425"
-        ],
-        [
-          "29",
-          "HAEXF",
-          "Soft annealed Tinned copper conductor",
-          "XLPE",
-          "JASO D 608",
-          "-40°C to +150°C",
-          "C428"
-        ],
-        [
-          "30",
-          "Metal-Leaf Shielded Camera",
-          "Soft annealed copper conductor",
-          "HDPE",
-          "JASO D 611",
-          "-40°C to +80°C",
-          "A795"
-        ],
-        [
-          "31",
-          "Low Voltage Auto Cable",
-          "Soft annealed copper conductor",
-          "Lead free PVC",
-          "IS 2465",
-          "-40°C to +70°C",
-          "829"
-        ],
-        [
-          "32",
-          "Extra Flexible Battery Cable",
-          "Soft annealed flexible copper conductor",
-          "PVC",
-          "ISO 6722-1",
-          "-30°C to +70°C",
-          "B806"
-        ],
-        [
           "33",
-          "Heavy Duty Battery Cable",
-          "Soft annealed copper conductor",
-          "Lead free PVC",
-          "IS 2465",
-          "-40°C to +70°C",
-          "830"
+          "12.7",
+          "13.0"
         ],
         [
-          "34",
-          "GPT",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J 1128",
-          "-40°C to +85°C",
-          "A880"
-        ],
-        [
-          "35",
-          "HDT",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J 1128",
-          "-40°C to +85°C",
-          "A881"
-        ],
-        [
-          "36",
-          "TWP",
-          "Soft annealed copper conductor",
-          "PVC",
-          "SAE J 1128",
-          "-40°C to +85°C",
-          "851"
-        ],
-        [
-          "37",
-          "TXL",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO",
-          "SAE J 1128",
-          "-40°C to +125°C",
-          "819/C819"
-        ],
-        [
-          "38",
-          "GXL",
-          "Soft annealed copper conductor",
-          "EBXL- XLPO",
-          "SAE J 1128",
-          "-40°C to +125°C",
-          "820/C820"
-        ],
-        [
-          "39",
-          "SXL",
-          "Soft annealed copper conductor",
-          "EBXL- XLPO",
-          "SAE J 1128",
-          "-40°C to +125°C",
-          "821/C821"
-        ],
-        [
-          "40",
-          "STT",
-          "Soft annealed copper conductor",
-          "Thin wall thermoplastic",
-          "SAE J 1127",
-          "-40°C to +80°C",
-          "824"
-        ],
-        [
-          "41",
-          "SGT",
-          "Soft annealed copper conductor",
-          "General purpose thermoplastic",
-          "SAE J 1127",
-          "-40°C to +80°C",
-          "825"
-        ],
-        [
-          "42",
-          "STX",
-          "Soft annealed copper conductor",
-          "Thin wall XLPO",
-          "SAE J 1127",
-          "-40°C to +125°C",
-          "822"
-        ],
-        [
-          "43",
-          "SGX",
-          "Soft annealed copper conductor",
-          "General purpose XLPO",
-          "SAE J 1127",
-          "-40°C to +125°C",
-          "823"
-        ],
-        [
-          "44",
-          "SGR",
-          "Soft annealed copper conductor",
-          "Thermoset Elastomer (EPDM)",
-          "SAE J 1127",
-          "-40°C to +125°C",
-          "A892"
-        ],
-        [
-          "45",
-          "WTA",
-          "Soft annealed copper conductor",
-          "Ultra thin wall PVC",
-          "SAE J 1678",
-          "-40°C to +85°C",
-          "A882"
-        ],
-        [
+          "C54616XX",
+          "2.5",
+          "19",
+          "0.41",
+          "2.15",
+          "0.28",
+          "2.70",
+          "3.00",
+          "27",
           "46",
-          "WXC",
-          "Soft annealed copper conductor",
-          "Ultra thin wall XLPE",
-          "SAE J 1678",
-          "-40°C to +125°C",
-          "A883"
+          "7.60",
+          "7.82"
         ],
         [
-          "47",
-          "RK",
-          "Extra multi stranded copper conductor",
-          "PVC Class TI 1",
-          "Volvo type",
-          "-40°C to +70°C",
-          "868"
-        ],
-        [
-          "48",
-          "SXKB",
-          "Soft annealed flexible copper conductor",
-          "XLPE",
-          "Volvo type",
-          "-40°C to +90°C",
-          "864"
-        ],
-        [
-          "49",
-          "RXKB",
-          "Soft annealed flexible copper conductor",
-          "HFFR XLPE",
-          "Volvo type",
-          "-40°C to +100°C",
-          "867"
-        ],
-        [
-          "50",
-          "R2",
-          "Extra multi stranded copper conductor",
-          "PVC temp. Class B",
-          "Volvo 1052521",
-          "-40°C to +100°C",
-          "865"
-        ],
-        [
-          "51",
-          "R4",
-          "Extra multi stranded copper conductor",
-          "PVC temp. Class D",
-          "Volvo 1059032",
-          "-40°C to +150°C",
-          "866"
-        ],
-        [
-          "52",
-          "Auto 85",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1, Class A",
-          "ISO 6722-1",
-          "-40°C to +85°C",
-          "A822"
-        ],
-        [
-          "53",
-          "Auto 85 TW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class A",
-          "ISO 6722-1",
-          "-40°C to +85°C",
-          "A823"
-        ],
-        [
-          "54",
-          "Auto 85 UTW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class A",
-          "ISO 6722-1",
-          "-40°C to +85°C",
-          "A824"
-        ],
-        [
-          "55",
-          "Auto 100",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class B",
-          "ISO 6722-1",
-          "-40°C to +100°C",
-          "A831"
-        ],
-        [
+          "C54619XX",
+          "4",
           "56",
-          "Auto 100 TW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class B",
-          "ISO 6722-1",
-          "-40°C to +100°C",
-          "A832"
-        ],
-        [
-          "57",
-          "Auto 100 TW (Asymmetrical)",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class B",
-          "ISO 6722-1",
-          "-40°C to +100°C",
-          "A827"
-        ],
-        [
-          "58",
-          "Auto 100 UTW",
-          "Soft annealed copper conductor",
-          "PVC ISO 6722-1,Class B",
-          "ISO 6722-1",
-          "-40°C to +100°C",
-          "A833"
-        ],
-        [
-          "59",
-          "CPE-FR",
-          "Soft annealed copper conductor",
-          "EBXL - CPE FR 125",
-          "ISO 6722-1",
-          "-40°C to +125°C",
-          "826"
-        ],
-        [
-          "60",
-          "CPE -FR TW",
-          "Soft annealed copper conductor",
-          "EBXL - CPE FR 125",
-          "ISO 6722-1",
-          "-40°C to +125°C",
-          "A826"
-        ],
-        [
-          "61",
-          "Auto 125",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class C",
-          "ISO 6722-1, Class C",
-          "-40°C to +125°C",
-          "A810"
-        ],
-        [
-          "62",
-          "Auto 125 TW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class C",
-          "ISO 6722-1, Class C",
-          "-40°C to +125°C",
-          "A811"
-        ],
-        [
-          "63",
-          "Auto 125 UTW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class C",
-          "ISO 6722-1, Class C",
-          "-40°C to +125°C",
-          "A812"
-        ],
-        [
+          "0.31",
+          "2.50",
+          "0.32",
+          "3.40",
+          "3.70",
+          "43",
           "64",
-          "Auto 125 P",
-          "Soft annealed copper conductor",
-          "Polypropylene FR Low Halogen",
-          "Ford ES AU5T-1A 348.FIAT 91107/17 Renault 36-05-009/-N.VW 60306-1",
-          "-40°C to +125°C",
-          "841"
+          "4.71",
+          "4.85"
         ],
         [
-          "65",
-          "Auto 125 X-A (FLR2X -A)",
-          "Soft annealed copper conductor",
-          "PE-X",
-          "ISO 6722-1, Class C",
-          "-40°C to +125°C",
-          "842"
-        ],
-        [
-          "66",
-          "Auto 125 X-B",
-          "Soft annealed flexible copper conductor",
-          "PE-X",
-          "ISO 6722-1, Class C",
-          "-40°C to +125°C",
-          "843"
-        ],
-        [
-          "67",
-          "Auto 150",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class D",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "A813"
-        ],
-        [
-          "68",
-          "FLR91X-A",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class D",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "A814"
-        ],
-        [
-          "69",
-          "FLR91X-B",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722-1 Class D",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "A808"
-        ],
-        [
-          "70",
-          "Auto 150 -UTW",
-          "Soft annealed copper conductor",
-          "EBXL - XLPO, ISO 6722 -1Class D",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "A815"
-        ],
-        [
-          "71",
-          "T4 Class D",
-          "Soft annealed copper conductor",
-          "EBXL Specially Formulated Copolymer",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "A700"
-        ],
-        [
-          "72",
-          "Auto 150 A-A",
-          "Soft annealed copper conductor",
-          "TPE-E",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "844"
-        ],
-        [
-          "73",
-          "Auto 150 A-B",
-          "Soft annealed flexible copper conductor",
-          "T PE-E",
-          "ISO 6722-1, Class D",
-          "-40°C to +150°C",
-          "845"
-        ],
-        [
-          "74",
-          "Auto 180 E-A",
-          "Soft annealed copper conductor",
-          "ETFE",
-          "ISO 6722-1 LV112-1",
-          "-65°C to +180°C",
-          "846"
-        ],
-        [
-          "75",
-          "Auto 180 E-B",
-          "Soft annealed flexible copper conductor",
-          "ETFE",
-          "ISO 6722-1 LV112-1",
-          "-65°C to +180°C",
-          "847"
-        ],
-        [
-          "76",
-          "Auto 200 G",
-          "Soft annealed copper conductor",
-          "Silicon Rubber",
-          "ISO 6722-1, Class F",
-          "-80°C to +200°C",
-          "A870"
-        ],
-        [
-          "77",
-          "Auto 200 G AL",
-          "Aluminium conductor",
-          "Silicon Rubber",
-          "ISO 6722-1, Class F",
-          "-80°C to +200°C",
-          "A871"
-        ],
-        [
-          "78",
-          "Auto 200 T6",
-          "Soft annealed Bare copper conductor",
-          "Teflon",
-          "ISO 6722-1",
-          "-65°C to +200°C",
-          "C242"
-        ],
-        [
-          "79",
-          "Auto 200",
-          "Soft annealed copper conductor",
-          "Teflon",
-          "ISO 6722-1",
-          "-65°C to +200°C",
-          "B628"
-        ],
-        [
-          "80",
-          "Auto 210 F-A",
-          "Soft annealed copper conductor",
-          "FEP",
-          "LV 112-1.VW 60306-1.",
-          "-65°C to +210°C",
-          "848"
-        ],
-        [
-          "81",
-          "Auto 210 F-B",
-          "Soft annealed flexible copper conductor",
-          "FEP",
-          "LV 112-1.VW 60306-1.",
-          "-65°C to +210°C",
-          "849"
-        ],
-        [
-          "82",
-          "Auto 260 T",
-          "Soft annealed copper conductor",
-          "PFA",
-          "ISO 6722-1, Class H",
-          "-80°C to +260°C",
-          "850"
-        ],
-        [
-          "83",
-          "Auto 260 R-A",
-          "Soft annealed Nickel plated copper conductor",
-          "PTFE",
-          "ISO 6722-1, Class H",
-          "-90°C to +260°C",
-          "A873"
-        ],
-        [
+          "C54623XX",
+          "6",
           "84",
-          "Auto 260 R-B",
-          "Soft annealed Nickel Plated flexible copper conductor",
-          "PTFE",
-          "ISO 6722-1, Class H",
-          "-90°C to +260°C",
-          "A874"
+          "0.31",
+          "2.95",
+          "0.32",
+          "4.00",
+          "4.30",
+          "62",
+          "82",
+          "3.14",
+          "3.23"
         ],
         [
-          "85",
-          "FLY",
-          "Soft annealed copper conductor",
-          "Plasticized PVC",
-          "LV 112 .BMW GS 95007-1-1.VW 60306-1",
-          "-40°C to +105°C",
-          "833"
+          "C54627XX",
+          "10",
+          "80",
+          "0.41",
+          "4.50",
+          "0.48",
+          "5.30",
+          "6.00",
+          "108",
+          "119",
+          "1.82",
+          "1.85"
+        ],
+        [
+          "C54628XX",
+          "16",
+          "126",
+          "0.41",
+          "6.30",
+          "0.52",
+          "6.40",
+          "7.20",
+          "177",
+          "160",
+          "1.16",
+          "1.18"
+        ],
+        [
+          "C54656XX",
+          "20",
+          "152",
+          "0.41",
+          "6.90",
+          "0.52",
+          "7.00",
+          "7.80",
+          "190",
+          "180",
+          "0.955",
+          "0.999"
+        ],
+        [
+          "C54630XX",
+          "25",
+          "196",
+          "0.41",
+          "7.80",
+          "0.52",
+          "7.90",
+          "8.70",
+          "250",
+          "211",
+          "0.743",
+          "0.757"
+        ],
+        [
+          "C54632XX",
+          "35",
+          "276",
+          "0.41",
+          "9.00",
+          "0.64",
+          "9.40",
+          "10.40",
+          "345",
+          "259",
+          "0.527",
+          "0.538"
         ]
-      ]
+      ],
+      "catalogueNo": "C"
     },
     {
       "id": "48ee3e940c",
@@ -3203,7 +3295,7 @@
       "name": "AVSSH f",
       "headers": [
         "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
+        "Nominal Cross-Section",
         "No. of Strands",
         "Diameter of Single wire Max.",
         "Conductor Diameter Approx.",
@@ -3611,7 +3703,7 @@
       "name": "AVSSX",
       "headers": [
         "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
+        "Nominal Cross- Section",
         "No. of Strands",
         "Diameter of Single wire max.",
         "Conductor Diameter Approx.",
@@ -3643,7 +3735,7 @@
           "0.26",
           "0.8",
           "0.3",
-          "1.4",
+          "1.4/1.5",
           "5",
           "50.2",
           "11",
@@ -3656,7 +3748,7 @@
           "0.32",
           "1.0",
           "0.3",
-          "1.6",
+          "1.6/1.7",
           "7",
           "32.7",
           "14",
@@ -3669,7 +3761,7 @@
           "0.24",
           "1.2",
           "0.3",
-          "1.8",
+          "1.8/1.9",
           "10",
           "21.7",
           "18",
@@ -3682,7 +3774,7 @@
           "0.29",
           "1.5",
           "0.3",
-          "2.1",
+          "2.1/2.2",
           "12",
           "14.9",
           "23",
@@ -3717,7 +3809,9 @@
           "lead free PVC",
           "Colour : As per customer order."
         ]
-      }
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/258ab79618.png?v=1794401242848",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/258ab79618-3d.png?v=1794401247818"
     },
     {
       "id": "a01ef9f74c",
@@ -12205,247 +12299,6 @@
       "colorNote": "Current Carrying capacity given is for the maximum conductor operating temperature of 105C and ambient air temperature of 40C.\npart Number given is for Bare copper, the letter ‘T’ should be added for tinned copper (eg T81805XX).\n* Other length as per Customer order.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog"
     },
     {
-      "id": "d24688ab8c",
-      "family": "automotive",
-      "name": "RG 58LL Co - axial Cable",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Core",
-        "No. of Strand",
-        "Diameter of Wire (Nom.)",
-        "Insulation Wall Thickness (Nom.)",
-        "Al Mylar Tape Thickness (Nom.)",
-        "Braiding Wire Dia (Nom.)",
-        "Outer Sheath Thickness (Nom.)",
-        "Overall Diameter (Nom.)",
-        "Weight Approx.",
-        "Max. Conductor Resistance at 20°C"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "Nos",
-          "Nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "kg/km",
-          " Ω/km"
-        ],
-        [
-          "A718A250002",
-          "0.69",
-          "1",
-          "1",
-          "0.94",
-          "0.90",
-          "0.035",
-          "0.12",
-          "0.6",
-          "4.85 ± 0.15",
-          "40",
-          "25"
-        ]
-      ],
-      "catalogueNo": "A718",
-      "info": {
-        "features": [
-          "Low loss.",
-          "Characteristic Impedance is constant in high frequency domain.",
-          "We are superior in flexibility workability after being lightweight.",
-          "It is high cover, low loss type."
-        ],
-        "technical": [
-          "Standard : ES 96220-01",
-          "Characteristic Impedance : 50 ± 2 Ω",
-          "Electrostatic Capacity : 105 nF/km",
-          "Min. Insulation Resistance : 1000 MΩ.km",
-          "Max Attenuation : 150 MHz - 0.146 dB/m",
-          "220MHz - 0.177 dB/m",
-          "450MHz- 0.255 dB/m",
-          "900MHz -0.365 dB/m",
-          "1500MHz- 0.477 dB/m",
-          "1800MHz -0.525 dB/m",
-          "2000MHz- 0.554 dB/m",
-          "2500MHz -0.624 dB/m"
-        ],
-        "application": [
-          "Coaxial cable to be used as car antenna cable and feeder cable.",
-          "Automotive inner Wiring for communication and Electronic Devices.",
-          "Automotive TV/ Radio.",
-          "Drop Wire, House wiring to indoor.",
-          "Monitoring / Security camera.",
-          "Ringing circuit connection between high frequency apparatus."
-        ],
-        "construction": [
-          "Conductor : Annealed Plain Solid Copper Conductor",
-          "Insulation : Foam PE",
-          "Color : Natural",
-          "Taping : Al - Mylar tape",
-          "Braiding : ATC",
-          "Outer Sheath: Polyvinylchloride",
-          "Sheath Color: As per customer request Automotive RG 58LL Cables"
-        ]
-      }
-    },
-    {
-      "id": "b7ad135b7a",
-      "family": "automotive",
-      "name": "SGX RoHS",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section mm²",
-        "No. of Strands Nos",
-        "Diameter of Single wire max. mm",
-        "Conductor Diameter Nom. mm",
-        "Insulation Wall Thickness — Min/Nom mm",
-        "Cable — Overall Diameter Max. mm",
-        "Weight Approx. Kg/Km",
-        "Max. Conductor Resistance at 20°C Ω/km",
-        "Current Carrying  Capacity Amps",
-        "Standard Length* mtrs"
-      ],
-      "rows": [
-        [
-          "82361XX",
-          "13",
-          "133",
-          "0.36",
-          "4.83",
-          "1.06/1.52",
-          "8.60",
-          "166",
-          "1.40",
-          "124",
-          "500"
-        ],
-        [
-          "82362XX",
-          "19",
-          "133",
-          "0.46",
-          "6.09",
-          "1.16/1.65",
-          "10.5",
-          "257",
-          "0.94",
-          "160",
-          "500"
-        ],
-        [
-          "82363XX",
-          "32",
-          "133",
-          "0.57",
-          "7.67",
-          "1.16/1.65",
-          "12.0",
-          "373",
-          "0.56",
-          "218",
-          "500"
-        ],
-        [
-          "82358XX",
-          "40",
-          "259",
-          "0.46",
-          "8.49",
-          "1.16/1.65",
-          "13.0",
-          "453",
-          "0.42",
-          "255",
-          "500"
-        ],
-        [
-          "82334XX",
-          "50",
-          "1026",
-          "0.26",
-          "9.47",
-          "1.16/1.65",
-          "14.5",
-          "545",
-          "0.36",
-          "281",
-          "500"
-        ],
-        [
-          "82365XX",
-          "62",
-          "1254",
-          "0.26",
-          "10.47",
-          "1.16/1.65",
-          "16.0",
-          "653",
-          "0.27",
-          "325",
-          "500"
-        ],
-        [
-          "82366XX",
-          "81",
-          "1615",
-          "0.26",
-          "11.89",
-          "1.39/1.98",
-          "18.5",
-          "847",
-          "0.21",
-          "381",
-          "500"
-        ],
-        [
-          "82367XX",
-          "103",
-          "2052",
-          "0.26",
-          "13.40",
-          "1.39/1.98",
-          "20.0",
-          "1052",
-          "0.17",
-          "808",
-          "500"
-        ]
-      ],
-      "catalogueNo": "823",
-      "info": {
-        "features": [
-          "Flame Retardant",
-          "Highly resistant against acids, alkaline, petrol and diesel",
-          "Flexible conductors with Electron Beam Cross Linked polyolefin general purpose insulation for smaller diameter and lesser weight",
-          "Extra flexibility",
-          "Heat Resistant"
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +125°C (3000 Hours)",
-          "Standard : SAE J1127",
-          "Test Voltage : 1 kV",
-          "S :Starter or Ground",
-          "G : General purpose",
-          "X : Cross linked polyolefin"
-        ],
-        "application": [
-          "Wire harness of low-tension electric circuts for automobiles.",
-          "Used in motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits.",
-          "Especially used for circuits requiring heat resistance."
-        ],
-        "construction": [
-          "Conductor : Soft-annealed electrolytic copper E- Cu ETP1 according to ASTM B3 bare conductor construction according to SAE J 1127",
-          "Insulation : Electron beam cross linked polyolefin.",
-          "Colo 22u DDr : A VVs iip eee wwr customer order."
-        ]
-      }
-    },
-    {
       "id": "6571957cd1",
       "family": "automotive",
       "name": "AV f",
@@ -12670,6 +12523,274 @@
         ]
       },
       "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/fd3685717a.png?v=1784744013703"
+    },
+    {
+      "id": "53fc37e82f",
+      "family": "automotive",
+      "name": "AVSS RoHS",
+      "headers": [
+        "Part Number",
+        "Nominal Cross- Section",
+        "No. of Strands",
+        "Diameter of Single wire Max.",
+        "Conductor Diameter Approx.",
+        "Insulation Wall Thickness (Min/Nom)",
+        "Cable Overall Diameter (Nom/Max)",
+        "Weight Approx.",
+        "Max. Conductor Resistance at 20°C",
+        "Current Carrying  Capacity",
+        "Standard Length"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "Nos",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "Kg/Km",
+          "Ω/km",
+          "Amps",
+          "mtrs"
+        ],
+        [
+          "80502XX",
+          "0.22",
+          "7",
+          "0.20",
+          "0.6",
+          "0.24/0.3",
+          "1.2/1.3",
+          "5",
+          "84.8",
+          "6",
+          "1000"
+        ],
+        [
+          "80504XX",
+          "0.3",
+          "7",
+          "0.26",
+          "0.8",
+          "0.24/0.3",
+          "1.4/1.5",
+          "6",
+          "50.2",
+          "9",
+          "1000"
+        ],
+        [
+          "80506XX",
+          "0.5",
+          "7",
+          "0.32",
+          "1.0",
+          "0.24/0.3",
+          "1.6/1.7",
+          "8",
+          "32.7",
+          "12",
+          "1000"
+        ],
+        [
+          "80554XX",
+          "0.85",
+          "19",
+          "0.24",
+          "1.2",
+          "0.24/0.3",
+          "1.8/1.9",
+          "12",
+          "21.7",
+          "15",
+          "1000"
+        ],
+        [
+          "80512XX",
+          "1.25",
+          "19",
+          "0.29",
+          "1.5",
+          "0.24/0.3",
+          "2.1/2.2",
+          "13",
+          "14.9",
+          "19",
+          "1000"
+        ],
+        [
+          "80514XX",
+          "2",
+          "19",
+          "0.37",
+          "1.9",
+          "0.32/0.4",
+          "2.7/2.8",
+          "25",
+          "9.00",
+          "27",
+          "500"
+        ]
+      ],
+      "catalogueNo": "805",
+      "info": {
+        "features": [
+          "Flame retardant",
+          "Highly resistant against acids, lyes, petrol and diesel.",
+          "Flexible conductors with PVC very thin wall insulation for smaller diameter and lesser weight."
+        ],
+        "technical": [
+          "Temperature Range : -40°C to +80°C (3000 Hours)",
+          "Standard : JASO D 611:2014",
+          "Test Voltage : 1 kV",
+          "A : Low tension cable for automobiles",
+          "V : Vinyl inuslated",
+          "SS : Very thin wall type"
+        ],
+        "application": [
+          "Low-tension electric wire for Automobiles.",
+          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits.",
+          "Especially used for circuits requiring heat resistance."
+        ],
+        "construction": [
+          "Conductor : Soft-annealed electrolytic copper E-Cu ETP1 according to JIS C 3102, bare conductor construction according to JASO D 611: 2014",
+          "Insulation : PVC",
+          "Colour : As per customer order",
+          "Single core"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/53fc37e82f.png?v=1794390346132",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/53fc37e82f-3d.png?v=1794390351669"
+    },
+    {
+      "id": "b0e520e781",
+      "family": "automotive",
+      "name": "AVSS f",
+      "headers": [
+        "Part Number",
+        "Nom. Cross Section",
+        "No. of Strands",
+        "Diameter of Single wire Max.",
+        "Conductor Diameter Approx",
+        "Insulation Wall Thickness Nom.",
+        "Cable Overall Diamter (Nom/Max)",
+        "Weight Approx.",
+        "Max. Conductor Resistance at 20°C",
+        "Current Carrying Capacity",
+        "Standard Length*"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "Nos",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "Kg/km",
+          "Ω/km",
+          "Amps",
+          "mtrs"
+        ],
+        [
+          "80604XX",
+          "0.3",
+          "19",
+          "0.16",
+          "0.8",
+          "0.30",
+          "1.4/1.5",
+          "5",
+          "48.8",
+          "9",
+          "1000"
+        ],
+        [
+          "80606XX",
+          "0.5",
+          "19",
+          "0.19",
+          "1.0",
+          "0.30",
+          "1.6/1.7",
+          "7",
+          "34.6",
+          "11",
+          "1000"
+        ],
+        [
+          "80608XX",
+          "0.75",
+          "19",
+          "0.23",
+          "1.2",
+          "0.30",
+          "1.8/1.9",
+          "9",
+          "23.6",
+          "15",
+          "1000"
+        ],
+        [
+          "80612XX",
+          "1.25",
+          "37",
+          "0.21",
+          "1.5",
+          "0.30",
+          "2.1/2.2",
+          "14",
+          "14.6",
+          "20",
+          "1000"
+        ],
+        [
+          "80614XX",
+          "2",
+          "37",
+          "0.26",
+          "1.8",
+          "0.40",
+          "2.6/2.7",
+          "22",
+          "9.50",
+          "26",
+          "500"
+        ]
+      ],
+      "catalogueNo": "806",
+      "info": {
+        "features": [
+          "Flame Retardant",
+          "Highly resistant against acids, alkaline, petrol and diesel",
+          "Extra flexible conductor with pvc very thin wall insulation for smaller diameter and lesser weight",
+          "Excellent flexibility"
+        ],
+        "technical": [
+          "Temperature Range : -40°C to +80°C (3000 Hours)",
+          "Standard : JASO D 611: 2014",
+          "Test Voltage : 1 kV",
+          "A : Low tension cables for automobiles",
+          "V : Vinyl insulated",
+          "SS : Very Thin type",
+          "f : Extra flexible Conductor"
+        ],
+        "application": [
+          "Wire harness of low-tension electric circuits for automobiles",
+          "Used in motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
+        ],
+        "construction": [
+          "Conductor : Soft-annealed electrolytic copper E-Cu ETP1 according to JIS C 3102, bare conductor construction according to JASO D 611",
+          "Insulation : PVC",
+          "Colour : As per customer order",
+          "Single Core"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/b0e520e781.png?v=1794399418772",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/b0e520e781-3d.png?v=1794399425254"
     },
     {
       "id": "dd77afc0b2",
@@ -13903,224 +14024,6 @@
         ]
       },
       "colorNote": "Note : Brown - RAL 8003, Green - RAL 6018, Orange - RAL 2003  & Blue - RAL 5015\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog."
-    },
-    {
-      "id": "ame914cd5d",
-      "family": "automotive",
-      "name": "Siechem Automotive Engine Harness Wire ISO 6722 T4 Class D",
-      "headers": [
-        "Part Number",
-        "Conductor Construction Nominal Cross- Section",
-        "Conductor Construction No. of Strands",
-        "Conductor Construction Diameter of Single wire max.",
-        "Conductor Construction Conductor Diameter Max.",
-        "Insulation Wall Thickness min. Conductor Diameter Max.",
-        "Cable Overall Diameter Min.",
-        "Cable Overall Diameter Max.",
-        "Cable Weight Approx. Max.",
-        "Current Carrying Capacity Weight Approx. Max.",
-        "Max.Conductor Resistance at 200C Weight Approx. Plain",
-        "Max.Conductor Resistance at 200C Weight Approx. Tinned"
-      ],
-      "rows": [
-        [
-          "C54605XX",
-          "0.35",
-          "7",
-          "0.27",
-          "0.80",
-          "0.20",
-          "1.20",
-          "1.40",
-          "5",
-          "13",
-          "54.4",
-          "55.5"
-        ],
-        [
-          "CA54606XX",
-          "0.5",
-          "7",
-          "0.32",
-          "1.00",
-          "0.22",
-          "1.40",
-          "1.60",
-          "7",
-          "16",
-          "37.1",
-          "38.2"
-        ],
-        [
-          "C54606XX",
-          "0.5",
-          "19",
-          "0.19",
-          "1.00",
-          "0.22",
-          "1.40",
-          "1.60",
-          "7",
-          "16",
-          "37.1",
-          "38.2"
-        ],
-        [
-          "C54608XX",
-          "0.75",
-          "19",
-          "0.24",
-          "1.20",
-          "0.24",
-          "1.70",
-          "1.90",
-          "9",
-          "22",
-          "24.7",
-          "25.4"
-        ],
-        [
-          "C54610XX",
-          "1",
-          "19",
-          "0.27",
-          "1.35",
-          "0.24",
-          "1.90",
-          "2.10",
-          "11",
-          "26",
-          "18.5",
-          "19.1"
-        ],
-        [
-          "C54613XX",
-          "1.5",
-          "19",
-          "0.33",
-          "1.70",
-          "0.24",
-          "2.20",
-          "2.40",
-          "17",
-          "33",
-          "12.7",
-          "13.0"
-        ],
-        [
-          "C54616XX",
-          "2.5",
-          "19",
-          "0.41",
-          "2.15",
-          "0.28",
-          "2.70",
-          "3.00",
-          "27",
-          "46",
-          "7.60",
-          "7.82"
-        ],
-        [
-          "C54619XX",
-          "4",
-          "56",
-          "0.31",
-          "2.50",
-          "0.32",
-          "3.40",
-          "3.70",
-          "43",
-          "64",
-          "4.71",
-          "4.85"
-        ],
-        [
-          "C54623XX",
-          "6",
-          "84",
-          "0.31",
-          "2.95",
-          "0.32",
-          "4.00",
-          "4.30",
-          "62",
-          "82",
-          "3.14",
-          "3.23"
-        ],
-        [
-          "C54627XX",
-          "10",
-          "80",
-          "0.41",
-          "4.50",
-          "0.48",
-          "5.30",
-          "6.00",
-          "108",
-          "119",
-          "1.82",
-          "1.85"
-        ],
-        [
-          "C54628XX",
-          "16",
-          "126",
-          "0.41",
-          "6.30",
-          "0.52",
-          "6.40",
-          "7.20",
-          "177",
-          "160",
-          "1.16",
-          "1.18"
-        ],
-        [
-          "C54656XX",
-          "20",
-          "152",
-          "0.41",
-          "6.90",
-          "0.52",
-          "7.00",
-          "7.80",
-          "190",
-          "180",
-          "0.955",
-          "0.999"
-        ],
-        [
-          "C54630XX",
-          "25",
-          "196",
-          "0.41",
-          "7.80",
-          "0.52",
-          "7.90",
-          "8.70",
-          "250",
-          "211",
-          "0.743",
-          "0.757"
-        ],
-        [
-          "C54632XX",
-          "35",
-          "276",
-          "0.41",
-          "9.00",
-          "0.64",
-          "9.40",
-          "10.40",
-          "345",
-          "259",
-          "0.527",
-          "0.538"
-        ]
-      ],
-      "catalogueNo": "C"
     },
     {
       "id": "3aff9415ea",
@@ -30252,146 +30155,6 @@
       "colorNote": "We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog"
     },
     {
-      "id": "53fc37e82f",
-      "family": "automotive",
-      "name": "AVSS RoHS",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Strands",
-        "Diameter of Single wire Max.",
-        "Conductor Diameter Approx.",
-        "Insulation Wall Thickness (Min/Nom)",
-        "Cable Overall Diameter (Nom/Max)",
-        "Weight Approx.",
-        "Max. Conductor Resistance at 20°C",
-        "Current Carrying  Capacity",
-        "Standard Length"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "Nos",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "Kg/Km",
-          "Ω/km",
-          "Amps",
-          "mtrs"
-        ],
-        [
-          "80502XX",
-          "0.22",
-          "7",
-          "0.20",
-          "0.6",
-          "0.24/0.3",
-          "1.2/1.3",
-          "5",
-          "84.8",
-          "6",
-          "1000"
-        ],
-        [
-          "80504XX",
-          "0.3",
-          "7",
-          "0.26",
-          "0.8",
-          "0.24/0.3",
-          "1.4/1.5",
-          "6",
-          "50.2",
-          "9",
-          "1000"
-        ],
-        [
-          "80506XX",
-          "0.5",
-          "7",
-          "0.32",
-          "1.0",
-          "0.24/0.3",
-          "1.6/1.7",
-          "8",
-          "32.7",
-          "12",
-          "1000"
-        ],
-        [
-          "80554XX",
-          "0.85",
-          "19",
-          "0.24",
-          "1.2",
-          "0.24/0.3",
-          "1.8/1.9",
-          "12",
-          "21.7",
-          "15",
-          "1000"
-        ],
-        [
-          "80512XX",
-          "1.25",
-          "19",
-          "0.29",
-          "1.5",
-          "0.24/0.3",
-          "2.1/2.2",
-          "13",
-          "14.9",
-          "19",
-          "1000"
-        ],
-        [
-          "80514XX",
-          "2",
-          "19",
-          "0.37",
-          "1.9",
-          "0.32/0.4",
-          "2.7/2.8",
-          "25",
-          "9.00",
-          "27",
-          "500"
-        ]
-      ],
-      "catalogueNo": "805",
-      "info": {
-        "features": [
-          "Flame retardant",
-          "Highly resistant against acids, lyes, petrol and diesel.",
-          "Flexible conductors with PVC very thin wall insulation for smaller diameter and lesser weight."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +80°C (3000 Hours)",
-          "Standard : JASO D 611:2014",
-          "Test Voltage : 1 kV",
-          "A : Low tension cable for automobiles",
-          "V : Vinyl inuslated",
-          "SS : Very thin wall type"
-        ],
-        "application": [
-          "Low-tension electric wire for Automobiles.",
-          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits.",
-          "Especially used for circuits requiring heat resistance."
-        ],
-        "construction": [
-          "Conductor : Soft-annealed electrolytic copper E-Cu ETP1 according to JIS C 3102, bare conductor construction according to JASO D 611: 2014",
-          "Insulation : PVC",
-          "Colour : As per customer order",
-          "Single Core"
-        ]
-      },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/53fc37e82f.png?v=1794390346132",
-      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/53fc37e82f-3d.png?v=1794390351669"
-    },
-    {
       "id": "bef124ac46",
       "family": "automotive",
       "name": "Auto 100 TW Class B",
@@ -30655,6 +30418,247 @@
           "Colour : As per customer order",
           "Cable construction according to ISO 6722-1, Class B (Thin wall)",
           "Single core, Single layer insulation"
+        ]
+      }
+    },
+    {
+      "id": "d24688ab8c",
+      "family": "automotive",
+      "name": "RG 58LL Co - axial Cable",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section",
+        "No. of Core",
+        "No. of Strand",
+        "Diameter of Wire (Nom.)",
+        "Insulation Wall Thickness (Nom.)",
+        "Al Mylar Tape Thickness (Nom.)",
+        "Braiding Wire Dia (Nom.)",
+        "Outer Sheath Thickness (Nom.)",
+        "Overall Diameter (Nom.)",
+        "Weight Approx.",
+        "Max. Conductor Resistance at 20°C"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "Nos",
+          "Nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "kg/km",
+          " Ω/km"
+        ],
+        [
+          "A718A250002",
+          "0.69",
+          "1",
+          "1",
+          "0.94",
+          "0.90",
+          "0.035",
+          "0.12",
+          "0.6",
+          "4.85 ± 0.15",
+          "40",
+          "25"
+        ]
+      ],
+      "catalogueNo": "A718",
+      "info": {
+        "features": [
+          "Low loss.",
+          "Characteristic Impedance is constant in high frequency domain.",
+          "We are superior in flexibility workability after being lightweight.",
+          "It is high cover, low loss type."
+        ],
+        "technical": [
+          "Standard : ES 96220-01",
+          "Characteristic Impedance : 50 ± 2 Ω",
+          "Electrostatic Capacity : 105 nF/km",
+          "Min. Insulation Resistance : 1000 MΩ.km",
+          "Max Attenuation : 150 MHz - 0.146 dB/m",
+          "220MHz - 0.177 dB/m",
+          "450MHz- 0.255 dB/m",
+          "900MHz -0.365 dB/m",
+          "1500MHz- 0.477 dB/m",
+          "1800MHz -0.525 dB/m",
+          "2000MHz- 0.554 dB/m",
+          "2500MHz -0.624 dB/m"
+        ],
+        "application": [
+          "Coaxial cable to be used as car antenna cable and feeder cable.",
+          "Automotive inner Wiring for communication and Electronic Devices.",
+          "Automotive TV/ Radio.",
+          "Drop Wire, House wiring to indoor.",
+          "Monitoring / Security camera.",
+          "Ringing circuit connection between high frequency apparatus."
+        ],
+        "construction": [
+          "Conductor : Annealed Plain Solid Copper Conductor",
+          "Insulation : Foam PE",
+          "Color : Natural",
+          "Taping : Al - Mylar tape",
+          "Braiding : ATC",
+          "Outer Sheath: Polyvinylchloride",
+          "Sheath Color: As per customer request Automotive RG 58LL Cables"
+        ]
+      }
+    },
+    {
+      "id": "b7ad135b7a",
+      "family": "automotive",
+      "name": "SGX RoHS",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section mm²",
+        "No. of Strands Nos",
+        "Diameter of Single wire max. mm",
+        "Conductor Diameter Nom. mm",
+        "Insulation Wall Thickness — Min/Nom mm",
+        "Cable — Overall Diameter Max. mm",
+        "Weight Approx. Kg/Km",
+        "Max. Conductor Resistance at 20°C Ω/km",
+        "Current Carrying  Capacity Amps",
+        "Standard Length* mtrs"
+      ],
+      "rows": [
+        [
+          "82361XX",
+          "13",
+          "133",
+          "0.36",
+          "4.83",
+          "1.06/1.52",
+          "8.60",
+          "166",
+          "1.40",
+          "124",
+          "500"
+        ],
+        [
+          "82362XX",
+          "19",
+          "133",
+          "0.46",
+          "6.09",
+          "1.16/1.65",
+          "10.5",
+          "257",
+          "0.94",
+          "160",
+          "500"
+        ],
+        [
+          "82363XX",
+          "32",
+          "133",
+          "0.57",
+          "7.67",
+          "1.16/1.65",
+          "12.0",
+          "373",
+          "0.56",
+          "218",
+          "500"
+        ],
+        [
+          "82358XX",
+          "40",
+          "259",
+          "0.46",
+          "8.49",
+          "1.16/1.65",
+          "13.0",
+          "453",
+          "0.42",
+          "255",
+          "500"
+        ],
+        [
+          "82334XX",
+          "50",
+          "1026",
+          "0.26",
+          "9.47",
+          "1.16/1.65",
+          "14.5",
+          "545",
+          "0.36",
+          "281",
+          "500"
+        ],
+        [
+          "82365XX",
+          "62",
+          "1254",
+          "0.26",
+          "10.47",
+          "1.16/1.65",
+          "16.0",
+          "653",
+          "0.27",
+          "325",
+          "500"
+        ],
+        [
+          "82366XX",
+          "81",
+          "1615",
+          "0.26",
+          "11.89",
+          "1.39/1.98",
+          "18.5",
+          "847",
+          "0.21",
+          "381",
+          "500"
+        ],
+        [
+          "82367XX",
+          "103",
+          "2052",
+          "0.26",
+          "13.40",
+          "1.39/1.98",
+          "20.0",
+          "1052",
+          "0.17",
+          "808",
+          "500"
+        ]
+      ],
+      "catalogueNo": "823",
+      "info": {
+        "features": [
+          "Flame Retardant",
+          "Highly resistant against acids, alkaline, petrol and diesel",
+          "Flexible conductors with Electron Beam Cross Linked polyolefin general purpose insulation for smaller diameter and lesser weight",
+          "Extra flexibility",
+          "Heat Resistant"
+        ],
+        "technical": [
+          "Temperature Range : -40°C to +125°C (3000 Hours)",
+          "Standard : SAE J1127",
+          "Test Voltage : 1 kV",
+          "S :Starter or Ground",
+          "G : General purpose",
+          "X : Cross linked polyolefin"
+        ],
+        "application": [
+          "Wire harness of low-tension electric circuts for automobiles.",
+          "Used in motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits.",
+          "Especially used for circuits requiring heat resistance."
+        ],
+        "construction": [
+          "Conductor : Soft-annealed electrolytic copper E- Cu ETP1 according to ASTM B3 bare conductor construction according to SAE J 1127",
+          "Insulation : Electron beam cross linked polyolefin.",
+          "Colo 22u DDr : A VVs iip eee wwr customer order."
         ]
       }
     },
