@@ -734,6 +734,46 @@
         {
           "code": "96",
           "name": "Yellow-Black"
+        },
+        {
+          "code": "97",
+          "name": "Yellow-Brown"
+        },
+        {
+          "code": "98",
+          "name": "Yellow-Orange"
+        },
+        {
+          "code": "99",
+          "name": "Yellow-Violet"
+        },
+        {
+          "code": "A01",
+          "name": "Blue-Brown"
+        },
+        {
+          "code": "A02",
+          "name": "Blue-White"
+        },
+        {
+          "code": "A03",
+          "name": "Green-Blue"
+        },
+        {
+          "code": "A04",
+          "name": "Green-White"
+        },
+        {
+          "code": "A06",
+          "name": "White-Violet"
+        },
+        {
+          "code": "A07",
+          "name": "White-Green"
+        },
+        {
+          "code": "A08",
+          "name": "White-Yellow"
         }
       ],
       "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering."

@@ -2123,11 +2123,11 @@
           "Resistance to corona effect."
         ],
         "technical": [
-          "Temperature Range : -40°C to +90°C.",
-          "Rated Voltage : 300/500V AC",
-          "Specification : BS EN 50264-3-2 : 2008, Table 1",
+          "Temperature Range: -40°C to +90°C.",
+          "Rated Voltage: 300/500V AC",
+          "Specification: BS EN 50264-3-2: 2008, Table 1",
           "Hazard Level Classification as per EN 45545-2, HL3",
-          "Conductor : BS EN 60228, Class 5",
+          "Conductor: BS EN 60228, Class 5",
           "In addition to BS EN 50264 spec, cables also meet fire performance tests as per UNI CEI 11170-3, DIN 5510-2, NF F 16-101 NFPA -130, EN 45545"
         ],
         "application": [
@@ -2135,11 +2135,11 @@
           "Cables are used in Driver desks, Control panels, wiring harness in inside/outside the moving vehicles."
         ],
         "construction": [
-          "Conductor : Finely Stranded Annealed Electro Tinned Copper, Class 5.",
-          "Insulation : EBXL - EI 109",
-          "Separator : Polyester Tape",
-          "Outer Sheath : EBXL - EM 104",
-          "Colour : Black or as per customer order"
+          "Conductor: Finely Stranded Annealed Electro Tinned Copper, Class 5.",
+          "Insulation: EBXL - EI 109",
+          "Separator: Polyester Tape",
+          "Outer Sheath: EBXL - EM 104",
+          "Colour: Black or as per customer order"
         ]
       }
     },
