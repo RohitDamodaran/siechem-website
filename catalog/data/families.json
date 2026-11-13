@@ -494,6 +494,134 @@
         {
           "code": "21",
           "name": "Pink"
+        },
+        {
+          "code": "24",
+          "name": "Red-Black"
+        },
+        {
+          "code": "28",
+          "name": "Yellow-White"
+        },
+        {
+          "code": "29",
+          "name": "Green-Yellow"
+        },
+        {
+          "code": "38",
+          "name": "Black-Orange"
+        },
+        {
+          "code": "39",
+          "name": "Black-Red"
+        },
+        {
+          "code": "40",
+          "name": "Black-White"
+        },
+        {
+          "code": "41",
+          "name": "Black-Yellow"
+        },
+        {
+          "code": "42",
+          "name": "Green-Black"
+        },
+        {
+          "code": "56",
+          "name": "Brown-Black"
+        },
+        {
+          "code": "58",
+          "name": "Brown-White"
+        },
+        {
+          "code": "62",
+          "name": "White-Black"
+        },
+        {
+          "code": "64",
+          "name": "White-Blue"
+        },
+        {
+          "code": "66",
+          "name": "White-Red"
+        },
+        {
+          "code": "67",
+          "name": "Orange-Black"
+        },
+        {
+          "code": "70",
+          "name": "Orange-Blue"
+        },
+        {
+          "code": "73",
+          "name": "Orange-White"
+        },
+        {
+          "code": "83",
+          "name": "Pink-White"
+        },
+        {
+          "code": "93",
+          "name": "Red-Green"
+        },
+        {
+          "code": "94",
+          "name": "Red-Yellow"
+        },
+        {
+          "code": "95",
+          "name": "Yellow-Red"
+        },
+        {
+          "code": "96",
+          "name": "Yellow-Black"
+        },
+        {
+          "code": "A02",
+          "name": "Blue-White"
+        },
+        {
+          "code": "A04",
+          "name": "Green-White"
+        },
+        {
+          "code": "A07",
+          "name": "White-Green"
+        },
+        {
+          "code": "A08",
+          "name": "White-Yellow"
+        },
+        {
+          "code": "A12",
+          "name": "Red-White"
+        },
+        {
+          "code": "A22",
+          "name": "Red-Violet"
+        },
+        {
+          "code": "A85",
+          "name": "Black-Pink"
+        },
+        {
+          "code": "B58",
+          "name": "Purple-White"
+        },
+        {
+          "code": "B66",
+          "name": "White-Purple"
+        },
+        {
+          "code": "B69",
+          "name": "Purple-Black"
+        },
+        {
+          "code": "B70",
+          "name": "Black-Tan"
         }
       ],
       "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering."
