@@ -558,7 +558,8 @@
           "Single core"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/7b92b69a03.png?v=1784743884472"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/7b92b69a03.png?v=1784743884472",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/7b92b69a03-3d.jpg?v=1794566632012"
     },
     {
       "id": "55ac1a3e25",
@@ -744,7 +745,8 @@
           "Single Core"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/55ac1a3e25.png?v=1784743880832"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/55ac1a3e25.png?v=1784743880832",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/55ac1a3e25-3d.jpg?v=1794567520825"
     },
     {
       "id": "33622b0669",
@@ -1485,7 +1487,9 @@
           "Colour As Per Customer Order.",
           "No of cores       : 2"
         ]
-      }
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/e4224923b2.jpg?v=1794569268415",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/e4224923b2-3d.jpg?v=1794569282911"
     },
     {
       "id": "def4703153",
@@ -1682,7 +1686,8 @@
           "No of cores       : 2"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/def4703153.jpg?v=1784743893423"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/def4703153.jpg?v=1794566871055",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/def4703153-3d.jpg?v=1794566789968"
     }
   ]
 }
