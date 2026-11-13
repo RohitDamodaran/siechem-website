@@ -845,8 +845,8 @@
           "Hook up and signal wire and cable used in aircraft, avionics, military electronics, satellites helicopters, ships, mass transit, offshore platforms, and automobiles."
         ],
         "construction": [
-          "Conductor  : Annealed Tinned Copper Conductor",
-          "(Optional    : Silver Coated Copper Conductor /  Nickel Coated Copper                     Conductor)",
+          "CConductor)onductor  : Annealed Tinned Copper Conductor",
+          "(Optional    : Silver Coated Copper Conductor /  Nickel Coated Copper",
           "Insulation    : Radiation Cross-Linked Specially Formulated Polyalkene",
           "Extruded & Radiation Cross-Linked Improved PVDF (Polyvinylidene",
           "Fluoride)",
