@@ -125,6 +125,25 @@
       ],
       "catalogueNo": "44G000",
       "info": {
+        "extra": [
+          {
+            "lines": [
+              "MIL-W-81044, MIL-C- 27500, MIL-C 7078, MIL -W- 16878,",
+              "MIL-W-22759, MIL-STD-104, MIL-STD-681, MIL-STD-1916",
+              "VG 95218 Parts 20, 21, 22, 23 and 1000",
+              "MSV34401",
+              "BS G210, BS 4066",
+              "TDE 74/P/74 and TDE 75/R/6",
+              "S424 14751",
+              "Def - Stan. 61-12 Part 18 Issue 4/Part 26 Issue 3",
+              "NFC 32070",
+              "NES 714, NES 715",
+              "ASTM E 595",
+              "NEMA WC 27500"
+            ],
+            "title": "Standards"
+          }
+        ],
         "features": [
           "Insulation does not shrink in hostile working environment .",
           "AERO 44 wires have 40% greater cut through resistance than some of the thickly insulated wires.",
