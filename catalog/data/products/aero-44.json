@@ -1146,7 +1146,8 @@
           "Single core"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/c3ed726156.png?v=1784743890818"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/c3ed726156.png?v=1784743890818",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/c3ed726156-3d.jpg?v=1794650866035"
     },
     {
       "id": "e19725403e",
@@ -1289,7 +1290,8 @@
           "Single core."
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/e19725403e.png?v=1784743897309"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/e19725403e.png?v=1784743897309",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-44/e19725403e-3d.jpg?v=1794651097066"
     },
     {
       "id": "e4224923b2",
