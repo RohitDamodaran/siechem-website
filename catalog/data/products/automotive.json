@@ -2399,7 +2399,11 @@
           "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
         ],
         "construction": [
-          "Conductor : Soft / Annealed Plain Copper according to ISO 6722 (Symmetrical)."
+          "Conductor : Soft / Annealed Plain Copper according to ISO 6722 (Symmetrical).",
+          "Insulation : Electron Beam Cross Linked Polyolefin Class D (Thick Wall)",
+          "Colour : As per customer order.",
+          "Cable construction according to ISO 6722 Class D.",
+          "Single Core, Single Layer insulation."
         ]
       },
       "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/5b96d4b1fd.png?v=1794648019096",

@@ -208,15 +208,14 @@
       "catalogueNo": "0011118402",
       "info": {
         "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
           "Single or dual wall constructions.",
           "Small size and light weight.",
           "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
+          "Resistance to soldering iron & overload.",
           "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
           "Very low toxic.",
           "Mechanical ruggedness.",
           "Good flexibility.",
@@ -252,7 +251,7 @@
         "construction": [
           "Conductor : Annealed Tinned Copper Conductor",
           "Insulation : Sie Foam",
-          "Tape         : Al Mylar Tape",
+          "Tape         : Al. Mylar Tape",
           "Shielding  : Annealed Tinned Copper.",
           "Outer sheath : AX-150",
           "No of Cores   :  2",
@@ -260,7 +259,8 @@
           "Jacket Colour  : White"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6573ed1eb4.jpg?v=1784743917479"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6573ed1eb4.jpg?v=1784743917479",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6573ed1eb4-3d.jpg?v=1794649291917"
     },
     {
       "id": "01317b9281",
@@ -1006,15 +1006,14 @@
       "catalogueNo": "2011118402",
       "info": {
         "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
           "Single or dual wall constructions.",
           "Small size and light weight.",
           "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
+          "Resistance to soldering iron & overload.",
           "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
           "Very low toxic.",
           "Mechanical ruggedness.",
           "Good flexibility.",
@@ -1052,7 +1051,6 @@
         "construction": [
           "Conductor : Annealed Tinned Copper Conductor",
           "Insulation : Sie Foam",
-          "Tape         : Al Mylar Tape",
           "Shielding  : Annealed Tinned Copper.",
           "Outer sheath : AX-150",
           "No of Cores   :  2",
@@ -1060,7 +1058,8 @@
           "Jacket Colour  : White"
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/38e41b42d4.jpg?v=1784743906308"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/38e41b42d4.jpg?v=1784743906308",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/38e41b42d4-3d.jpg?v=1794649580637"
     },
     {
       "id": "9fee8eba74",
