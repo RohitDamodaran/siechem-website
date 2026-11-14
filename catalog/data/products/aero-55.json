@@ -660,6 +660,21 @@
       ],
       "catalogueNo": "55G000",
       "info": {
+        "extra": [
+          {
+            "lines": [
+              "SAE AS227759/32-35 and / 41 to / 46",
+              "NEMA-WC-27500(Cables)",
+              "Def-Stan 61-12 Part 33 Issue 5",
+              "VDE 9426, 9427, 9428",
+              "British Standard 3G233",
+              "Boeing BMS 13-48",
+              "Airbus ABS 0820 to 0826",
+              "ASTM D150"
+            ],
+            "title": "Standards"
+          }
+        ],
         "features": [
           "Insulation does not shrink in hostile working",
           "environment .",
@@ -703,7 +718,8 @@
           "Colour : As Per Customer Order."
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/3a04e3fae0.jpg?v=1784743909243"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/3a04e3fae0.jpg?v=1784743909243",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/3a04e3fae0-3d.jpg?v=1794572241355"
     },
     {
       "id": "6da85d0f0c",
@@ -855,8 +871,8 @@
       "info": {
         "features": [
           "Insulation does not shrink in hostile working",
-          "environment .",
-          "Better cut though resistance characteristics",
+          "environment.",
+          "Better cut through resistance characteristics",
           "Single or dual wall constructions.",
           "Small size and light weight.",
           "No melting or dripping due to prolonging excess heat because of EBXL process.",
@@ -896,7 +912,8 @@
           "Colour : As Per Customer Order."
         ]
       },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6da85d0f0c.jpg?v=1784743919838"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6da85d0f0c.jpg?v=1784743919838",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/6da85d0f0c-3d.jpg?v=1794631598485"
     },
     {
       "id": "38e41b42d4",
