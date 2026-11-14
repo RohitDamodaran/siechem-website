@@ -1,14 +1,13 @@
 {
   "series": [
     {
-      "id": "222b835dc9",
+      "id": "b9569afd5d",
       "family": "aero-55",
-      "name": "AERO 55 600V Twisted Twin Core Statistical Process Controlled Shielded Airframe Cables",
+      "name": "AERO 55 600V Single Core Statistical Process Controlled Shielded Airframe Wires",
       "headers": [
         "Part Number",
         "Wire Size",
         "Cross Section Area",
-        "No.of Cores",
         "No.of Strands",
         "Diameter of Single Wire (Nom.)",
         "Overall Diameter (Nom.)",
@@ -20,115 +19,119 @@
           "AWG",
           "Sq.mm",
           "Nos.",
-          "Nos.",
           "mm",
           "mm",
           "kg/km"
         ],
         [
-          "55P5108502",
+          "55P41085XXYY",
           "26",
           "0.13",
-          "2",
           "19",
           "0.10",
-          "2.35",
-          "11.34"
+          "1.54",
+          "6.54"
         ],
         [
-          "55P5108402",
+          "55P41084XXYY",
           "24",
           "0.20",
-          "2",
           "19",
           "0.13",
-          "2.90",
-          "13.90"
+          "1.67",
+          "7.86"
         ],
         [
-          "55P5108302",
+          "55P41083XXYY",
           "22",
           "0.33",
-          "2",
           "19",
           "0.16",
-          "2.91",
-          "17.89"
+          "1.82",
+          "9.81"
         ],
         [
-          "55P5108202",
+          "55P41082XXYY",
           "20",
           "0.52",
-          "2",
           "19",
           "0.20",
-          "3.32",
-          "23.84"
+          "2.02",
+          "12.83"
         ],
         [
-          "55P5108102",
+          "55P41081XXYY",
           "18",
           "0.82",
-          "2",
           "19",
           "0.25",
-          "3.80",
-          "32.10"
+          "2.25",
+          "17.01"
         ],
         [
-          "55P5108002",
+          "55P41080XXYY",
           "16",
           "1.31",
-          "2",
           "19",
           "0.29",
-          "4.18",
-          "39.00"
+          "2.46",
+          "20.36"
         ],
         [
-          "55P5107902",
+          "55P41079XXYY",
           "14",
           "2.08",
-          "2",
           "19",
           "0.36",
-          "4.94",
-          "55.21"
+          "2.81",
+          "28.69"
         ],
         [
-          "55P5107802",
+          "55P41078XXYY",
           "12",
           "3.31",
-          "2",
           "37",
           "0.32",
-          "5.94",
-          "80.23"
+          "3.32",
+          "40.73"
         ],
         [
-          "55P5107702",
+          "55P41077XXYY",
           "10",
           "5.26",
-          "2",
           "37",
           "0.40",
-          "7.41",
-          "123.65"
+          "4.00",
+          "59.90"
         ]
       ],
-      "catalogueNo": "55P510",
+      "catalogueNo": "55P410",
       "info": {
+        "extra": [
+          {
+            "lines": [
+              "SAE AS227759/32-35 and / 41 to / 46",
+              "NEMA-WC-27500(Cables)",
+              "Def-Stan 61-12 Part 33 Issue 5",
+              "VDE 9426, 9427, 9428",
+              "British Standard 3G233",
+              "Boeing BMS 13-48",
+              "Airbus ABS 0820 to 0826",
+              "ASTM D150"
+            ],
+            "title": "Standards"
+          }
+        ],
         "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
           "Single or dual wall constructions.",
           "Small size and light weight.",
           "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
+          "Resistance to soldering iron & overload.",
           "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
           "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
           "Very low toxic.",
           "Mechanical ruggedness.",
           "Good flexibility.",
@@ -159,10 +162,12 @@
           "Shielding  : Annealed Tinned Copper.",
           "Outer sheath : Radiation Cross-Linked Specially Formulated ETFE",
           "(Ethylene Tetrafluoroethylene)",
-          "No of Core  :  2",
+          "Single Core",
           "Colour : As Per Customer Order"
         ]
-      }
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/b9569afd5d.jpg?v=1794645928530",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/b9569afd5d-3d.jpg?v=1794647677920"
     },
     {
       "id": "6573ed1eb4",
@@ -1602,6 +1607,339 @@
       "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/460c473d9b-3d.jpg?v=1794636128885"
     },
     {
+      "id": "ec3d1dc3b7",
+      "family": "aero-55",
+      "name": "AERO 55 600 V Single Core insulated Statistical Process Controlled Airframe Wires",
+      "headers": [
+        "Part Number",
+        "Wire Size",
+        "Cross Section Area",
+        "No.of Strands",
+        "Diameter of Single Wire (Nom.)",
+        "Overall Diameter (Nom.)",
+        "Cable Weight (Approx.)"
+      ],
+      "rows": [
+        [
+          "",
+          "AWG",
+          "Sq.mm",
+          "Nos.",
+          "mm",
+          "mm",
+          "kg/km"
+        ],
+        [
+          "55P21085XXYY",
+          "26",
+          "0.13",
+          "19",
+          "0.10",
+          "0.10",
+          "2.05"
+        ],
+        [
+          "55P21084XXYY",
+          "24",
+          "0.20",
+          "19",
+          "0.13",
+          "1.02",
+          "2.95"
+        ],
+        [
+          "55P21083XXYY",
+          "22",
+          "0.33",
+          "19",
+          "0.16",
+          "1.17",
+          "4.31"
+        ],
+        [
+          "55P21082XXYY",
+          "20",
+          "0.52",
+          "19",
+          "0.20",
+          "1.39",
+          "6.51"
+        ],
+        [
+          "55P21081XXYY",
+          "18",
+          "0.82",
+          "19",
+          "0.25",
+          "1.63",
+          "9.81"
+        ],
+        [
+          "55P21080XXYY",
+          "16",
+          "1.31",
+          "19",
+          "0.29",
+          "1.82",
+          "12.46"
+        ],
+        [
+          "55P21079XXYY",
+          "14",
+          "2.08",
+          "19",
+          "0.36",
+          "2.20",
+          "19.17"
+        ],
+        [
+          "55P21078XXYY",
+          "12",
+          "3.31",
+          "37",
+          "0.32",
+          "2.68",
+          "29.36"
+        ],
+        [
+          "55P21077XXYY",
+          "10",
+          "5.26",
+          "37",
+          "0.40",
+          "3.29",
+          "46.31"
+        ]
+      ],
+      "catalogueNo": "55P210",
+      "info": {
+        "extra": [
+          {
+            "lines": [
+              "SAE AS227759/32-35 and / 41 to / 46",
+              "NEMA-WC-27500(Cables)",
+              "Def-Stan 61-12 Part 33 Issue 5",
+              "VDE 9426, 9427, 9428",
+              "British Standard 3G233",
+              "Boeing BMS 13-48",
+              "Airbus ABS 0820 to 0826",
+              "ASTM D150"
+            ],
+            "title": "Standards"
+          }
+        ],
+        "features": [
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
+          "Single or dual wall constructions.",
+          "Small size and light weight.",
+          "No melting or dripping due to prolonging excess heat because of EBXL process.",
+          "Resistance to soldering iron & overload.",
+          "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
+          "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
+          "Very low toxic.",
+          "Mechanical ruggedness.",
+          "Good flexibility.",
+          "Excellent scrape abrasion.",
+          "RoHS Compliant."
+        ],
+        "technical": [
+          "Temperature Rating",
+          "i) Tin Plated Conductor        :  -65°C to + 150°C",
+          "ii) Silver or Nickel Plated",
+          "Conductor                            :  -65°C to + 200°C",
+          "Voltage Rating                     :  600V, Medium weight",
+          "Scrape Abrasion                  :  >100 cycles",
+          "Flexing Endurance              :  >1000 cycles",
+          "Shrinkage                            :  < 1 %",
+          "Thermal Endurance             :  200°C, 10000h",
+          "Permittivity at 1KHz             :  2.7",
+          "Dissipation Factor               :  0.001"
+        ],
+        "application": [
+          "Hook up signal wire & cables used in aircraft, avionics, military electronics, satellites, helicopters, missiles, automobiles and appliances."
+        ],
+        "construction": [
+          "Conductor : Annealed Tinned Copper Conductor",
+          "(Optional   : Silver Coated Copper Conductor / Nickel Coated Copper Conductor)",
+          "Insulation : Radiation Cross-Linked Specially Formulated ETFE (Ethylene",
+          "Tetrafluoroethylene)",
+          "Single cores",
+          "Colour : As Per Customer Order"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/ec3d1dc3b7.jpg?v=1794639133635",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/ec3d1dc3b7-3d.jpg?v=1794639121440"
+    },
+    {
+      "id": "4bbd64c22c",
+      "family": "aero-55",
+      "name": "AERO 55 600V Insulated Twisted Twin Core Statistical Process Controlled Airframe Cables",
+      "headers": [
+        "Part Number",
+        "Wire Size",
+        "Cross Section Area",
+        "No.of Cores",
+        "No.of Strands",
+        "Diameter of Single Wire (Nom.)",
+        "Overall Diameter (Nom.)",
+        "Cable Weight (Approx.)"
+      ],
+      "rows": [
+        [
+          "",
+          "AWG",
+          "Sq.mm",
+          "Nos.",
+          "Nos.",
+          "mm",
+          "mm",
+          "kg/km"
+        ],
+        [
+          "55P1108402",
+          "24",
+          "0.20",
+          "2",
+          "19",
+          "0.13",
+          "2.02",
+          "5.95"
+        ],
+        [
+          "55P1108302",
+          "22",
+          "0.33",
+          "2",
+          "19",
+          "0.16",
+          "2.33",
+          "8.74"
+        ],
+        [
+          "55P1108202",
+          "20",
+          "0.52",
+          "2",
+          "19",
+          "0.20",
+          "2.76",
+          "13.2"
+        ],
+        [
+          "55P1108102",
+          "18",
+          "0.82",
+          "2",
+          "19",
+          "0.25",
+          "3.24",
+          "19.84"
+        ],
+        [
+          "55P1108002",
+          "16",
+          "1.31",
+          "2",
+          "19",
+          "0.29",
+          "3.62",
+          "25.21"
+        ],
+        [
+          "55P1107902",
+          "14",
+          "2.08",
+          "2",
+          "19",
+          "0.36",
+          "4.38",
+          "38.80"
+        ],
+        [
+          "55P1107802",
+          "12",
+          "3.31",
+          "2",
+          "37",
+          "0.32",
+          "5.32",
+          "59.42"
+        ],
+        [
+          "55P1107702",
+          "10",
+          "5.26",
+          "2",
+          "37",
+          "0.40",
+          "6.57",
+          "93.92"
+        ]
+      ],
+      "catalogueNo": "55P110",
+      "info": {
+        "extra": [
+          {
+            "lines": [
+              "SAE AS227759/32-35 and / 41 to / 46",
+              "NEMA-WC-27500(Cables)",
+              "Def-Stan 61-12 Part 33 Issue 5",
+              "VDE 9426, 9427, 9428",
+              "British Standard 3G233",
+              "Boeing BMS 13-48",
+              "Airbus ABS 0820 to 0826",
+              "ASTM D150"
+            ],
+            "title": "Standards"
+          }
+        ],
+        "features": [
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
+          "Single or dual wall constructions.",
+          "Small size and light weight.",
+          "No melting or dripping due to prolonging excess heat because of EBXL process.",
+          "Resistance to soldering iron & overload.",
+          "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
+          "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
+          "Very low toxic.",
+          "Mechanical ruggedness.",
+          "Good flexibility.",
+          "Excellent scrape abrasion.",
+          "RoHS Compliant."
+        ],
+        "technical": [
+          "Temperature Rating",
+          "i) Tin Plated Conductor        :  -65°C to + 150°C",
+          "ii) Silver or Nickel Plated",
+          "Conductor                            :  -65°C to + 200°C",
+          "Voltage Rating                     :  600V, Medium weight",
+          "Scrape Abrasion                  :  >100 cycles",
+          "Flexing Endurance              :  >1000 cycles",
+          "Shrinkage                            :  < 1 %",
+          "Thermal Endurance             :  200°C, 10000h",
+          "Permittivity at 1KHz             :  2.7",
+          "Dissipation Factor               :  0.001"
+        ],
+        "application": [
+          "Hook up signal wire & cables used in aircraft, avionics, military electronics, satellites, helicopters, missiles, automobiles and appliances."
+        ],
+        "construction": [
+          "Conductor : Annealed Tinned Copper Conductor",
+          "(Optional   : Silver Coated Copper Conductor / Nickel Coated Copper Conductor)",
+          "Insulation : Radiation Cross-Linked Specially Formulated ETFE (Ethylene",
+          "Tetrafluoroethylene)",
+          "No of Cores : 2",
+          "Colour : As Per Customer Order"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/4bbd64c22c.jpg?v=1794640618017",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/4bbd64c22c-3d.jpg?v=1794640599581"
+    },
+    {
       "id": "5e631863a7",
       "family": "aero-55",
       "name": "AERO 55 600V Twisted Twin Core Shielded Cables",
@@ -1985,159 +2323,9 @@
       "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/a22a6eb3f6-3d.jpg?v=1794638286163"
     },
     {
-      "id": "ec3d1dc3b7",
+      "id": "222b835dc9",
       "family": "aero-55",
-      "name": "AERO 55 600 V Single Core insulated Statistical Process Controlled Airframe Wires",
-      "headers": [
-        "Part Number",
-        "Wire Size",
-        "Cross Section Area",
-        "No.of Strands",
-        "Diameter of Single Wire (Nom.)",
-        "Overall Diameter (Nom.)",
-        "Cable Weight (Approx.)"
-      ],
-      "rows": [
-        [
-          "",
-          "AWG",
-          "Sq.mm",
-          "Nos.",
-          "mm",
-          "mm",
-          "kg/km"
-        ],
-        [
-          "55P21085XXYY",
-          "26",
-          "0.13",
-          "19",
-          "0.10",
-          "0.10",
-          "2.05"
-        ],
-        [
-          "55P21084XXYY",
-          "24",
-          "0.20",
-          "19",
-          "0.13",
-          "1.02",
-          "2.95"
-        ],
-        [
-          "55P21083XXYY",
-          "22",
-          "0.33",
-          "19",
-          "0.16",
-          "1.17",
-          "4.31"
-        ],
-        [
-          "55P21082XXYY",
-          "20",
-          "0.52",
-          "19",
-          "0.20",
-          "1.39",
-          "6.51"
-        ],
-        [
-          "55P21081XXYY",
-          "18",
-          "0.82",
-          "19",
-          "0.25",
-          "1.63",
-          "9.81"
-        ],
-        [
-          "55P21080XXYY",
-          "16",
-          "1.31",
-          "19",
-          "0.29",
-          "1.82",
-          "12.46"
-        ],
-        [
-          "55P21079XXYY",
-          "14",
-          "2.08",
-          "19",
-          "0.36",
-          "2.20",
-          "19.17"
-        ],
-        [
-          "55P21078XXYY",
-          "12",
-          "3.31",
-          "37",
-          "0.32",
-          "2.68",
-          "29.36"
-        ],
-        [
-          "55P21077XXYY",
-          "10",
-          "5.26",
-          "37",
-          "0.40",
-          "3.29",
-          "46.31"
-        ]
-      ],
-      "catalogueNo": "55P210",
-      "info": {
-        "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
-          "Single or dual wall constructions.",
-          "Small size and light weight.",
-          "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
-          "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
-          "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
-          "Very low toxic.",
-          "Mechanical ruggedness.",
-          "Good flexibility.",
-          "Excellent scrape abrasion.",
-          "RoHS Compliant."
-        ],
-        "technical": [
-          "Temperature Rating",
-          "i) Tin Plated Conductor        :  -65°C to + 150°C",
-          "ii) Silver or Nickel Plated",
-          "Conductor                            :  -65°C to + 200°C",
-          "Voltage Rating                     :  600V, Medium weight",
-          "Scrape Abrasion                  :  >100 cycles",
-          "Flexing Endurance              :  >1000 cycles",
-          "Shrinkage                            :  < 1 %",
-          "Thermal Endurance             :  200°C, 10000h",
-          "Permittivity at 1KHz             :  2.7",
-          "Dissipation Factor               :  0.001"
-        ],
-        "application": [
-          "Hook up signal wire & cables used in aircraft, avionics, military electronics, satellites, helicopters, missiles, automobiles and appliances."
-        ],
-        "construction": [
-          "Conductor : Annealed Tinned Copper Conductor",
-          "(Optional   : Silver Coated Copper Conductor / Nickel Coated Copper Conductor)",
-          "Insulation : Radiation Cross-Linked Specially Formulated ETFE (Ethylene",
-          "Tetrafluoroethylene)",
-          "Single cores",
-          "Colour : As Per Customer Order"
-        ]
-      }
-    },
-    {
-      "id": "4bbd64c22c",
-      "family": "aero-55",
-      "name": "AERO 55 600V Insulated Twisted Twin Core Statistical Process Controlled Airframe Cables",
+      "name": "AERO 55 600V Twisted Twin Core Statistical Process Controlled Shielded Airframe Cables",
       "headers": [
         "Part Number",
         "Wire Size",
@@ -2160,249 +2348,123 @@
           "kg/km"
         ],
         [
-          "55P1108402",
-          "24",
-          "0.20",
-          "2",
-          "19",
-          "0.13",
-          "2.02",
-          "5.95"
-        ],
-        [
-          "55P1108302",
-          "22",
-          "0.33",
-          "2",
-          "19",
-          "0.16",
-          "2.33",
-          "8.74"
-        ],
-        [
-          "55P1108202",
-          "20",
-          "0.52",
-          "2",
-          "19",
-          "0.20",
-          "2.76",
-          "13.2"
-        ],
-        [
-          "55P1108102",
-          "18",
-          "0.82",
-          "2",
-          "19",
-          "0.25",
-          "3.24",
-          "19.84"
-        ],
-        [
-          "55P1108002",
-          "16",
-          "1.31",
-          "2",
-          "19",
-          "0.29",
-          "3.62",
-          "25.21"
-        ],
-        [
-          "55P1107902",
-          "14",
-          "2.08",
-          "2",
-          "19",
-          "0.36",
-          "4.38",
-          "38.80"
-        ],
-        [
-          "55P1107802",
-          "12",
-          "3.31",
-          "2",
-          "37",
-          "0.32",
-          "5.32",
-          "59.42"
-        ],
-        [
-          "55P1107702",
-          "10",
-          "5.26",
-          "2",
-          "37",
-          "0.40",
-          "6.57",
-          "93.92"
-        ]
-      ],
-      "catalogueNo": "55P110",
-      "info": {
-        "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
-          "Single or dual wall constructions.",
-          "Small size and light weight.",
-          "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
-          "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
-          "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
-          "Very low toxic.",
-          "Mechanical ruggedness.",
-          "Good flexibility.",
-          "Excellent scrape abrasion.",
-          "RoHS Compliant."
-        ],
-        "technical": [
-          "Temperature Rating",
-          "i) Tin Plated Conductor        :  -65°C to + 150°C",
-          "ii) Silver or Nickel Plated",
-          "Conductor                            :  -65°C to + 200°C",
-          "Voltage Rating                     :  600V, Medium weight",
-          "Scrape Abrasion                  :  >100 cycles",
-          "Flexing Endurance              :  >1000 cycles",
-          "Shrinkage                            :  < 1 %",
-          "Thermal Endurance             :  200°C, 10000h",
-          "Permittivity at 1KHz             :  2.7",
-          "Dissipation Factor               :  0.001"
-        ],
-        "application": [
-          "Hook up signal wire & cables used in aircraft, avionics, military electronics, satellites, helicopters, missiles, automobiles and appliances."
-        ],
-        "construction": [
-          "Conductor : Annealed Tinned Copper Conductor",
-          "(Optional   : Silver Coated Copper Conductor / Nickel Coated Copper Conductor)",
-          "Insulation : Radiation Cross-Linked Specially Formulated ETFE (Ethylene",
-          "Tetrafluoroethylene)",
-          "No of Cores : 2",
-          "Colour : As Per Customer Order"
-        ]
-      }
-    },
-    {
-      "id": "b9569afd5d",
-      "family": "aero-55",
-      "name": "AERO 55 600V Single Core Statistical Process Controlled Shielded Airframe Wires",
-      "headers": [
-        "Part Number",
-        "Wire Size",
-        "Cross Section Area",
-        "No.of Strands",
-        "Diameter of Single Wire (Nom.)",
-        "Overall Diameter (Nom.)",
-        "Cable Weight (Approx.)"
-      ],
-      "rows": [
-        [
-          "",
-          "AWG",
-          "Sq.mm",
-          "Nos.",
-          "mm",
-          "mm",
-          "kg/km"
-        ],
-        [
-          "55P41085XXYY",
+          "55P5108502",
           "26",
           "0.13",
+          "2",
           "19",
           "0.10",
-          "1.54",
-          "6.54"
+          "2.35",
+          "11.34"
         ],
         [
-          "55P41084XXYY",
+          "55P5108402",
           "24",
           "0.20",
+          "2",
           "19",
           "0.13",
-          "1.67",
-          "7.86"
+          "2.90",
+          "13.90"
         ],
         [
-          "55P41083XXYY",
+          "55P5108302",
           "22",
           "0.33",
+          "2",
           "19",
           "0.16",
-          "1.82",
-          "9.81"
+          "2.91",
+          "17.89"
         ],
         [
-          "55P41082XXYY",
+          "55P5108202",
           "20",
           "0.52",
+          "2",
           "19",
           "0.20",
-          "2.02",
-          "12.83"
+          "3.32",
+          "23.84"
         ],
         [
-          "55P41081XXYY",
+          "55P5108102",
           "18",
           "0.82",
+          "2",
           "19",
           "0.25",
-          "2.25",
-          "17.01"
+          "3.80",
+          "32.10"
         ],
         [
-          "55P41080XXYY",
+          "55P5108002",
           "16",
           "1.31",
+          "2",
           "19",
           "0.29",
-          "2.46",
-          "20.36"
+          "4.18",
+          "39.00"
         ],
         [
-          "55P41079XXYY",
+          "55P5107902",
           "14",
           "2.08",
+          "2",
           "19",
           "0.36",
-          "2.81",
-          "28.69"
+          "4.94",
+          "55.21"
         ],
         [
-          "55P41078XXYY",
+          "55P5107802",
           "12",
           "3.31",
+          "2",
           "37",
           "0.32",
-          "3.32",
-          "40.73"
+          "5.94",
+          "80.23"
         ],
         [
-          "55P41077XXYY",
+          "55P5107702",
           "10",
           "5.26",
+          "2",
           "37",
           "0.40",
-          "4.00",
-          "59.90"
+          "7.41",
+          "123.65"
         ]
       ],
-      "catalogueNo": "55P410",
+      "catalogueNo": "55P510",
       "info": {
+        "extra": [
+          {
+            "lines": [
+              "SAE AS227759/32-35 and / 41 to / 46",
+              "NEMA-WC-27500(Cables)",
+              "Def-Stan 61-12 Part 33 Issue 5",
+              "VDE 9426, 9427, 9428",
+              "British Standard 3G233",
+              "Boeing BMS 13-48",
+              "Airbus ABS 0820 to 0826",
+              "ASTM D150"
+            ],
+            "title": "Standards "
+          }
+        ],
         "features": [
-          "Insulation does not shrink in hostile working environment .",
-          "Better cut though resistance characteristics",
+          "Insulation does not shrink in hostile working environment.",
+          "Better cut through resistance characteristics",
           "Single or dual wall constructions.",
           "Small size and light weight.",
           "No melting or dripping due to prolonging excess heat because of EBXL process.",
-          "Resistance to soldering iron & over load.",
+          "Resistance to soldering iron & overload.",
           "Excellent chemical resistance to many acids, carbon solvents, fuels, lubricants, missile fuels, oxidizers etc.",
           "Temperature rating -65°C to + 200°C [-85°F to +392°F], stable installed performance in very hot, extremely cold and high vacuum conditions",
-          "Outstanding electrical arc tracking resistance in wet",
-          "and dry conditions.",
+          "Outstanding electrical arc tracking resistance in wet and dry conditions.",
           "Very low toxic.",
           "Mechanical ruggedness.",
           "Good flexibility.",
@@ -2433,10 +2495,12 @@
           "Shielding  : Annealed Tinned Copper.",
           "Outer sheath : Radiation Cross-Linked Specially Formulated ETFE",
           "(Ethylene Tetrafluoroethylene)",
-          "Single Core",
+          "No of Core  :  2",
           "Colour : As Per Customer Order"
         ]
-      }
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/222b835dc9.jpg?v=1794648590510",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/aero-55/222b835dc9-3d.jpg?v=1794648791371"
     }
   ]
 }
