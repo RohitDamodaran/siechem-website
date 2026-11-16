@@ -1,2280 +1,6 @@
 {
   "series": [
     {
-      "id": "new-mwiscj2g",
-      "family": "marine",
-      "name": "FMGSGO",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm² Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight\n    Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "307 08 02",
-          "2 x 2 x 0.75",
-          "9.0",
-          "89",
-          "110"
-        ],
-        [
-          "307 08 04",
-          " 4 x 2 x 0.75",
-          "12.5",
-          "142",
-          "190"
-        ],
-        [
-          "307 08 06",
-          " 6 x 2 x 0.75",
-          "14.5",
-          "189",
-          "260"
-        ],
-        [
-          "307 08 08",
-          "8 x 2 x 0.75",
-          "15.5",
-          "225",
-          "310"
-        ],
-        [
-          "307 08 10",
-          "10 x 2 x 0.75",
-          "17.0",
-          "272",
-          "380"
-        ],
-        [
-          "307 08 14",
-          "14 x 2 x 0.75",
-          "18.5",
-          "338",
-          "465"
-        ],
-        [
-          "307 08 16",
-          "16 x 2 x 0.75",
-          "20.0",
-          "373",
-          "520"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Non corrosive and low toxic gas emission",
-          "Electron Beam Cross Linked",
-          "Halogen free",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40⁰C to +120⁰C",
-          "Rated Voltage (U₀/U) : 250V",
-          "Insulation Resistance : 1400 MOhms x km",
-          "Bending Radius(Min) : 5 x Cable Diameter",
-          "Max. capacity at 800 Hz : 250nF/km",
-          "Max. Conductor Temp. in Service : 85⁰C",
-          "Short-circuit temp (max.) : 280⁰C"
-        ],
-        "application": [
-          "Fixed installations on marine craft",
-          "Minimizes radio interferences and",
-          "electrical influences",
-          "Fire resistant insulation"
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation :  Electron Beam Cross Linked Polyolefin",
-          "Screen :  Electrolytic Copper Braided Screen",
-          "Separator Foil : Polyester Tape",
-          "Outer Sheath : Electron Beam Cross Linked Polyolefin (Black)"
-        ]
-      }
-    },
-    {
-      "id": "f000c53337",
-      "family": "marine",
-      "name": "MGCH APC, EMC Screened 0.6/1 kV Control Cable",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "301 13 XX*",
-          "1 x 1.5",
-          "6.5",
-          "43",
-          "115"
-        ],
-        [
-          "301 16 XX",
-          "1 x 2.5",
-          "7.0",
-          "55",
-          "120"
-        ],
-        [
-          "301 19 XX",
-          "1 x 4",
-          "7.5",
-          "76",
-          "140"
-        ],
-        [
-          "301 23 XX",
-          "1 x 6",
-          "8.5",
-          "99",
-          "170"
-        ],
-        [
-          "301 27 XX",
-          "1 x 10",
-          "9.5",
-          "144",
-          "220"
-        ],
-        [
-          "301 28 XX",
-          "1 x 16",
-          "10.0",
-          "209",
-          "300"
-        ],
-        [
-          "301 30 XX",
-          "1 x 25",
-          "12.0",
-          "306",
-          "410"
-        ],
-        [
-          "301 32 XX",
-          "1 x 35",
-          "13.0",
-          "411",
-          "510"
-        ],
-        [
-          "301 34 XX",
-          "1 x 50",
-          "15.0",
-          "567",
-          "690"
-        ],
-        [
-          "301 37 XX",
-          "1 x 70",
-          "17.0",
-          "774",
-          "960"
-        ],
-        [
-          "301 38 XX",
-          "1 x 95",
-          "19.0",
-          "1029",
-          "1230"
-        ],
-        [
-          "301 41 XX",
-          "1 x 120",
-          "21.0",
-          "1311",
-          "1470"
-        ],
-        [
-          "301 42 XX",
-          "1 x 150",
-          "23.0",
-          "1610",
-          "1810"
-        ],
-        [
-          "301 44 XX",
-          "1 x 185",
-          "25.5",
-          "1963",
-          "2220"
-        ],
-        [
-          "301 46 XX",
-          "1 x 240",
-          "28.5",
-          "2501",
-          "2830"
-        ],
-        [
-          "301 48 XX",
-          "1 x 300",
-          "31.0",
-          "3181",
-          "3500"
-        ],
-        [
-          "301 13 02",
-          "2 x 1.5",
-          "11.0",
-          "100",
-          "210"
-        ],
-        [
-          "301 16 02",
-          "2 x 2.5",
-          "12.0",
-          "127",
-          "250"
-        ],
-        [
-          "301 19 02",
-          "2 x 4",
-          "13.0",
-          "165",
-          "310"
-        ],
-        [
-          "301 23 02",
-          "2 x 6",
-          "14.5",
-          "212",
-          "410"
-        ],
-        [
-          "301 27 02",
-          "2 x 10",
-          "17.0",
-          "302",
-          "530"
-        ],
-        [
-          "301 28 02",
-          "2 x 16",
-          "19.5",
-          "466",
-          "740"
-        ],
-        [
-          "301 30 02",
-          "2 x 25",
-          "22.5",
-          "665",
-          "1050"
-        ],
-        [
-          "301 13 03",
-          "3 x 1.5",
-          "12.0",
-          "120",
-          "240"
-        ],
-        [
-          "301 16 03",
-          "3 x 2.5",
-          "12.5",
-          "156",
-          "290"
-        ],
-        [
-          "301 19 03",
-          "3 x 4",
-          "13.5",
-          "210",
-          "360"
-        ],
-        [
-          "301 23 03",
-          "3 x 6",
-          "15.5",
-          "277",
-          "480"
-        ],
-        [
-          "301 27 03",
-          "3 x 10",
-          "17.5",
-          "412",
-          "650"
-        ],
-        [
-          "301 28 03",
-          "3 x 16",
-          "19.5",
-          "631",
-          "900"
-        ],
-        [
-          "301 30 03",
-          "3 x 25",
-          "23.5",
-          "919",
-          "1310"
-        ],
-        [
-          "301 32 03",
-          "3 x 35",
-          "26.0",
-          "1228",
-          "1710"
-        ],
-        [
-          "301 34 03",
-          "3 x 50",
-          "29.0",
-          "1698",
-          "2210"
-        ],
-        [
-          "301 37 03",
-          "3 x 70",
-          "34.5",
-          "2408",
-          "3080"
-        ],
-        [
-          "301 38 03",
-          "3 x 95",
-          "39.0",
-          "3187",
-          "4110"
-        ],
-        [
-          "301 41 03",
-          "3 x 120",
-          "43.0",
-          "3970",
-          "5060"
-        ],
-        [
-          "301 13 04",
-          "4 x 1.5",
-          "12.5",
-          "142",
-          "270"
-        ],
-        [
-          "301 16 04",
-          "4 x 2.5",
-          "13.5",
-          "185",
-          "330"
-        ],
-        [
-          "301 19 04",
-          "4 x 4",
-          "15.0",
-          "279",
-          "460"
-        ],
-        [
-          "301 23 04",
-          "4 x 6",
-          "16.5",
-          "366",
-          "570"
-        ],
-        [
-          "301 27 04",
-          "4 x 10",
-          "19.0",
-          "540",
-          "810"
-        ],
-        [
-          "301 28 04",
-          "4 x 16",
-          "21.0",
-          "791",
-          "1120"
-        ],
-        [
-          "301 30 04",
-          "4 x 25",
-          "26.0",
-          "1165",
-          "1660"
-        ],
-        [
-          "301 32 04",
-          "4 x 35",
-          "28.5",
-          "1573",
-          "2150"
-        ],
-        [
-          "301 34 04",
-          "4 x 50",
-          "32.5",
-          "2273",
-          "2780"
-        ],
-        [
-          "301 37 04",
-          "4 x 70",
-          "38.5",
-          "3085",
-          "3960"
-        ],
-        [
-          "301 38 04",
-          "4 x 95",
-          "44.0",
-          "4105",
-          "5220"
-        ],
-        [
-          "301 13 05",
-          "5 x 1.5",
-          "13.5",
-          "166",
-          "320"
-        ],
-        [
-          "301 13 07",
-          "7 x 1.5",
-          "14.0",
-          "204",
-          "410"
-        ],
-        [
-          "301 13 10",
-          "10 x 1.5",
-          "16.5",
-          "313",
-          "480"
-        ],
-        [
-          "301 13 12",
-          "12 x 1.5",
-          "18.0",
-          "348",
-          "530"
-        ],
-        [
-          "301 13 14",
-          "14 x 1.5",
-          "18.5",
-          "387",
-          "590"
-        ],
-        [
-          "301 13 16",
-          "16 x 1.5",
-          "19.5",
-          "427",
-          "660"
-        ],
-        [
-          "301 13 19",
-          "19 x 1.5",
-          "20.5",
-          "481",
-          "740"
-        ],
-        [
-          "301 13 24",
-          "24 x 1.5",
-          "23.5",
-          "596",
-          "910"
-        ]
-      ],
-      "catalogueNo": "301",
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/350-351-359 Halogen free : IEC 60754 / 1-2",
-          "Shielding Effectiveness : DIN EN 50147-1",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034 / 1-2 (DIN EN 50268/1-2)",
-          "Oil resistant",
-          "RoHS compliant"
-        ],
-        "technical": [
-          "Temperature Range :  - 40°C to +120°C",
-          "Rated Voltage (U⁰/U) : 0.6/1kV",
-          "Test Voltage : 3.5 kV",
-          "Bending Radius(Min) :  8 x Cable Diameter",
-          "Short-circuit temp. (Max.) : 280°C"
-        ],
-        "application": [
-          "Fixed installations in marine vehicles.",
-          "Minimizes radio interferences and electrical influences.",
-          "For open deck applications in passenger ships."
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : HEPR Compound (Halogen free)",
-          "Inner Sheath : Halogen free compound",
-          "Separator Foil :  Glass Mica Tape",
-          "Screen : Electrolytic Copper Braided Screen",
-          "(90% coverage) MGCH (EMC) type                           is wrapped by a Copper tape in addition to this screen for100% coverage",
-          "Separator Foil : Glass Mica Tape",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound",
-          "(Black or Grey)"
-        ]
-      }
-    },
-    {
-      "id": "fe47095862",
-      "family": "marine",
-      "name": "MGH — Fixed installations in marine vehicles",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "302 13 XX*",
-          "1 x 1.5",
-          "4.5",
-          "9",
-          "90"
-        ],
-        [
-          "302 16 XX",
-          "1 x 2.5",
-          "5.0",
-          "19",
-          "100"
-        ],
-        [
-          "302 19 XX",
-          "1 x 4",
-          "6.0",
-          "33",
-          "110"
-        ],
-        [
-          "302 23 XX",
-          "1 x 6",
-          "7.5",
-          "53",
-          "140"
-        ],
-        [
-          "302 27 XX",
-          "1 x 10",
-          "8.5",
-          "91",
-          "180"
-        ],
-        [
-          "302 28 XX",
-          "1 x 16",
-          "9.5",
-          "149",
-          "250"
-        ],
-        [
-          "302 30 XX",
-          "1 x 25",
-          "11.0",
-          "235",
-          "350"
-        ],
-        [
-          "302 32 XX",
-          "1 x 35",
-          "12.0",
-          "331",
-          "450"
-        ],
-        [
-          "302 34 XX",
-          "1 x 50",
-          "13.5",
-          "475",
-          "590"
-        ],
-        [
-          "302 37 XX",
-          "1 x 70",
-          "15.5",
-          "667",
-          "840"
-        ],
-        [
-          "302 38 XX",
-          "1 x 95",
-          "17.5",
-          "907",
-          "1090"
-        ],
-        [
-          "302 41 XX",
-          "1 x 120",
-          "19.5",
-          "1147",
-          "1350"
-        ],
-        [
-          "302 42 XX",
-          "1 x 150",
-          "21.5",
-          "1435",
-          "1650"
-        ],
-        [
-          "302 44 XX",
-          "1 x 185",
-          "23.5",
-          "1771",
-          "2020"
-        ],
-        [
-          "302 46 XX",
-          "1 x 240",
-          "26.5",
-          "2299",
-          "2620"
-        ],
-        [
-          "302 48 XX",
-          "1 x 300",
-          "29.5",
-          "2875",
-          "3260"
-        ],
-        [
-          "302 13 02",
-          "2 x 1.5",
-          "10.0",
-          "24",
-          "160"
-        ],
-        [
-          "302 16 02",
-          "2 x 2.5",
-          "11.0",
-          "43",
-          "200"
-        ],
-        [
-          "302 19 02",
-          "2 x 4",
-          "12.0",
-          "72",
-          "250"
-        ],
-        [
-          "302 23 02",
-          "2 x 6",
-          "13.0",
-          "110",
-          "310"
-        ],
-        [
-          "302 27 02",
-          "2 x 10",
-          "15.5",
-          "187",
-          "440"
-        ],
-        [
-          "302 28 02",
-          "2 x 16",
-          "17.5",
-          "302",
-          "620"
-        ],
-        [
-          "302 30 02",
-          "2 x 25",
-          "21.0",
-          "475",
-          "910"
-        ],
-        [
-          "302 13 03",
-          "3 x 1.5",
-          "10.5",
-          "38",
-          "190"
-        ],
-        [
-          "302 16 03",
-          "3 x 2.5",
-          "11.5",
-          "67",
-          "240"
-        ],
-        [
-          "302 19 03",
-          "3 x 4",
-          "12.5",
-          "110",
-          "300"
-        ],
-        [
-          "302 23 03",
-          "3 x 6",
-          "14.0",
-          "168",
-          "380"
-        ],
-        [
-          "302 27 03",
-          "3 x 10",
-          "16.5",
-          "283",
-          "540"
-        ],
-        [
-          "302 28 03",
-          "3 x 16",
-          "18.5",
-          "456",
-          "780"
-        ],
-        [
-          "302 30 03",
-          "3 x 25",
-          "22.0",
-          "715",
-          "1160"
-        ],
-        [
-          "302 32 03",
-          "3 x 35",
-          "24.5",
-          "1003",
-          "1530"
-        ],
-        [
-          "302 34 03",
-          "3 x 50",
-          "28.0",
-          "1435",
-          "2000"
-        ],
-        [
-          "302 37 03",
-          " 3  x  70",
-          "33.0",
-          "2011",
-          "2830"
-        ],
-        [
-          "302 38 03",
-          "3  x  95",
-          "37.0",
-          "2731",
-          "3740"
-        ],
-        [
-          "302 41 03",
-          " 3  x  120",
-          "41.0",
-          "3451",
-          "4640"
-        ],
-        [
-          "302 13 04",
-          "4  x  1.5",
-          "11.0",
-          "53",
-          "230"
-        ],
-        [
-          "302 16 04",
-          " 4  x  2.5",
-          "12.0",
-          "91",
-          "280"
-        ],
-        [
-          "302 19 04",
-          "4  x  4",
-          "13.5",
-          "149",
-          "360"
-        ],
-        [
-          "302 23 04",
-          " 4  x  6",
-          "15.5",
-          "225",
-          "470"
-        ],
-        [
-          "302 27 04",
-          " 4  x  10",
-          "18.0",
-          "379",
-          "690"
-        ],
-        [
-          "302 28 04",
-          " 4  x  16",
-          "21.0",
-          "609",
-          "980"
-        ],
-        [
-          "302 30 04",
-          " 4  x  25",
-          "24.5",
-          "955",
-          "1490"
-        ],
-        [
-          "302 32 04",
-          " 4  x  35",
-          "27.0",
-          "1339",
-          "1950"
-        ],
-        [
-          "302 34 04",
-          " 4  x  50",
-          "31.0",
-          "1915",
-          "2550"
-        ],
-        [
-          "302 37 04",
-          " 4  x  70",
-          "36.5",
-          "2683",
-          "3590"
-        ],
-        [
-          "302 38 04",
-          " 4  x  95",
-          "41.0",
-          "3643",
-          "4790"
-        ],
-        [
-          "302 13 05",
-          " 5  x  1.5",
-          "12.0",
-          "67",
-          "260"
-        ],
-        [
-          "302 13 07",
-          "7  x  1.5",
-          "13.0",
-          "96",
-          "320"
-        ],
-        [
-          "302 13 10",
-          "10  x  1.5",
-          "15.5",
-          "139",
-          "390"
-        ],
-        [
-          "302 13 12",
-          " 12  x  1.5",
-          "16.0",
-          "168",
-          "440"
-        ],
-        [
-          "302 13 14",
-          " 14  x  1.5",
-          "17.0",
-          "197",
-          "500"
-        ],
-        [
-          "302 13 16",
-          "16  x  1.5",
-          "18.0",
-          "225",
-          "560"
-        ],
-        [
-          "302 13 19",
-          "19  x  1.5",
-          "19.5",
-          "269",
-          "640"
-        ],
-        [
-          "302 13 24",
-          " 24  x  1.5",
-          "22.0",
-          "34",
-          "790"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/350-351-359",
-          "Halogen free : IEC 60754 / 1-2",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034 / 1-2 (DIN EN 50268/1-2)",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40°C to +120°C",
-          "Rated Voltage (U/U) : 0.6/1kV",
-          "Insulation Resistance : 1400 MOhms x km",
-          "Test Voltage : 3.5 kV",
-          "Bending Radius(Min) : 6 x Cable Diameter",
-          "Short-circuit temp.(Max.) : 280°C"
-        ],
-        "application": [
-          "Fixed installations in marine vehicles",
-          "Installation beneath the first metal deck",
-          "level"
-        ],
-        "construction": [
-          "Conductor :  Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : HEPR (Halogen free)",
-          "Inner Sheath : Halogen free compound",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound",
-          "(Black or Grey)"
-        ]
-      }
-    },
-    {
-      "id": "new-mwgd4ztu",
-      "family": "marine",
-      "name": "MPRXCX",
-      "headers": [
-        "Part Number",
-        "Number of cores and mm² Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index kg/km",
-        "Total Weight approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "",
-          "Kg/km"
-        ],
-        [
-          " 305S19XX",
-          "1 x 4",
-          "7.3",
-          "76",
-          "135"
-        ],
-        [
-          "305S23XX",
-          "1 x 6",
-          "7.8",
-          "99",
-          "160"
-        ],
-        [
-          "305S27XX",
-          "1 x 10",
-          "8.9",
-          "144",
-          "210"
-        ],
-        [
-          "305S28XX",
-          "1 x 16",
-          "9.8",
-          "209",
-          "280"
-        ],
-        [
-          "305S30XX",
-          "1 x 25",
-          "11.7",
-          "306",
-          "410"
-        ],
-        [
-          "305S32XX",
-          "1 x 35",
-          "12.7",
-          "411",
-          "510"
-        ],
-        [
-          "305S34XX",
-          "1 x 50",
-          "14.8",
-          "567",
-          "690"
-        ],
-        [
-          "305S37XX",
-          "1 x 70",
-          "16.9",
-          "774",
-          "960"
-        ],
-        [
-          "305S38XX",
-          "1 x 95",
-          "18.7",
-          "1029",
-          "1230"
-        ],
-        [
-          "305S41XX",
-          "1 x 120",
-          "20.6",
-          "1311",
-          "1470"
-        ],
-        [
-          "305S42XX",
-          "1 x 150",
-          "22.7",
-          "1610",
-          "1870"
-        ],
-        [
-          "305S44XX",
-          "1 x 185",
-          "24.9",
-          "1963",
-          "2220"
-        ],
-        [
-          "305S46XX",
-          "1 x 240",
-          "27.2",
-          "2501",
-          "2830"
-        ],
-        [
-          "305S48XX",
-          "1 x 300",
-          "30.4",
-          "3340",
-          "3500"
-        ],
-        [
-          "3051302",
-          "2 x 1.5",
-          "3.9",
-          "100",
-          "160"
-        ],
-        [
-          "3051602",
-          "2 x 2.5",
-          "10.2",
-          "127",
-          "190"
-        ],
-        [
-          "3051902",
-          "2 x 4",
-          "11.4",
-          "165",
-          "235"
-        ],
-        [
-          "3052302",
-          " 2 x 6",
-          "12.6",
-          "212",
-          "320"
-        ],
-        [
-          "3052702",
-          "2 x 10",
-          "14.8",
-          "395",
-          "337"
-        ],
-        [
-          "3052802",
-          "2 x 16",
-          "16.9",
-          "466",
-          "590"
-        ],
-        [
-          "3053002",
-          "2 x 25",
-          "20.4",
-          "665",
-          "870"
-        ],
-        [
-          "3051303",
-          "3 x 1.5",
-          "9.9",
-          "120",
-          "190"
-        ],
-        [
-          "3051603",
-          "3 x 2.5",
-          "10.8",
-          "156",
-          "230"
-        ],
-        [
-          "3051903",
-          " 3 x 4  ",
-          "12.0",
-          "210",
-          "280"
-        ],
-        [
-          "3052303",
-          "3 x 6",
-          "13.2",
-          "277",
-          "390"
-        ],
-        [
-          "3052703",
-          "3 x 10",
-          "15.7",
-          "412",
-          "550"
-        ],
-        [
-          "3052803",
-          "3 x 16",
-          "18.0",
-          "631",
-          "780"
-        ],
-        [
-          "3053003",
-          "3 x 25",
-          "21.7",
-          "919",
-          "980"
-        ],
-        [
-          "3053203",
-          "3 x 35",
-          "23.7",
-          "1228",
-          "1500"
-        ],
-        [
-          "3053403",
-          "3 x 50",
-          "26.5",
-          "1698",
-          "1900"
-        ],
-        [
-          "3053703",
-          "3 x 70",
-          "29.1",
-          "2408",
-          "2710"
-        ],
-        [
-          "3053803",
-          "3 x 95",
-          "32.9",
-          "3187",
-          "3560"
-        ],
-        [
-          "3054103",
-          "3 x 120",
-          "36.7",
-          "3970",
-          "4360"
-        ],
-        [
-          "3051304",
-          "4 x 1.5",
-          "10.6",
-          "142",
-          "230"
-        ],
-        [
-          "3051604",
-          "4 x 2.5",
-          "11.9",
-          "185",
-          "270"
-        ],
-        [
-          "3051904",
-          "4 x 4",
-          "13.0",
-          "279",
-          "380"
-        ],
-        [
-          "3052304",
-          "4 x 6",
-          "14.6",
-          "366",
-          "480"
-        ],
-        [
-          "3052704",
-          "4 x 10",
-          "17.3",
-          "540",
-          "700"
-        ],
-        [
-          "3052804",
-          "4 x 16",
-          "19.8",
-          "791",
-          "980"
-        ],
-        [
-          "3053004",
-          "4 x 25",
-          "23.9",
-          "1165",
-          "1500"
-        ],
-        [
-          "3053204",
-          "4 x 35",
-          "25.7",
-          "1573",
-          "1960"
-        ],
-        [
-          "3053404",
-          "4 x 50",
-          "29.6",
-          "2273",
-          "2530"
-        ],
-        [
-          "3053704",
-          "4 x 70",
-          "33.7",
-          "3085",
-          "3610"
-        ],
-        [
-          "3053804",
-          "4 x 95",
-          "38.3",
-          "4106",
-          "4660"
-        ],
-        [
-          "3051305",
-          "5 x 1.5",
-          "11.7",
-          "166",
-          "255"
-        ],
-        [
-          "3051605",
-          "5 x 2.5",
-          "12.8",
-          "215",
-          "360"
-        ],
-        [
-          "3051307",
-          "7 x 1.5",
-          "12.5",
-          "204",
-          "340"
-        ],
-        [
-          "3051310",
-          "10 x 1.5",
-          "16.0",
-          "313",
-          "430"
-        ],
-        [
-          "3051312",
-          "12 x 1.5",
-          "16.6",
-          "348",
-          "470"
-        ],
-        [
-          "3051314",
-          "14 x 1.5",
-          "17.4",
-          "389",
-          "530"
-        ],
-        [
-          "3051316",
-          "16 x 1.5",
-          "18.2",
-          "427",
-          "580"
-        ],
-        [
-          "3051319",
-          "19 x 1.5",
-          "19.3",
-          "481",
-          "650"
-        ],
-        [
-          "3051324",
-          "24 x 1.5",
-          "22.4",
-          "596",
-          "800"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/353",
-          "Halogen free : IEC 60754 -1",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034",
-          "Gases corrosivity : IEC 60754-2",
-          "Gases toxicity : No toxicity to IEC 60754-1",
-          "Oil resistan"
-        ],
-        "technical": [
-          "Temperature Range :  -40°C to +120°C",
-          "Rated Voltage (U⁰/U) : 0.6/1kV",
-          "Bending Radius(Min) : 8 x Cable Diameter",
-          "Short-circuit temp(Max.) : 250°C"
-        ],
-        "application": [
-          "Fixed installations on ships and offshore",
-          "units in all locations below the upper",
-          "metallic deck",
-          "Minimizes radio interferences and",
-          "electrical influences",
-          "Installation on passenger ships"
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : Electron Beam Cross Linked Polyethylene",
-          "Separator Foil : Polyester tape",
-          "Screen : Electrolytic Copper Braided Screen",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, plastic polyolefin based jacket compound (Black)"
-        ]
-      }
-    },
-    {
-      "id": "new-mwirmpna",
-      "family": "marine",
-      "name": "FMGCH",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm² Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "306 08 01",
-          "1 x 2 x 0.75",
-          "8.5",
-          "62",
-          "90"
-        ],
-        [
-          "306 08 02",
-          "2 x 2 x 0.75",
-          "9.0",
-          "87",
-          "130"
-        ],
-        [
-          "306 08 04",
-          "4 x 2 x 0.75",
-          "13.0",
-          "153",
-          "230"
-        ],
-        [
-          "306 08 07",
-          "7 x 2 x 0.75",
-          "15.5",
-          "230",
-          "340"
-        ],
-        [
-          "306 08 10",
-          "10 x 2 x 0.75",
-          "18.5",
-          "319",
-          "470"
-        ],
-        [
-          "306 08 14",
-          "14 x 2 x 0.75",
-          "21.0",
-          "445",
-          "610"
-        ],
-        [
-          "306 08 19",
-          "19 x 2 x 0.75",
-          "24.0",
-          "525",
-          "770"
-        ],
-        [
-          "306 08 24",
-          "24 x 2 x 0.75",
-          "27.0",
-          "663",
-          "950"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/375",
-          "Halogen free : IEC 60754 / 1-2",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034/1-2",
-          "Gases corrosivity : IEC 60754-2",
-          "Gases toxicity : No toxicity to",
-          "IEC 60754-1",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40C to +120C",
-          "Rated Voltage (U/U)  : 250 V",
-          "Test Voltage  : 1.5 kV",
-          "Bending Radius(Min) :  8 x Cable Diameter",
-          "Max. Conductor Temp. in Service : 85⁰C",
-          "Short-circuit temp (Max.) : 280⁰C"
-        ],
-        "application": [
-          "Used as Control and Communication",
-          "cables in radio, radar & information",
-          "systems of marine vehicles.",
-          "Minimizes radio interferences and",
-          "electrical influences.",
-          "For use in above and below decks."
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : HEPR (Halogen free)",
-          "Layup : Cores laid up in pairs, pairs laid up concentrically",
-          "Separator : Glass Mica Tape",
-          "Screen : Electrolytic copper braided screen(90% coverage)",
-          "Separator : Glass Mica Tape",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Green)"
-        ]
-      }
-    },
-    {
-      "id": "a3e8e8a306",
-      "family": "marine",
-      "name": "MPRX — Per Conductor",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "304S19XX*",
-          "1 x 4",
-          "5.9",
-          "36",
-          "78"
-        ],
-        [
-          "304S23XX",
-          "1 x 6",
-          "6.4",
-          "53",
-          "100"
-        ],
-        [
-          "304S27XX",
-          "1 x 10",
-          "7.3",
-          "90",
-          "144"
-        ],
-        [
-          "304S28XX",
-          "1 x 16",
-          "8.2",
-          "142",
-          "210"
-        ],
-        [
-          "304S30XX",
-          "1 x 25",
-          "10.1",
-          "222",
-          "310"
-        ],
-        [
-          "304S32XX",
-          "1 x 35",
-          "11.1",
-          "311",
-          "410"
-        ],
-        [
-          "304S34XX",
-          "1 x 50",
-          "12.8",
-          "444",
-          "560"
-        ],
-        [
-          "304S37XX",
-          "1 x 70",
-          "14.9",
-          "622",
-          "770"
-        ],
-        [
-          "304S38XX",
-          "1x 95",
-          "16.7",
-          "844",
-          "1020"
-        ],
-        [
-          "304S41XX",
-          "1 x 120",
-          "18.6",
-          "1066",
-          "1270"
-        ],
-        [
-          "304S42XX",
-          "1 x 150",
-          "20.7",
-          "1333",
-          "1590"
-        ],
-        [
-          "304S44XX",
-          "1 x 185",
-          "22.9",
-          "1644",
-          "1960"
-        ],
-        [
-          "304S46XX",
-          "1 x 240",
-          "25.7",
-          "2133",
-          "2500"
-        ],
-        [
-          "304S48XX",
-          "1 x 300",
-          "28.4",
-          "2666",
-          "3100"
-        ],
-        [
-          "3041302",
-          "2 x 1.5",
-          "7.8",
-          "27",
-          "110"
-        ],
-        [
-          "3041602",
-          "2 x 2.5",
-          "8.9",
-          "45",
-          "140"
-        ],
-        [
-          "3041902",
-          "2 x 4",
-          "9.9",
-          "71",
-          "190"
-        ],
-        [
-          "3042302",
-          "2 x 6",
-          "10.9",
-          "107",
-          "240"
-        ],
-        [
-          "3042702",
-          "2 x 10",
-          "13.0",
-          "178",
-          "340"
-        ],
-        [
-          "3042802",
-          "2 x 16",
-          "15.1",
-          "284",
-          "500"
-        ],
-        [
-          "3043002",
-          "2 x 25",
-          "17.6",
-          "444",
-          "750"
-        ],
-        [
-          "3041303",
-          "3 x 1.5",
-          "8.3",
-          "41",
-          "130"
-        ],
-        [
-          "3041603",
-          "3 x 2.5",
-          "9.4",
-          "68",
-          "170"
-        ],
-        [
-          "3041903",
-          "3 x 4",
-          "10.4",
-          "107",
-          "220"
-        ],
-        [
-          "3042303",
-          "3 x 6",
-          "11.8",
-          "160",
-          "290"
-        ],
-        [
-          "3042703",
-          "3 x 10",
-          "13.8",
-          "267",
-          "440"
-        ],
-        [
-          "3042803",
-          "3 x 16",
-          "16.1",
-          "427",
-          "630"
-        ],
-        [
-          "3043003",
-          "3 x 25",
-          "19.8",
-          "666",
-          "1000"
-        ],
-        [
-          "3043203",
-          "3 x 35",
-          "21.3",
-          "933",
-          "1320"
-        ],
-        [
-          "3043403",
-          "3 x 50",
-          "24.7",
-          "1333",
-          "1750"
-        ],
-        [
-          "3043703",
-          "3 x 70",
-          "27.3",
-          "1866",
-          "2520"
-        ],
-        [
-          "3043803",
-          "3 x 95",
-          "31.1",
-          "2533",
-          "3365"
-        ],
-        [
-          "3044103",
-          "3 x 120",
-          "34.5",
-          "3199",
-          "4200"
-        ],
-        [
-          "3041304",
-          "4 x 1.5",
-          "9.2",
-          "53",
-          "150"
-        ],
-        [
-          "3041604",
-          "4 x 2.5",
-          "10.3",
-          "91",
-          "210"
-        ],
-        [
-          "3041904",
-          "4 x 4 ",
-          "11.6",
-          "142",
-          "275"
-        ],
-        [
-          "3042304",
-          "4 x 6",
-          "12.6",
-          "213",
-          "375"
-        ],
-        [
-          "3042704",
-          "4 x 10",
-          "15.4",
-          "355",
-          "565"
-        ],
-        [
-          "3042804",
-          "4 x 16",
-          "17.9",
-          "569",
-          "825"
-        ],
-        [
-          "3043004",
-          "4 x 25",
-          "22.0",
-          "889",
-          "1250"
-        ],
-        [
-          "3043204",
-          "4 x 35",
-          "23.9",
-          "1244",
-          "1700"
-        ],
-        [
-          "3043404",
-          "4 x 50",
-          "27.8",
-          "1777",
-          "2340"
-        ],
-        [
-          "3043704",
-          "4 x 70",
-          "32.9",
-          "2488",
-          "3280"
-        ],
-        [
-          "3043804",
-          "4 x 95",
-          "36.1",
-          "3377",
-          "4350"
-        ],
-        [
-          "3041305",
-          "5 x 1.5",
-          "10.1",
-          "67",
-          "180"
-        ],
-        [
-          "3041605",
-          "5 x 2.5",
-          "11.2",
-          "115",
-          "250"
-        ],
-        [
-          "3041307",
-          "7 x 1.5",
-          "11.0",
-          "96",
-          "230"
-        ],
-        [
-          "3041310",
-          "10 x 1.5",
-          "14.1",
-          "136",
-          "320"
-        ],
-        [
-          "3041312",
-          "12 x 1.5",
-          "14.7",
-          "163",
-          "360"
-        ],
-        [
-          "3041314",
-          "14 x 1.5",
-          "15.5",
-          "190",
-          "405"
-        ],
-        [
-          "3041316",
-          "16 x 1.5",
-          "16.3",
-          "218",
-          "470"
-        ],
-        [
-          "3041319",
-          "19 x 1.5",
-          "17.4",
-          "258",
-          "530"
-        ],
-        [
-          "3041324",
-          "24 x 1.5",
-          "20.5",
-          "326",
-          "660"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/353",
-          "Halogen free : IEC 60754 -1",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034",
-          "Gases corrosivity : IEC 60754-2",
-          "Gases toxicity :IEC 60754-1",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40°C to +120°C",
-          "Rated Voltage (U⁰/U) : 0.6/1kV",
-          "Max. Operating Voltage : 1.2 kV",
-          "Test Voltage :  3.5 kV",
-          "Bending Radius(Min) : 8 x Cable Diameter",
-          "Short-circuit temp (Max) : 250°C"
-        ],
-        "application": [
-          "Fixed installations on ships and offshore",
-          "units in all locations below the upper",
-          "metallic deck",
-          "Installations in radio stations",
-          "For open deck applications in passenger",
-          "ships"
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : Electron Beam Cross Linked Polyethylene",
-          "Outer Sheath : Halogen free, flame retardant, thermoset,",
-          "polyolefin based jacket compound (Black)"
-        ]
-      }
-    },
-    {
-      "id": "391c729948",
-      "family": "marine",
-      "name": "MGSGO — Per Conductor",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "303 19 XX*",
-          "1 x 4",
-          "9.0",
-          "76",
-          "200"
-        ],
-        [
-          "303 23 XX",
-          "1 x 6",
-          "10.0",
-          "99",
-          "230"
-        ],
-        [
-          "303 27 XX",
-          "1 x 10",
-          "11.0",
-          "144",
-          "290"
-        ],
-        [
-          "303 28 XX",
-          "1 x 16",
-          "12.0",
-          "209",
-          "370"
-        ],
-        [
-          "303 30 XX",
-          "1 x 25",
-          "14.0",
-          "306",
-          "510"
-        ],
-        [
-          "303 32 XX",
-          "1 x 35",
-          "15.5",
-          "411",
-          "620"
-        ],
-        [
-          "303 34 XX",
-          "1 x 50",
-          "17.5",
-          "567",
-          "790"
-        ],
-        [
-          "303 37 XX",
-          "1 x 70",
-          "19.5",
-          "774",
-          "1040"
-        ],
-        [
-          "303 38 XX",
-          "1 x 95",
-          "22.0",
-          "1029",
-          "1360"
-        ],
-        [
-          "303 41 XX",
-          "1 x 120",
-          "23.5",
-          "1311",
-          "1610"
-        ],
-        [
-          "303 42 XX",
-          "1 x 150",
-          "26.0",
-          "1610",
-          "1910"
-        ],
-        [
-          "303 44 XX",
-          "1 x 185",
-          "28.5",
-          "1963",
-          "2360"
-        ],
-        [
-          "303 46 XX",
-          "1 x 240",
-          "31.5",
-          "2501",
-          "3010"
-        ],
-        [
-          "303 48 XX",
-          "1 x 300",
-          "34.4",
-          "3340",
-          "3660"
-        ],
-        [
-          "303 13 02",
-          "2 x 1.5",
-          "15.0",
-          "100",
-          "370"
-        ],
-        [
-          "303 16 02",
-          "2 x 2.5",
-          "16.0",
-          "127",
-          "430"
-        ],
-        [
-          "303 19 02",
-          "2 x 4",
-          "17.0",
-          "165",
-          "490"
-        ],
-        [
-          "303 23 02",
-          "2 x 6",
-          "18.5",
-          "212",
-          "600"
-        ],
-        [
-          "303 27 02",
-          "2 x 10",
-          "20.0",
-          "302",
-          "750"
-        ],
-        [
-          "303 28 02",
-          "2 x 16",
-          "22.5",
-          "466",
-          "970"
-        ],
-        [
-          "303 30 02",
-          "2 x 25",
-          "26.5",
-          "665",
-          "1330"
-        ],
-        [
-          "303 13 03",
-          "3 x 1.5",
-          "15.5",
-          "120",
-          "410"
-        ],
-        [
-          "303 16 03",
-          "3 x 2.5",
-          "16.5",
-          "156",
-          "470"
-        ],
-        [
-          "303 19 03",
-          "3 x 4",
-          "18.0",
-          "210",
-          "550"
-        ],
-        [
-          "303 23 03",
-          "3 x 6",
-          "19.0",
-          "277",
-          "670"
-        ],
-        [
-          "303 27 03",
-          "3 x 10",
-          "21.5",
-          "412",
-          "870"
-        ],
-        [
-          "303 28 03",
-          "3 x 16",
-          "24.0",
-          "631",
-          "1140"
-        ],
-        [
-          "303 30 03",
-          "3 x 25",
-          "28.0",
-          "919",
-          "1640"
-        ],
-        [
-          "303 32 03",
-          "3 x 35",
-          "31.0",
-          "1228",
-          "2050"
-        ],
-        [
-          "303 34 03",
-          "3 x 50",
-          "35.0",
-          "1698",
-          "2640"
-        ],
-        [
-          "303 37 03",
-          "3 x 70",
-          "39.0",
-          "2408",
-          "3510"
-        ],
-        [
-          "303 38 03",
-          " 3  x  95",
-          "45.5",
-          "3186",
-          "4770"
-        ],
-        [
-          "303 41 03",
-          "3  x  120",
-          "49.5",
-          "3970",
-          "5740"
-        ],
-        [
-          "303 19 04",
-          " 4  x  4",
-          "19.0",
-          "279",
-          "650"
-        ],
-        [
-          "303 23 04",
-          " 4  x  6",
-          "20.5",
-          "366",
-          "780"
-        ],
-        [
-          "303 27 04",
-          "4  x  10",
-          "23.0",
-          "540",
-          "1040"
-        ],
-        [
-          "303 28 04",
-          "4  x  16",
-          "26.0",
-          "791",
-          "1430"
-        ],
-        [
-          "303 30 04",
-          "4  x  25",
-          "30.5",
-          "1165",
-          "2030"
-        ],
-        [
-          "303 32 04",
-          "4  x  35",
-          "34.0",
-          "1573",
-          "2560"
-        ],
-        [
-          "303 34 04",
-          "4  x  50",
-          "38.5",
-          "2273",
-          "3310"
-        ],
-        [
-          "303 37 04",
-          "4  x  70",
-          "44.0",
-          "3085",
-          "4510"
-        ],
-        [
-          "303 38 04",
-          "4  x  95",
-          "50.5",
-          "4105",
-          "5990"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/350-351-359",
-          "Halogen free : IEC 60754 / 1-2",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 60134 / 1-2 (DIN EN 50147-1)",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40°C to +120°C",
-          "Rated Voltage (U/U) : 0.6/1kV",
-          "Bending Radius(Min) : 5 x Cable Diameter",
-          "Short-circuit temp.(Max.) : 280°C"
-        ],
-        "application": [
-          "Permanent installations in marine crafts",
-          "Installations in open decks as Control",
-          "and Power cables"
-        ],
-        "construction": [
-          "Conductor :  Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : HEPR (Halogen free)",
-          "Foil Screen : Al-Mylar Tape",
-          "Screen : Electrolytic Copper Braided Screen",
-          "Separator : Polyester Tape",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Black)"
-        ]
-      }
-    },
-    {
       "id": "1cb0400b90",
       "family": "marine",
       "name": "Per Conductor — Outer Diameter in",
@@ -3956,6 +1682,2956 @@
       "catalogueNo": "302"
     },
     {
+      "id": "0ffd17ae69",
+      "family": "marine",
+      "name": "WIRING CABLE - SY STRANDED TYPE",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "312 13 02",
+          "2 x 1.5",
+          "9.7",
+          "23.7",
+          "176"
+        ],
+        [
+          "312 13 03",
+          "3 x 1.5",
+          "10.1",
+          "38.1",
+          "196"
+        ],
+        [
+          "312 13 04",
+          "4 x 1.5",
+          "10.8",
+          "52.5",
+          "228"
+        ],
+        [
+          "312 13 05",
+          "5 x 1.5",
+          "11.6",
+          "66.9",
+          "260"
+        ],
+        [
+          "312 13 07",
+          "7 x 1.5",
+          "13.3",
+          "95.6",
+          "329"
+        ],
+        [
+          "312 16 03",
+          "3 x 2.5",
+          "11.6",
+          "67.1",
+          "261"
+        ],
+        [
+          "312 16 04",
+          "4 x 2.5",
+          "13.3",
+          "90.8",
+          "328"
+        ],
+        [
+          "312 16 05",
+          "5 x 2.5",
+          "14.3",
+          "115.0",
+          "385"
+        ],
+        [
+          "312 19 04",
+          "4 x 4",
+          "16.2",
+          "148.5",
+          "388"
+        ],
+        [
+          "312 19 05",
+          "5 x 4",
+          "17.5",
+          "188.0",
+          "565"
+        ],
+        [
+          "312 23 04",
+          "4 x 6",
+          "18.4",
+          "225.3",
+          "625"
+        ],
+        [
+          "312 23 05",
+          "5 x 6",
+          "19.7",
+          "283.0",
+          "744"
+        ]
+      ],
+      "catalogueNo": "312",
+      "info": {
+        "features": [
+          "Flame resistant : IEC - 60332-1",
+          "Extensively oil resistant : DIN  VDE 0250",
+          "Chemical resistant",
+          "Self extinguish"
+        ],
+        "technical": [
+          "Temperature Range :  - 40⁰C to +70⁰C",
+          "Rated Voltage (U₀/U) : 250 V",
+          "Test Voltage : 1500 V",
+          "Bending Radius (Min.) : 7.5 x Cable Diameter",
+          "Flexing : -5⁰C to +70⁰C",
+          "Short-circuit temp. (Max.) : 160⁰C"
+        ],
+        "application": [
+          "Fixed installations on ships",
+          "Used in Production lines, conveyor",
+          "systems, automatic assembly lines etc",
+          "Protection against both mechanical and",
+          "electronic interference to the cable",
+          "function"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 5 (Tinned on request)",
+          "Insulation : PVC",
+          "Inner Sheath : PVC",
+          "Overall Screen : Galvanized Steel wire braid",
+          "Outer Sheath : According to DIN VDE 0207 (Black)"
+        ]
+      }
+    },
+    {
+      "id": "598348bc7b",
+      "family": "marine",
+      "name": "LFMSGSSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "311 70 05",
+          "5 x 3 x 0.4",
+          "16.0",
+          "243",
+          "450"
+        ],
+        [
+          "311 70 12",
+          "12 x 3 x 0.4",
+          "23.0",
+          "495",
+          "770"
+        ]
+      ],
+      "catalogueNo": "311",
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) : 250V",
+          "Bending Radius (Min.) :  6 x Cable Diameter",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp. (Max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine vehicles",
+          "Fixed installations in power & control",
+          "systems below and above decks"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed tinned copper wire. IEC 60228 Class 2",
+          "Insulation :  Electron Beam Cross Linked Polyolefin",
+          "Paired Screen :  Electrolytic Tinned Copper Braided Screen",
+          "Separator : Polyester Tape",
+          "Inner Sheath :  Polyester Tape overall inner covering",
+          "Screen : Electrolytic Tinned Copper Braid Screen",
+          "Separator :  Polyester Tape",
+          "Overall Screen : Tinned Copper Braid",
+          "Separator : Polyester Tape",
+          "Outer Sheath  : Elastomer based compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwiudi2z",
+      "family": "marine",
+      "name": "LFMGSSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "310 70 02",
+          "2 x 2 x 0.4",
+          "8.0",
+          "55",
+          "125"
+        ],
+        [
+          "310 70 04",
+          " 4 x 2 x 0.4",
+          "10.5",
+          "90",
+          "175"
+        ],
+        [
+          "310 70 07",
+          " 7 x 2 x 0.4",
+          "12.5",
+          "141",
+          "250"
+        ],
+        [
+          "310 70 12",
+          " 12 x 2 x 0.4",
+          "15.5",
+          "230",
+          "350"
+        ],
+        [
+          "310 70 19",
+          "19 x 2 x 0.4",
+          "18.0",
+          "315",
+          "445"
+        ],
+        [
+          "310 70 27",
+          "27 x 2 x 0.4",
+          "20.0",
+          "409",
+          "570"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) : 250V",
+          "Bending Radius (Min.) : 6 x Cable Diameter",
+          "Max. capacity at 800 Hz : 120nF/km",
+          "Max. Conductor Temp.in Service : 85⁰C",
+          "Short-circuit temp.(max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine vehicles",
+          "Fixed installations in power & control",
+          "systems below and above decks"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed tinned copper wire. IEC 60228 Class 2",
+          "Insulation : Electron Beam Cross Linked Polyolefin",
+          "Inner Sheath :  Halogen free compound",
+          "Screen : Electrolytic Tinned Double Copper Braid",
+          "Separator Foil : Polyester Tape",
+          "Outer Sheath : Elastomer based compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwitf71t",
+      "family": "marine",
+      "name": "LMGSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index.",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "309 13 02",
+          "2 x 1.5",
+          "9.0",
+          "89",
+          "110"
+        ],
+        [
+          "309 13 03",
+          " 3 x 1.5",
+          "9.5",
+          "105",
+          "140"
+        ],
+        [
+          "309 13 04",
+          " 4 x 1.5",
+          "10.5",
+          "131",
+          "170"
+        ],
+        [
+          "309 13 05",
+          "5 x 1.5",
+          "10.5",
+          "146",
+          "180"
+        ],
+        [
+          "309 13 07",
+          "7 x 1.5",
+          "11.5",
+          "180",
+          "230"
+        ],
+        [
+          "309 13 10",
+          "10 x 1.5",
+          "14.0",
+          "244",
+          "310"
+        ],
+        [
+          "309 13 12",
+          "12 x 1.5",
+          "14.5",
+          "276",
+          "350"
+        ],
+        [
+          "309 13 14",
+          "14 x 1.5",
+          "15.0",
+          "310",
+          "400"
+        ],
+        [
+          "309 13 16",
+          "16 x 1.5",
+          "16.0",
+          "342",
+          "450"
+        ],
+        [
+          "309 13 19",
+          "19 x 1.5",
+          "16.5",
+          "401",
+          "510"
+        ],
+        [
+          "309 13 24",
+          "24 x 1.5",
+          "19.0",
+          "494",
+          "620"
+        ],
+        [
+          "309 13 27",
+          "27 x 1.5",
+          "19.5",
+          "539",
+          "680"
+        ],
+        [
+          "309 13 33",
+          "33 x 1.5",
+          "21.0",
+          "633",
+          "810"
+        ],
+        [
+          "309 16 02",
+          "2 x 2.5",
+          "10.0",
+          "114",
+          "160"
+        ],
+        [
+          "309 16 03",
+          "3 x 2.5",
+          "10.5",
+          "144",
+          "190"
+        ],
+        [
+          "309 16 04",
+          "4 x 2.5",
+          "11.5",
+          "171",
+          "230"
+        ],
+        [
+          "309 16 06",
+          "6 x 2.5",
+          "13.0",
+          "242",
+          "300"
+        ],
+        [
+          "309 16 07",
+          "7 x 2.5",
+          "13.0",
+          "266",
+          "320"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range :  - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) : 500V",
+          "Bending Radius(Min) : 5 x Cable Diameter",
+          "DC permissible current rating : 15 A",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp.(Max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine vehicles",
+          "Fixed installations in power & control",
+          "systems below and above decks"
+        ],
+        "construction": [
+          "Conductor :  Electrolytic, stranded, annealed copper wire.IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation :  EPR",
+          "Inner Sheath : Halogen free compound",
+          "Screen : Electrolytic Copper Braid Screen",
+          "Separator Foil : Polyester Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwisrkwd",
+      "family": "marine",
+      "name": "FMSGSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "308 08 02",
+          "2 x 2 x 0.75",
+          "14.0",
+          "149",
+          "220"
+        ],
+        [
+          "308 08 04",
+          "4 x 2 x 0.75",
+          "17.0",
+          "277",
+          "340"
+        ],
+        [
+          "308 08 07",
+          "7 x 2 x 0.75",
+          "20.0",
+          "489",
+          "500"
+        ],
+        [
+          "308 08 11",
+          " 11 x 2 x 0.75",
+          "27.0",
+          "658",
+          "780"
+        ],
+        [
+          "308 08 14",
+          "14 x 2 x 0.75",
+          "28.0",
+          "731",
+          "950"
+        ],
+        [
+          "308 08 19",
+          "19 x 2 x 0.75",
+          "32.0",
+          "951",
+          "1300"
+        ],
+        [
+          "308 08 24",
+          "24 x 2 x 0.75",
+          "37.0",
+          "1181",
+          "1600"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Oil Resistant"
+        ],
+        "technical": [
+          "Temperature Range :  - 40⁰C to +120⁰C",
+          "Rated Voltage (U/U) : 0.6/1 kV",
+          "Bending Radius(Min) : 5 x Cable Diameter",
+          "Short-circuit temp.(Max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine vehicles",
+          "Fixed installations in power & control",
+          "systems below and above decks"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : EPR",
+          "Cores laid up in pairs",
+          "Separator Foil : Glass Mica Tape",
+          "Screen : Electrolytic Copper Braided Screen",
+          "Separator Foil :  Glass Mica Tape",
+          "Screen : Electrolytic Copper Braid Screen",
+          "Separator Foil : Polyester Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwiscj2g",
+      "family": "marine",
+      "name": "FMGSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight\n    Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "307 08 02",
+          "2 x 2 x 0.75",
+          "9.0",
+          "89",
+          "110"
+        ],
+        [
+          "307 08 04",
+          " 4 x 2 x 0.75",
+          "12.5",
+          "142",
+          "190"
+        ],
+        [
+          "307 08 06",
+          " 6 x 2 x 0.75",
+          "14.5",
+          "189",
+          "260"
+        ],
+        [
+          "307 08 08",
+          "8 x 2 x 0.75",
+          "15.5",
+          "225",
+          "310"
+        ],
+        [
+          "307 08 10",
+          "10 x 2 x 0.75",
+          "17.0",
+          "272",
+          "380"
+        ],
+        [
+          "307 08 14",
+          "14 x 2 x 0.75",
+          "18.5",
+          "338",
+          "465"
+        ],
+        [
+          "307 08 16",
+          "16 x 2 x 0.75",
+          "20.0",
+          "373",
+          "520"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Non corrosive and low toxic gas emission",
+          "Electron Beam Cross Linked",
+          "Halogen free",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) : 250V",
+          "Insulation Resistance : 1400 MOhms x km",
+          "Bending Radius(Min) : 5 x Cable Diameter",
+          "Max. capacity at 800 Hz : 250nF/km",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp (max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine craft",
+          "Minimizes radio interferences and",
+          "electrical influences",
+          "Fire resistant insulation"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation :  Electron Beam Cross Linked Polyolefin",
+          "Screen :  Electrolytic Copper Braided Screen",
+          "Separator Foil : Polyester Tape",
+          "Outer Sheath : Electron Beam Cross Linked Polyolefin (Black)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwirmpna",
+      "family": "marine",
+      "name": "FMGCH",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "306 08 01",
+          "1 x 2 x 0.75",
+          "8.5",
+          "62",
+          "90"
+        ],
+        [
+          "306 08 02",
+          "2 x 2 x 0.75",
+          "9.0",
+          "87",
+          "130"
+        ],
+        [
+          "306 08 04",
+          "4 x 2 x 0.75",
+          "13.0",
+          "153",
+          "230"
+        ],
+        [
+          "306 08 07",
+          "7 x 2 x 0.75",
+          "15.5",
+          "230",
+          "340"
+        ],
+        [
+          "306 08 10",
+          "10 x 2 x 0.75",
+          "18.5",
+          "319",
+          "470"
+        ],
+        [
+          "306 08 14",
+          "14 x 2 x 0.75",
+          "21.0",
+          "445",
+          "610"
+        ],
+        [
+          "306 08 19",
+          "19 x 2 x 0.75",
+          "24.0",
+          "525",
+          "770"
+        ],
+        [
+          "306 08 24",
+          "24 x 2 x 0.75",
+          "27.0",
+          "663",
+          "950"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/375",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034/1-2",
+          "Gases corrosivity : IEC 60754-2",
+          "Gases toxicity : No toxicity to",
+          "IEC 60754-1",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40C to +120C",
+          "Rated Voltage (U/U)  : 250 V",
+          "Test Voltage  : 1.5 kV",
+          "Bending Radius(Min) :  8 x Cable Diameter",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp (Max.) : 280⁰C"
+        ],
+        "application": [
+          "Used as Control and Communication",
+          "cables in radio, radar & information",
+          "systems of marine vehicles.",
+          "Minimizes radio interferences and",
+          "electrical influences.",
+          "For use in above and below decks."
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : HEPR (Halogen free)",
+          "Layup : Cores laid up in pairs, pairs laid up concentrically",
+          "Separator : Glass Mica Tape",
+          "Screen : Electrolytic copper braided screen(90% coverage)",
+          "Separator : Glass Mica Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Green)"
+        ]
+      }
+    },
+    {
+      "id": "new-mwgd4ztu",
+      "family": "marine",
+      "name": "MPRXCX",
+      "headers": [
+        "Part Number",
+        "Number of cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index kg/km",
+        "Total Weight approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "Kg/km"
+        ],
+        [
+          " 305S19XX",
+          "1 x 4",
+          "7.3",
+          "76",
+          "135"
+        ],
+        [
+          "305S23XX",
+          "1 x 6",
+          "7.8",
+          "99",
+          "160"
+        ],
+        [
+          "305S27XX",
+          "1 x 10",
+          "8.9",
+          "144",
+          "210"
+        ],
+        [
+          "305S28XX",
+          "1 x 16",
+          "9.8",
+          "209",
+          "280"
+        ],
+        [
+          "305S30XX",
+          "1 x 25",
+          "11.7",
+          "306",
+          "410"
+        ],
+        [
+          "305S32XX",
+          "1 x 35",
+          "12.7",
+          "411",
+          "510"
+        ],
+        [
+          "305S34XX",
+          "1 x 50",
+          "14.8",
+          "567",
+          "690"
+        ],
+        [
+          "305S37XX",
+          "1 x 70",
+          "16.9",
+          "774",
+          "960"
+        ],
+        [
+          "305S38XX",
+          "1 x 95",
+          "18.7",
+          "1029",
+          "1230"
+        ],
+        [
+          "305S41XX",
+          "1 x 120",
+          "20.6",
+          "1311",
+          "1470"
+        ],
+        [
+          "305S42XX",
+          "1 x 150",
+          "22.7",
+          "1610",
+          "1870"
+        ],
+        [
+          "305S44XX",
+          "1 x 185",
+          "24.9",
+          "1963",
+          "2220"
+        ],
+        [
+          "305S46XX",
+          "1 x 240",
+          "27.2",
+          "2501",
+          "2830"
+        ],
+        [
+          "305S48XX",
+          "1 x 300",
+          "30.4",
+          "3340",
+          "3500"
+        ],
+        [
+          "3051302",
+          "2 x 1.5",
+          "3.9",
+          "100",
+          "160"
+        ],
+        [
+          "3051602",
+          "2 x 2.5",
+          "10.2",
+          "127",
+          "190"
+        ],
+        [
+          "3051902",
+          "2 x 4",
+          "11.4",
+          "165",
+          "235"
+        ],
+        [
+          "3052302",
+          " 2 x 6",
+          "12.6",
+          "212",
+          "320"
+        ],
+        [
+          "3052702",
+          "2 x 10",
+          "14.8",
+          "395",
+          "337"
+        ],
+        [
+          "3052802",
+          "2 x 16",
+          "16.9",
+          "466",
+          "590"
+        ],
+        [
+          "3053002",
+          "2 x 25",
+          "20.4",
+          "665",
+          "870"
+        ],
+        [
+          "3051303",
+          "3 x 1.5",
+          "9.9",
+          "120",
+          "190"
+        ],
+        [
+          "3051603",
+          "3 x 2.5",
+          "10.8",
+          "156",
+          "230"
+        ],
+        [
+          "3051903",
+          " 3 x 4  ",
+          "12.0",
+          "210",
+          "280"
+        ],
+        [
+          "3052303",
+          "3 x 6",
+          "13.2",
+          "277",
+          "390"
+        ],
+        [
+          "3052703",
+          "3 x 10",
+          "15.7",
+          "412",
+          "550"
+        ],
+        [
+          "3052803",
+          "3 x 16",
+          "18.0",
+          "631",
+          "780"
+        ],
+        [
+          "3053003",
+          "3 x 25",
+          "21.7",
+          "919",
+          "980"
+        ],
+        [
+          "3053203",
+          "3 x 35",
+          "23.7",
+          "1228",
+          "1500"
+        ],
+        [
+          "3053403",
+          "3 x 50",
+          "26.5",
+          "1698",
+          "1900"
+        ],
+        [
+          "3053703",
+          "3 x 70",
+          "29.1",
+          "2408",
+          "2710"
+        ],
+        [
+          "3053803",
+          "3 x 95",
+          "32.9",
+          "3187",
+          "3560"
+        ],
+        [
+          "3054103",
+          "3 x 120",
+          "36.7",
+          "3970",
+          "4360"
+        ],
+        [
+          "3051304",
+          "4 x 1.5",
+          "10.6",
+          "142",
+          "230"
+        ],
+        [
+          "3051604",
+          "4 x 2.5",
+          "11.9",
+          "185",
+          "270"
+        ],
+        [
+          "3051904",
+          "4 x 4",
+          "13.0",
+          "279",
+          "380"
+        ],
+        [
+          "3052304",
+          "4 x 6",
+          "14.6",
+          "366",
+          "480"
+        ],
+        [
+          "3052704",
+          "4 x 10",
+          "17.3",
+          "540",
+          "700"
+        ],
+        [
+          "3052804",
+          "4 x 16",
+          "19.8",
+          "791",
+          "980"
+        ],
+        [
+          "3053004",
+          "4 x 25",
+          "23.9",
+          "1165",
+          "1500"
+        ],
+        [
+          "3053204",
+          "4 x 35",
+          "25.7",
+          "1573",
+          "1960"
+        ],
+        [
+          "3053404",
+          "4 x 50",
+          "29.6",
+          "2273",
+          "2530"
+        ],
+        [
+          "3053704",
+          "4 x 70",
+          "33.7",
+          "3085",
+          "3610"
+        ],
+        [
+          "3053804",
+          "4 x 95",
+          "38.3",
+          "4106",
+          "4660"
+        ],
+        [
+          "3051305",
+          "5 x 1.5",
+          "11.7",
+          "166",
+          "255"
+        ],
+        [
+          "3051605",
+          "5 x 2.5",
+          "12.8",
+          "215",
+          "360"
+        ],
+        [
+          "3051307",
+          "7 x 1.5",
+          "12.5",
+          "204",
+          "340"
+        ],
+        [
+          "3051310",
+          "10 x 1.5",
+          "16.0",
+          "313",
+          "430"
+        ],
+        [
+          "3051312",
+          "12 x 1.5",
+          "16.6",
+          "348",
+          "470"
+        ],
+        [
+          "3051314",
+          "14 x 1.5",
+          "17.4",
+          "389",
+          "530"
+        ],
+        [
+          "3051316",
+          "16 x 1.5",
+          "18.2",
+          "427",
+          "580"
+        ],
+        [
+          "3051319",
+          "19 x 1.5",
+          "19.3",
+          "481",
+          "650"
+        ],
+        [
+          "3051324",
+          "24 x 1.5",
+          "22.4",
+          "596",
+          "800"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/353",
+          "Halogen free : IEC 60754 -1",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034",
+          "Gases corrosivity : IEC 60754-2",
+          "Gases toxicity : No toxicity to IEC 60754-1",
+          "Oil resistan"
+        ],
+        "technical": [
+          "Temperature Range :  -40°C to +120°C",
+          "Rated Voltage (U⁰/U) : 0.6/1kV",
+          "Bending Radius(Min) : 8 x Cable Diameter",
+          "Short-circuit temp(Max.) : 250°C"
+        ],
+        "application": [
+          "Fixed installations on ships and offshore",
+          "units in all locations below the upper",
+          "metallic deck",
+          "Minimizes radio interferences and",
+          "electrical influences",
+          "Installation on passenger ships"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : Electron Beam Cross Linked Polyethylene",
+          "Separator Foil : Polyester tape",
+          "Screen : Electrolytic Copper Braided Screen",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, plastic polyolefin based jacket compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "51a1bc29a0",
+      "family": "marine",
+      "name": "WIRING CABLE - SY",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "313 23 XX*",
+          "1 x 6",
+          "8.3",
+          "52.4",
+          "178"
+        ],
+        [
+          "313 27 XX",
+          "1 x 10",
+          "10.3",
+          "90.8",
+          "251"
+        ],
+        [
+          "313 28 XX",
+          "1 x 16",
+          "10.3",
+          "148.4",
+          "323"
+        ],
+        [
+          "313 30 XX",
+          "1 x 25",
+          "13.7",
+          "234.5",
+          "477"
+        ],
+        [
+          "313 32 XX",
+          "1 x 35",
+          "15.2",
+          "330.0",
+          "595"
+        ],
+        [
+          "313 34 XX",
+          "1 x 50",
+          "18.1",
+          "474.5",
+          "818"
+        ],
+        [
+          "313 37 XX",
+          "1 x 70",
+          "21.1",
+          "666.0",
+          "1121"
+        ],
+        [
+          "313 38 XX",
+          "1 x 95",
+          "22.8",
+          "905.0",
+          "1415"
+        ]
+      ],
+      "catalogueNo": "313",
+      "info": {
+        "features": [
+          "Flame resistant : IEC -60332-1",
+          "Oil resistant : DIN VDE 0250",
+          "Chemical resistant",
+          "Self extinguish Number"
+        ],
+        "technical": [
+          "Temperature Range : -40⁰C to +70⁰C",
+          "Rated Voltage (U₀/U) : 250 V",
+          "Test Voltage : 1500 V",
+          "Bending Radius (Min.) : 7.5 x Cable Diameter Flexing : +5⁰C to +70⁰C",
+          "Short-circuit temp. (Max.) : 160⁰C"
+        ],
+        "application": [
+          "Fixed installations on ships and offshore units in all locations below the upper metallic deck Minimizes radio interferences and electrical influences",
+          "Installation on passenger ships"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 5 (Tinned on request)",
+          "Insulation : PVC",
+          "Screen : Tinned Steel wire braid",
+          "Outer Sheath : PVC (Black)"
+        ]
+      }
+    },
+    {
+      "id": "a3e8e8a306",
+      "family": "marine",
+      "name": "MPRX — Per Conductor",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "304S19XX*",
+          "1 x 4",
+          "5.9",
+          "36",
+          "78"
+        ],
+        [
+          "304S23XX",
+          "1 x 6",
+          "6.4",
+          "53",
+          "100"
+        ],
+        [
+          "304S27XX",
+          "1 x 10",
+          "7.3",
+          "90",
+          "144"
+        ],
+        [
+          "304S28XX",
+          "1 x 16",
+          "8.2",
+          "142",
+          "210"
+        ],
+        [
+          "304S30XX",
+          "1 x 25",
+          "10.1",
+          "222",
+          "310"
+        ],
+        [
+          "304S32XX",
+          "1 x 35",
+          "11.1",
+          "311",
+          "410"
+        ],
+        [
+          "304S34XX",
+          "1 x 50",
+          "12.8",
+          "444",
+          "560"
+        ],
+        [
+          "304S37XX",
+          "1 x 70",
+          "14.9",
+          "622",
+          "770"
+        ],
+        [
+          "304S38XX",
+          "1x 95",
+          "16.7",
+          "844",
+          "1020"
+        ],
+        [
+          "304S41XX",
+          "1 x 120",
+          "18.6",
+          "1066",
+          "1270"
+        ],
+        [
+          "304S42XX",
+          "1 x 150",
+          "20.7",
+          "1333",
+          "1590"
+        ],
+        [
+          "304S44XX",
+          "1 x 185",
+          "22.9",
+          "1644",
+          "1960"
+        ],
+        [
+          "304S46XX",
+          "1 x 240",
+          "25.7",
+          "2133",
+          "2500"
+        ],
+        [
+          "304S48XX",
+          "1 x 300",
+          "28.4",
+          "2666",
+          "3100"
+        ],
+        [
+          "3041302",
+          "2 x 1.5",
+          "7.8",
+          "27",
+          "110"
+        ],
+        [
+          "3041602",
+          "2 x 2.5",
+          "8.9",
+          "45",
+          "140"
+        ],
+        [
+          "3041902",
+          "2 x 4",
+          "9.9",
+          "71",
+          "190"
+        ],
+        [
+          "3042302",
+          "2 x 6",
+          "10.9",
+          "107",
+          "240"
+        ],
+        [
+          "3042702",
+          "2 x 10",
+          "13.0",
+          "178",
+          "340"
+        ],
+        [
+          "3042802",
+          "2 x 16",
+          "15.1",
+          "284",
+          "500"
+        ],
+        [
+          "3043002",
+          "2 x 25",
+          "17.6",
+          "444",
+          "750"
+        ],
+        [
+          "3041303",
+          "3 x 1.5",
+          "8.3",
+          "41",
+          "130"
+        ],
+        [
+          "3041603",
+          "3 x 2.5",
+          "9.4",
+          "68",
+          "170"
+        ],
+        [
+          "3041903",
+          "3 x 4",
+          "10.4",
+          "107",
+          "220"
+        ],
+        [
+          "3042303",
+          "3 x 6",
+          "11.8",
+          "160",
+          "290"
+        ],
+        [
+          "3042703",
+          "3 x 10",
+          "13.8",
+          "267",
+          "440"
+        ],
+        [
+          "3042803",
+          "3 x 16",
+          "16.1",
+          "427",
+          "630"
+        ],
+        [
+          "3043003",
+          "3 x 25",
+          "19.8",
+          "666",
+          "1000"
+        ],
+        [
+          "3043203",
+          "3 x 35",
+          "21.3",
+          "933",
+          "1320"
+        ],
+        [
+          "3043403",
+          "3 x 50",
+          "24.7",
+          "1333",
+          "1750"
+        ],
+        [
+          "3043703",
+          "3 x 70",
+          "27.3",
+          "1866",
+          "2520"
+        ],
+        [
+          "3043803",
+          "3 x 95",
+          "31.1",
+          "2533",
+          "3365"
+        ],
+        [
+          "3044103",
+          "3 x 120",
+          "34.5",
+          "3199",
+          "4200"
+        ],
+        [
+          "3041304",
+          "4 x 1.5",
+          "9.2",
+          "53",
+          "150"
+        ],
+        [
+          "3041604",
+          "4 x 2.5",
+          "10.3",
+          "91",
+          "210"
+        ],
+        [
+          "3041904",
+          "4 x 4 ",
+          "11.6",
+          "142",
+          "275"
+        ],
+        [
+          "3042304",
+          "4 x 6",
+          "12.6",
+          "213",
+          "375"
+        ],
+        [
+          "3042704",
+          "4 x 10",
+          "15.4",
+          "355",
+          "565"
+        ],
+        [
+          "3042804",
+          "4 x 16",
+          "17.9",
+          "569",
+          "825"
+        ],
+        [
+          "3043004",
+          "4 x 25",
+          "22.0",
+          "889",
+          "1250"
+        ],
+        [
+          "3043204",
+          "4 x 35",
+          "23.9",
+          "1244",
+          "1700"
+        ],
+        [
+          "3043404",
+          "4 x 50",
+          "27.8",
+          "1777",
+          "2340"
+        ],
+        [
+          "3043704",
+          "4 x 70",
+          "32.9",
+          "2488",
+          "3280"
+        ],
+        [
+          "3043804",
+          "4 x 95",
+          "36.1",
+          "3377",
+          "4350"
+        ],
+        [
+          "3041305",
+          "5 x 1.5",
+          "10.1",
+          "67",
+          "180"
+        ],
+        [
+          "3041605",
+          "5 x 2.5",
+          "11.2",
+          "115",
+          "250"
+        ],
+        [
+          "3041307",
+          "7 x 1.5",
+          "11.0",
+          "96",
+          "230"
+        ],
+        [
+          "3041310",
+          "10 x 1.5",
+          "14.1",
+          "136",
+          "320"
+        ],
+        [
+          "3041312",
+          "12 x 1.5",
+          "14.7",
+          "163",
+          "360"
+        ],
+        [
+          "3041314",
+          "14 x 1.5",
+          "15.5",
+          "190",
+          "405"
+        ],
+        [
+          "3041316",
+          "16 x 1.5",
+          "16.3",
+          "218",
+          "470"
+        ],
+        [
+          "3041319",
+          "19 x 1.5",
+          "17.4",
+          "258",
+          "530"
+        ],
+        [
+          "3041324",
+          "24 x 1.5",
+          "20.5",
+          "326",
+          "660"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/353",
+          "Halogen free : IEC 60754 -1",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034",
+          "Gases corrosivity : IEC 60754-2",
+          "Gases toxicity :IEC 60754-1",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40°C to +120°C",
+          "Rated Voltage (U⁰/U) : 0.6/1kV",
+          "Max. Operating Voltage : 1.2 kV",
+          "Test Voltage :  3.5 kV",
+          "Bending Radius(Min) : 8 x Cable Diameter",
+          "Short-circuit temp (Max) : 250°C"
+        ],
+        "application": [
+          "Fixed installations on ships and offshore",
+          "units in all locations below the upper",
+          "metallic deck",
+          "Installations in radio stations",
+          "For open deck applications in passenger",
+          "ships"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : Electron Beam Cross Linked Polyethylene",
+          "Outer Sheath : Halogen free, flame retardant, thermoset,",
+          "polyolefin based jacket compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "391c729948",
+      "family": "marine",
+      "name": "MGSGO — Per Conductor",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "303 19 XX*",
+          "1 x 4",
+          "9.0",
+          "76",
+          "200"
+        ],
+        [
+          "303 23 XX",
+          "1 x 6",
+          "10.0",
+          "99",
+          "230"
+        ],
+        [
+          "303 27 XX",
+          "1 x 10",
+          "11.0",
+          "144",
+          "290"
+        ],
+        [
+          "303 28 XX",
+          "1 x 16",
+          "12.0",
+          "209",
+          "370"
+        ],
+        [
+          "303 30 XX",
+          "1 x 25",
+          "14.0",
+          "306",
+          "510"
+        ],
+        [
+          "303 32 XX",
+          "1 x 35",
+          "15.5",
+          "411",
+          "620"
+        ],
+        [
+          "303 34 XX",
+          "1 x 50",
+          "17.5",
+          "567",
+          "790"
+        ],
+        [
+          "303 37 XX",
+          "1 x 70",
+          "19.5",
+          "774",
+          "1040"
+        ],
+        [
+          "303 38 XX",
+          "1 x 95",
+          "22.0",
+          "1029",
+          "1360"
+        ],
+        [
+          "303 41 XX",
+          "1 x 120",
+          "23.5",
+          "1311",
+          "1610"
+        ],
+        [
+          "303 42 XX",
+          "1 x 150",
+          "26.0",
+          "1610",
+          "1910"
+        ],
+        [
+          "303 44 XX",
+          "1 x 185",
+          "28.5",
+          "1963",
+          "2360"
+        ],
+        [
+          "303 46 XX",
+          "1 x 240",
+          "31.5",
+          "2501",
+          "3010"
+        ],
+        [
+          "303 48 XX",
+          "1 x 300",
+          "34.4",
+          "3340",
+          "3660"
+        ],
+        [
+          "303 13 02",
+          "2 x 1.5",
+          "15.0",
+          "100",
+          "370"
+        ],
+        [
+          "303 16 02",
+          "2 x 2.5",
+          "16.0",
+          "127",
+          "430"
+        ],
+        [
+          "303 19 02",
+          "2 x 4",
+          "17.0",
+          "165",
+          "490"
+        ],
+        [
+          "303 23 02",
+          "2 x 6",
+          "18.5",
+          "212",
+          "600"
+        ],
+        [
+          "303 27 02",
+          "2 x 10",
+          "20.0",
+          "302",
+          "750"
+        ],
+        [
+          "303 28 02",
+          "2 x 16",
+          "22.5",
+          "466",
+          "970"
+        ],
+        [
+          "303 30 02",
+          "2 x 25",
+          "26.5",
+          "665",
+          "1330"
+        ],
+        [
+          "303 13 03",
+          "3 x 1.5",
+          "15.5",
+          "120",
+          "410"
+        ],
+        [
+          "303 16 03",
+          "3 x 2.5",
+          "16.5",
+          "156",
+          "470"
+        ],
+        [
+          "303 19 03",
+          "3 x 4",
+          "18.0",
+          "210",
+          "550"
+        ],
+        [
+          "303 23 03",
+          "3 x 6",
+          "19.0",
+          "277",
+          "670"
+        ],
+        [
+          "303 27 03",
+          "3 x 10",
+          "21.5",
+          "412",
+          "870"
+        ],
+        [
+          "303 28 03",
+          "3 x 16",
+          "24.0",
+          "631",
+          "1140"
+        ],
+        [
+          "303 30 03",
+          "3 x 25",
+          "28.0",
+          "919",
+          "1640"
+        ],
+        [
+          "303 32 03",
+          "3 x 35",
+          "31.0",
+          "1228",
+          "2050"
+        ],
+        [
+          "303 34 03",
+          "3 x 50",
+          "35.0",
+          "1698",
+          "2640"
+        ],
+        [
+          "303 37 03",
+          "3 x 70",
+          "39.0",
+          "2408",
+          "3510"
+        ],
+        [
+          "303 38 03",
+          " 3  x  95",
+          "45.5",
+          "3186",
+          "4770"
+        ],
+        [
+          "303 41 03",
+          "3  x  120",
+          "49.5",
+          "3970",
+          "5740"
+        ],
+        [
+          "303 19 04",
+          " 4  x  4",
+          "19.0",
+          "279",
+          "650"
+        ],
+        [
+          "303 23 04",
+          " 4  x  6",
+          "20.5",
+          "366",
+          "780"
+        ],
+        [
+          "303 27 04",
+          "4  x  10",
+          "23.0",
+          "540",
+          "1040"
+        ],
+        [
+          "303 28 04",
+          "4  x  16",
+          "26.0",
+          "791",
+          "1430"
+        ],
+        [
+          "303 30 04",
+          "4  x  25",
+          "30.5",
+          "1165",
+          "2030"
+        ],
+        [
+          "303 32 04",
+          "4  x  35",
+          "34.0",
+          "1573",
+          "2560"
+        ],
+        [
+          "303 34 04",
+          "4  x  50",
+          "38.5",
+          "2273",
+          "3310"
+        ],
+        [
+          "303 37 04",
+          "4  x  70",
+          "44.0",
+          "3085",
+          "4510"
+        ],
+        [
+          "303 38 04",
+          "4  x  95",
+          "50.5",
+          "4105",
+          "5990"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/350-351-359",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 60134 / 1-2 (DIN EN 50147-1)",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40°C to +120°C",
+          "Rated Voltage (U/U) : 0.6/1kV",
+          "Bending Radius(Min) : 5 x Cable Diameter",
+          "Short-circuit temp.(Max.) : 280°C"
+        ],
+        "application": [
+          "Permanent installations in marine crafts",
+          "Installations in open decks as Control",
+          "and Power cables"
+        ],
+        "construction": [
+          "Conductor :  Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : HEPR (Halogen free)",
+          "Foil Screen : Al-Mylar Tape",
+          "Screen : Electrolytic Copper Braided Screen",
+          "Separator : Polyester Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Black)"
+        ]
+      }
+    },
+    {
+      "id": "fe47095862",
+      "family": "marine",
+      "name": "MGH — Fixed installations in marine vehicles",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "302 13 XX*",
+          "1 x 1.5",
+          "4.5",
+          "9",
+          "90"
+        ],
+        [
+          "302 16 XX",
+          "1 x 2.5",
+          "5.0",
+          "19",
+          "100"
+        ],
+        [
+          "302 19 XX",
+          "1 x 4",
+          "6.0",
+          "33",
+          "110"
+        ],
+        [
+          "302 23 XX",
+          "1 x 6",
+          "7.5",
+          "53",
+          "140"
+        ],
+        [
+          "302 27 XX",
+          "1 x 10",
+          "8.5",
+          "91",
+          "180"
+        ],
+        [
+          "302 28 XX",
+          "1 x 16",
+          "9.5",
+          "149",
+          "250"
+        ],
+        [
+          "302 30 XX",
+          "1 x 25",
+          "11.0",
+          "235",
+          "350"
+        ],
+        [
+          "302 32 XX",
+          "1 x 35",
+          "12.0",
+          "331",
+          "450"
+        ],
+        [
+          "302 34 XX",
+          "1 x 50",
+          "13.5",
+          "475",
+          "590"
+        ],
+        [
+          "302 37 XX",
+          "1 x 70",
+          "15.5",
+          "667",
+          "840"
+        ],
+        [
+          "302 38 XX",
+          "1 x 95",
+          "17.5",
+          "907",
+          "1090"
+        ],
+        [
+          "302 41 XX",
+          "1 x 120",
+          "19.5",
+          "1147",
+          "1350"
+        ],
+        [
+          "302 42 XX",
+          "1 x 150",
+          "21.5",
+          "1435",
+          "1650"
+        ],
+        [
+          "302 44 XX",
+          "1 x 185",
+          "23.5",
+          "1771",
+          "2020"
+        ],
+        [
+          "302 46 XX",
+          "1 x 240",
+          "26.5",
+          "2299",
+          "2620"
+        ],
+        [
+          "302 48 XX",
+          "1 x 300",
+          "29.5",
+          "2875",
+          "3260"
+        ],
+        [
+          "302 13 02",
+          "2 x 1.5",
+          "10.0",
+          "24",
+          "160"
+        ],
+        [
+          "302 16 02",
+          "2 x 2.5",
+          "11.0",
+          "43",
+          "200"
+        ],
+        [
+          "302 19 02",
+          "2 x 4",
+          "12.0",
+          "72",
+          "250"
+        ],
+        [
+          "302 23 02",
+          "2 x 6",
+          "13.0",
+          "110",
+          "310"
+        ],
+        [
+          "302 27 02",
+          "2 x 10",
+          "15.5",
+          "187",
+          "440"
+        ],
+        [
+          "302 28 02",
+          "2 x 16",
+          "17.5",
+          "302",
+          "620"
+        ],
+        [
+          "302 30 02",
+          "2 x 25",
+          "21.0",
+          "475",
+          "910"
+        ],
+        [
+          "302 13 03",
+          "3 x 1.5",
+          "10.5",
+          "38",
+          "190"
+        ],
+        [
+          "302 16 03",
+          "3 x 2.5",
+          "11.5",
+          "67",
+          "240"
+        ],
+        [
+          "302 19 03",
+          "3 x 4",
+          "12.5",
+          "110",
+          "300"
+        ],
+        [
+          "302 23 03",
+          "3 x 6",
+          "14.0",
+          "168",
+          "380"
+        ],
+        [
+          "302 27 03",
+          "3 x 10",
+          "16.5",
+          "283",
+          "540"
+        ],
+        [
+          "302 28 03",
+          "3 x 16",
+          "18.5",
+          "456",
+          "780"
+        ],
+        [
+          "302 30 03",
+          "3 x 25",
+          "22.0",
+          "715",
+          "1160"
+        ],
+        [
+          "302 32 03",
+          "3 x 35",
+          "24.5",
+          "1003",
+          "1530"
+        ],
+        [
+          "302 34 03",
+          "3 x 50",
+          "28.0",
+          "1435",
+          "2000"
+        ],
+        [
+          "302 37 03",
+          " 3  x  70",
+          "33.0",
+          "2011",
+          "2830"
+        ],
+        [
+          "302 38 03",
+          "3  x  95",
+          "37.0",
+          "2731",
+          "3740"
+        ],
+        [
+          "302 41 03",
+          " 3  x  120",
+          "41.0",
+          "3451",
+          "4640"
+        ],
+        [
+          "302 13 04",
+          "4  x  1.5",
+          "11.0",
+          "53",
+          "230"
+        ],
+        [
+          "302 16 04",
+          " 4  x  2.5",
+          "12.0",
+          "91",
+          "280"
+        ],
+        [
+          "302 19 04",
+          "4  x  4",
+          "13.5",
+          "149",
+          "360"
+        ],
+        [
+          "302 23 04",
+          " 4  x  6",
+          "15.5",
+          "225",
+          "470"
+        ],
+        [
+          "302 27 04",
+          " 4  x  10",
+          "18.0",
+          "379",
+          "690"
+        ],
+        [
+          "302 28 04",
+          " 4  x  16",
+          "21.0",
+          "609",
+          "980"
+        ],
+        [
+          "302 30 04",
+          " 4  x  25",
+          "24.5",
+          "955",
+          "1490"
+        ],
+        [
+          "302 32 04",
+          " 4  x  35",
+          "27.0",
+          "1339",
+          "1950"
+        ],
+        [
+          "302 34 04",
+          " 4  x  50",
+          "31.0",
+          "1915",
+          "2550"
+        ],
+        [
+          "302 37 04",
+          " 4  x  70",
+          "36.5",
+          "2683",
+          "3590"
+        ],
+        [
+          "302 38 04",
+          " 4  x  95",
+          "41.0",
+          "3643",
+          "4790"
+        ],
+        [
+          "302 13 05",
+          " 5  x  1.5",
+          "12.0",
+          "67",
+          "260"
+        ],
+        [
+          "302 13 07",
+          "7  x  1.5",
+          "13.0",
+          "96",
+          "320"
+        ],
+        [
+          "302 13 10",
+          "10  x  1.5",
+          "15.5",
+          "139",
+          "390"
+        ],
+        [
+          "302 13 12",
+          " 12  x  1.5",
+          "16.0",
+          "168",
+          "440"
+        ],
+        [
+          "302 13 14",
+          " 14  x  1.5",
+          "17.0",
+          "197",
+          "500"
+        ],
+        [
+          "302 13 16",
+          "16  x  1.5",
+          "18.0",
+          "225",
+          "560"
+        ],
+        [
+          "302 13 19",
+          "19  x  1.5",
+          "19.5",
+          "269",
+          "640"
+        ],
+        [
+          "302 13 24",
+          " 24  x  1.5",
+          "22.0",
+          "34",
+          "790"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/350-351-359",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034 / 1-2 (DIN EN 50268/1-2)",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40°C to +120°C",
+          "Rated Voltage (U/U) : 0.6/1kV",
+          "Insulation Resistance : 1400 MOhms x km",
+          "Test Voltage : 3.5 kV",
+          "Bending Radius(Min) : 6 x Cable Diameter",
+          "Short-circuit temp.(Max.) : 280°C"
+        ],
+        "application": [
+          "Fixed installations in marine vehicles",
+          "Installation beneath the first metal deck",
+          "level"
+        ],
+        "construction": [
+          "Conductor :  Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : HEPR (Halogen free)",
+          "Inner Sheath : Halogen free compound",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound",
+          "(Black or Grey)"
+        ]
+      }
+    },
+    {
+      "id": "f000c53337",
+      "family": "marine",
+      "name": "MGCH APC, EMC Screened 0.6/1 kV Control Cable",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "301 13 XX*",
+          "1 x 1.5",
+          "6.5",
+          "43",
+          "115"
+        ],
+        [
+          "301 16 XX",
+          "1 x 2.5",
+          "7.0",
+          "55",
+          "120"
+        ],
+        [
+          "301 19 XX",
+          "1 x 4",
+          "7.5",
+          "76",
+          "140"
+        ],
+        [
+          "301 23 XX",
+          "1 x 6",
+          "8.5",
+          "99",
+          "170"
+        ],
+        [
+          "301 27 XX",
+          "1 x 10",
+          "9.5",
+          "144",
+          "220"
+        ],
+        [
+          "301 28 XX",
+          "1 x 16",
+          "10.0",
+          "209",
+          "300"
+        ],
+        [
+          "301 30 XX",
+          "1 x 25",
+          "12.0",
+          "306",
+          "410"
+        ],
+        [
+          "301 32 XX",
+          "1 x 35",
+          "13.0",
+          "411",
+          "510"
+        ],
+        [
+          "301 34 XX",
+          "1 x 50",
+          "15.0",
+          "567",
+          "690"
+        ],
+        [
+          "301 37 XX",
+          "1 x 70",
+          "17.0",
+          "774",
+          "960"
+        ],
+        [
+          "301 38 XX",
+          "1 x 95",
+          "19.0",
+          "1029",
+          "1230"
+        ],
+        [
+          "301 41 XX",
+          "1 x 120",
+          "21.0",
+          "1311",
+          "1470"
+        ],
+        [
+          "301 42 XX",
+          "1 x 150",
+          "23.0",
+          "1610",
+          "1810"
+        ],
+        [
+          "301 44 XX",
+          "1 x 185",
+          "25.5",
+          "1963",
+          "2220"
+        ],
+        [
+          "301 46 XX",
+          "1 x 240",
+          "28.5",
+          "2501",
+          "2830"
+        ],
+        [
+          "301 48 XX",
+          "1 x 300",
+          "31.0",
+          "3181",
+          "3500"
+        ],
+        [
+          "301 13 02",
+          "2 x 1.5",
+          "11.0",
+          "100",
+          "210"
+        ],
+        [
+          "301 16 02",
+          "2 x 2.5",
+          "12.0",
+          "127",
+          "250"
+        ],
+        [
+          "301 19 02",
+          "2 x 4",
+          "13.0",
+          "165",
+          "310"
+        ],
+        [
+          "301 23 02",
+          "2 x 6",
+          "14.5",
+          "212",
+          "410"
+        ],
+        [
+          "301 27 02",
+          "2 x 10",
+          "17.0",
+          "302",
+          "530"
+        ],
+        [
+          "301 28 02",
+          "2 x 16",
+          "19.5",
+          "466",
+          "740"
+        ],
+        [
+          "301 30 02",
+          "2 x 25",
+          "22.5",
+          "665",
+          "1050"
+        ],
+        [
+          "301 13 03",
+          "3 x 1.5",
+          "12.0",
+          "120",
+          "240"
+        ],
+        [
+          "301 16 03",
+          "3 x 2.5",
+          "12.5",
+          "156",
+          "290"
+        ],
+        [
+          "301 19 03",
+          "3 x 4",
+          "13.5",
+          "210",
+          "360"
+        ],
+        [
+          "301 23 03",
+          "3 x 6",
+          "15.5",
+          "277",
+          "480"
+        ],
+        [
+          "301 27 03",
+          "3 x 10",
+          "17.5",
+          "412",
+          "650"
+        ],
+        [
+          "301 28 03",
+          "3 x 16",
+          "19.5",
+          "631",
+          "900"
+        ],
+        [
+          "301 30 03",
+          "3 x 25",
+          "23.5",
+          "919",
+          "1310"
+        ],
+        [
+          "301 32 03",
+          "3 x 35",
+          "26.0",
+          "1228",
+          "1710"
+        ],
+        [
+          "301 34 03",
+          "3 x 50",
+          "29.0",
+          "1698",
+          "2210"
+        ],
+        [
+          "301 37 03",
+          "3 x 70",
+          "34.5",
+          "2408",
+          "3080"
+        ],
+        [
+          "301 38 03",
+          "3 x 95",
+          "39.0",
+          "3187",
+          "4110"
+        ],
+        [
+          "301 41 03",
+          "3 x 120",
+          "43.0",
+          "3970",
+          "5060"
+        ],
+        [
+          "301 13 04",
+          "4 x 1.5",
+          "12.5",
+          "142",
+          "270"
+        ],
+        [
+          "301 16 04",
+          "4 x 2.5",
+          "13.5",
+          "185",
+          "330"
+        ],
+        [
+          "301 19 04",
+          "4 x 4",
+          "15.0",
+          "279",
+          "460"
+        ],
+        [
+          "301 23 04",
+          "4 x 6",
+          "16.5",
+          "366",
+          "570"
+        ],
+        [
+          "301 27 04",
+          "4 x 10",
+          "19.0",
+          "540",
+          "810"
+        ],
+        [
+          "301 28 04",
+          "4 x 16",
+          "21.0",
+          "791",
+          "1120"
+        ],
+        [
+          "301 30 04",
+          "4 x 25",
+          "26.0",
+          "1165",
+          "1660"
+        ],
+        [
+          "301 32 04",
+          "4 x 35",
+          "28.5",
+          "1573",
+          "2150"
+        ],
+        [
+          "301 34 04",
+          "4 x 50",
+          "32.5",
+          "2273",
+          "2780"
+        ],
+        [
+          "301 37 04",
+          "4 x 70",
+          "38.5",
+          "3085",
+          "3960"
+        ],
+        [
+          "301 38 04",
+          "4 x 95",
+          "44.0",
+          "4105",
+          "5220"
+        ],
+        [
+          "301 13 05",
+          "5 x 1.5",
+          "13.5",
+          "166",
+          "320"
+        ],
+        [
+          "301 13 07",
+          "7 x 1.5",
+          "14.0",
+          "204",
+          "410"
+        ],
+        [
+          "301 13 10",
+          "10 x 1.5",
+          "16.5",
+          "313",
+          "480"
+        ],
+        [
+          "301 13 12",
+          "12 x 1.5",
+          "18.0",
+          "348",
+          "530"
+        ],
+        [
+          "301 13 14",
+          "14 x 1.5",
+          "18.5",
+          "387",
+          "590"
+        ],
+        [
+          "301 13 16",
+          "16 x 1.5",
+          "19.5",
+          "427",
+          "660"
+        ],
+        [
+          "301 13 19",
+          "19 x 1.5",
+          "20.5",
+          "481",
+          "740"
+        ],
+        [
+          "301 13 24",
+          "24 x 1.5",
+          "23.5",
+          "596",
+          "910"
+        ]
+      ],
+      "catalogueNo": "301",
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/350-351-359 Halogen free : IEC 60754 / 1-2",
+          "Shielding Effectiveness : DIN EN 50147-1",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034 / 1-2 (DIN EN 50268/1-2)",
+          "Oil resistant",
+          "RoHS compliant"
+        ],
+        "technical": [
+          "Temperature Range :  - 40°C to +120°C",
+          "Rated Voltage (U⁰/U) : 0.6/1kV",
+          "Test Voltage : 3.5 kV",
+          "Bending Radius(Min) :  8 x Cable Diameter",
+          "Short-circuit temp. (Max.) : 280°C"
+        ],
+        "application": [
+          "Fixed installations in marine vehicles.",
+          "Minimizes radio interferences and electrical influences.",
+          "For open deck applications in passenger ships."
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : HEPR Compound (Halogen free)",
+          "Inner Sheath : Halogen free compound",
+          "Separator Foil :  Glass Mica Tape",
+          "Screen : Electrolytic Copper Braided Screen",
+          "(90% coverage) MGCH (EMC) type                           is wrapped by a Copper tape in addition to this screen for100% coverage",
+          "Separator Foil : Glass Mica Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound",
+          "(Black or Grey)"
+        ]
+      }
+    },
+    {
       "id": "d82b75e334",
       "family": "marine",
       "name": "Per Conductor",
@@ -4130,240 +4806,6 @@
         ]
       ],
       "catalogueNo": "304"
-    },
-    {
-      "id": "598348bc7b",
-      "family": "marine",
-      "name": "LFMSGSSGO",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "311 70 05",
-          "5 x 3 x 0.4",
-          "16.0",
-          "243",
-          "450"
-        ],
-        [
-          "311 70 12",
-          "12 x 3 x 0.4",
-          "23.0",
-          "495",
-          "770"
-        ]
-      ],
-      "catalogueNo": "311"
-    },
-    {
-      "id": "0ffd17ae69",
-      "family": "marine",
-      "name": "WIRING CABLE - SY STRANDED TYPE",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "312 13 02",
-          "2 x 1.5",
-          "9.7",
-          "23.7",
-          "176"
-        ],
-        [
-          "312 13 03",
-          "3 x 1.5",
-          "10.1",
-          "38.1",
-          "196"
-        ],
-        [
-          "312 13 04",
-          "4 x 1.5",
-          "10.8",
-          "52.5",
-          "228"
-        ],
-        [
-          "312 13 05",
-          "5 x 1.5",
-          "11.6",
-          "66.9",
-          "260"
-        ],
-        [
-          "312 13 07",
-          "7 x 1.5",
-          "13.3",
-          "95.6",
-          "329"
-        ],
-        [
-          "312 16 03",
-          "3 x 2.5",
-          "11.6",
-          "67.1",
-          "261"
-        ],
-        [
-          "312 16 04",
-          "4 x 2.5",
-          "13.3",
-          "90.8",
-          "328"
-        ],
-        [
-          "312 16 05",
-          "5 x 2.5",
-          "14.3",
-          "115.0",
-          "385"
-        ],
-        [
-          "312 19 04",
-          "4 x 4",
-          "16.2",
-          "148.5",
-          "388"
-        ],
-        [
-          "312 19 05",
-          "5 x 4",
-          "17.5",
-          "188.0",
-          "565"
-        ],
-        [
-          "312 23 04",
-          "4 x 6",
-          "18.4",
-          "225.3",
-          "625"
-        ],
-        [
-          "312 23 05",
-          "5 x 6",
-          "19.7",
-          "283.0",
-          "744"
-        ]
-      ],
-      "catalogueNo": "312"
-    },
-    {
-      "id": "51a1bc29a0",
-      "family": "marine",
-      "name": "WIRING CABLE - SY",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "313 23 XX*",
-          "1 x 6",
-          "8.3",
-          "52.4",
-          "178"
-        ],
-        [
-          "313 27 XX",
-          "1 x 10",
-          "10.3",
-          "90.8",
-          "251"
-        ],
-        [
-          "313 28 XX",
-          "1 x 16",
-          "10.3",
-          "148.4",
-          "323"
-        ],
-        [
-          "313 30 XX",
-          "1 x 25",
-          "13.7",
-          "234.5",
-          "477"
-        ],
-        [
-          "313 32 XX",
-          "1 x 35",
-          "15.2",
-          "330.0",
-          "595"
-        ],
-        [
-          "313 34 XX",
-          "1 x 50",
-          "18.1",
-          "474.5",
-          "818"
-        ],
-        [
-          "313 37 XX",
-          "1 x 70",
-          "21.1",
-          "666.0",
-          "1121"
-        ],
-        [
-          "313 38 XX",
-          "1 x 95",
-          "22.8",
-          "905.0",
-          "1415"
-        ]
-      ],
-      "catalogueNo": "313",
-      "info": {
-        "features": [
-          "Flame resistant : IEC -60332-1 Oil resistant : DIN VDE 0250 Chemical resistant Self extinguish Number"
-        ],
-        "technical": [
-          "Temperature Range : -400C to +700C Rated Voltage (U/U) : 250 V o Test Voltage : 1500 V Bending Radius(Min) : 7.5 x Cable Diameter Flexing : +50C to +700C Short-circuit temp. (max.) : 1600C"
-        ],
-        "application": [
-          "Fixed installations on ships and offshore units in all locations below the upper metallic deck Minimizes radio interferences and electrical influences Installation on passenger ships"
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 5 (Tinned on request) Insulation : PVC Screen : Tinned Steel wire braid Outer Sheath : PVC (Black) DGQA Siechem WIRING CABLE - SY Number of Cores and mm2 Outer Diameter in Copper"
-        ]
-      }
     },
     {
       "id": "e218c6990c",
