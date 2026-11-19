@@ -1578,233 +1578,6 @@
       ]
     },
     {
-      "id": "12918e564d",
-      "family": "automotive",
-      "name": "FLALRYW",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Strands",
-        "Diameter of Single wire max.",
-        "Conductor Diameter Nom.",
-        "Insulation Wall Thickness Nom.",
-        "Cable — Overall Diameter Max.",
-        "Weight Approx",
-        "Current Carrying Capacity .",
-        "Max. Conductor Resistance at 20 °C",
-        "Standard Length*"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "kg/km",
-          "Amps",
-          "Ω/km",
-          "mtrs"
-        ],
-        [
-          "A87908XX*",
-          "0.75",
-          "11",
-          "0.3",
-          "1.3",
-          "0.24",
-          "1.9",
-          "4",
-          "15",
-          "43.6",
-          "500"
-        ],
-        [
-          "A87910XX",
-          "1",
-          "16",
-          "0.29",
-          "1.5",
-          "0.24",
-          "2.1",
-          "5",
-          "18",
-          "32.7",
-          "500"
-        ],
-        [
-          "A87912XX",
-          "1.25",
-          "16",
-          "0.32",
-          "1.7",
-          "0.24",
-          "2.3",
-          "6",
-          "21",
-          "24.8",
-          "500"
-        ],
-        [
-          "A87913XX",
-          "1.5",
-          "16",
-          "0.35",
-          "1.8",
-          "0.24",
-          "2.4",
-          "7",
-          "23",
-          "21.2",
-          "500"
-        ],
-        [
-          "A87914XX",
-          "2",
-          "15",
-          "0.42",
-          "2.0",
-          "0.28",
-          "2.8",
-          "9",
-          "28",
-          "15.7",
-          "500"
-        ],
-        [
-          "A87916XX",
-          "2.5",
-          "19",
-          "0.43",
-          "2.2",
-          "0.28",
-          "3.0",
-          "12",
-          "32",
-          "12.7",
-          "500"
-        ],
-        [
-          "A87917XX",
-          "3",
-          "23",
-          "0.42",
-          "2.4",
-          "0.32",
-          "3.4",
-          "14",
-          "38",
-          "10.2",
-          "500"
-        ],
-        [
-          "A87919XX",
-          "4",
-          "30",
-          "0.42",
-          "2.8",
-          "0.32",
-          "3.7",
-          "17",
-          "45",
-          "7.85",
-          "500"
-        ],
-        [
-          "A87921XX",
-          "5",
-          "36",
-          "0.42",
-          "3.1",
-          "0.32",
-          "4.2",
-          "19",
-          "51",
-          "6.57",
-          "500"
-        ],
-        [
-          "A87923XX",
-          "6",
-          "45",
-          "0.42",
-          "3.4",
-          "0.32",
-          "4.3",
-          "23",
-          "58",
-          "5.23",
-          "500"
-        ],
-        [
-          "A87925XX",
-          "8",
-          "59",
-          "0.42",
-          "4.3",
-          "0.32",
-          "5.0",
-          "29",
-          "70",
-          "3.97",
-          "500"
-        ],
-        [
-          "A87927XX",
-          "10",
-          "50",
-          "0.52",
-          "4.5",
-          "0.48",
-          "6.0",
-          "43",
-          "83",
-          "3.03",
-          "500"
-        ],
-        [
-          "A87928XX",
-          "16",
-          "78",
-          "0.52",
-          "5.8",
-          "0.52",
-          "7.2",
-          "63",
-          "111",
-          "1.93",
-          "500"
-        ]
-      ],
-      "catalogueNo": "A879",
-      "info": {
-        "features": [
-          "Hot pressure resistance.",
-          "Considerable weight savings compared to copper."
-        ],
-        "technical": [
-          "Temperature Range: -40°C to +125°C (3000 Hours)",
-          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
-          "FL: Automotive cable",
-          "AL: Aluminum Conductor",
-          "R: Reduced wall thickness",
-          "YW: Hot pressure resistance",
-          "Standard: ISO 6722, Class C"
-        ],
-        "application": [
-          "Suitable for application inside the engine compartment."
-        ],
-        "construction": [
-          "Conductor: Aluminum 99.7 % ≥ 1.25mm2 Aluminum alloy ≤1.25 mm2",
-          "Insulation: Soft -PVC With properties according to ISO 6722-2 Class C"
-        ]
-      },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/12918e564d.png?v=1795081949736",
-      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/12918e564d-3d.png?v=1795081953360"
-    },
-    {
       "id": "16d3a432af",
       "family": "automotive",
       "name": "Auto 125 - UTW",
@@ -2523,6 +2296,411 @@
       "colorNote": "We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog.\nCurrent Carrying capacity given is for the maximum conductor operating temperature of 100C and ambient air temperature of 40C.\nOther length as per Customer order."
     },
     {
+      "id": "amffb82c55",
+      "family": "automotive",
+      "name": "Siechem FL2G- B",
+      "headers": [
+        "Part Number",
+        "Conductor Construction Nominal Cross- Section",
+        "Conductor Construction No. of Strands",
+        "Conductor Construction Diameter of Single wire max.",
+        "Conductor Construction Conductor Diameter Max.",
+        "Insulation Wall Thickness Min. Conductor Diameter Max.",
+        "Cable Overall Diameter Max.",
+        "Cable Weight Approx.",
+        "Current Carrying Capacity Weight Approx.",
+        "Max. Conductor Resistance at 20°C Weight Approx.",
+        "Standard Length* Weight Approx."
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "kg/km",
+          "Amps",
+          "Ω/km",
+          "mtrs"
+        ],
+        [
+          "C41806XX",
+          "0.5",
+          "16",
+          "0.21",
+          "1.10",
+          "0.48",
+          "2.30",
+          "9",
+          "21",
+          "37.1",
+          "500"
+        ],
+        [
+          "C41808XX",
+          "0.75",
+          "24",
+          "0.21",
+          "1.30",
+          "0.48",
+          "2.50",
+          "12",
+          "27",
+          "24.7",
+          "500"
+        ],
+        [
+          "C41810XX",
+          "1.0",
+          "32",
+          "0.21",
+          "1.50",
+          "0.48",
+          "2.70",
+          "14",
+          "32",
+          "18.5",
+          "500"
+        ],
+        [
+          "C41813XX",
+          "1.5",
+          "30",
+          "0.26",
+          "1.80",
+          "0.48",
+          "3.00",
+          "19",
+          "40",
+          "12.7",
+          "500"
+        ],
+        [
+          "C41813XX",
+          "2.5",
+          "50",
+          "0.26",
+          "2.20",
+          "0.56",
+          "3.60",
+          "30",
+          "55",
+          "7.60",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "4",
+          "56",
+          "0.31",
+          "2.80",
+          "0.64",
+          "4.40",
+          "47",
+          "75",
+          "4.71",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "6",
+          "84",
+          "0.31",
+          "3.40",
+          "0.64",
+          "5.00",
+          "67",
+          "96",
+          "3.14",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "10",
+          "80",
+          "0.41",
+          "4.50",
+          "0.80",
+          "6.50",
+          "111",
+          "136",
+          "1.82",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "16",
+          "126",
+          "0.41",
+          "5.80",
+          "0.80",
+          "8.30",
+          "169",
+          "181",
+          "1.16",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "25",
+          "196",
+          "0.41",
+          "7.20",
+          "1.04",
+          "10.40",
+          "263",
+          "238",
+          "0.743",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "35",
+          "276",
+          "0.41",
+          "8.50",
+          "1.04",
+          "11.60",
+          "358",
+          "292",
+          "0.527",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "50",
+          "396",
+          "0.41",
+          "10.50",
+          "1.20",
+          "13.50",
+          "509",
+          "364",
+          "0.368",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "70",
+          "360",
+          "0.51",
+          "12.50",
+          "1.20",
+          "15.50",
+          "704",
+          "447",
+          "0.259",
+          "500"
+        ],
+        [
+          "C41806XX",
+          "95",
+          "475",
+          "0.51",
+          "14.80",
+          "1.28",
+          "18.00",
+          "920",
+          "529",
+          "0.196",
+          "500"
+        ]
+      ],
+      "catalogueNo": "C418",
+      "info": {
+        "features": [
+          "Flame retardant.",
+          "Highly resistant against acids, lyes, petrol and diesel.",
+          "Extra flexibility."
+        ],
+        "technical": [
+          "Temperature Range:  - 40˚C to +200˚C (3000 Hours)",
+          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm²",
+          "5kV (r.m.s.) for cables ≥ 0.5 mm²",
+          "FL: Automotive Cable",
+          "2G: Silicone Rubber",
+          "B: Asymmetrical (Structure B)",
+          "Standard: ISO 6722, Class F"
+        ],
+        "application": [
+          "Low-Tension electric wire for Automobiles.",
+          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
+        ],
+        "construction": [
+          "Conductor : Soft - Annealed Electrolytic Copper E-Cu - ETP1 According to DIN 13602, Bare conductor (Asymmetrical Structure B).",
+          "Optional : Tinned.",
+          "Insulation : Silicone Rubber (Thick wall).",
+          "Colour : As per customer order.",
+          "Single core."
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/amffb82c55.png?v=1795082909568",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/amffb82c55-3d.png?v=1795082916156"
+    },
+    {
+      "id": "b3a2aafd47",
+      "family": "automotive",
+      "name": "FLR6Y- A (Auto 210 F-A)",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section",
+        "No. of Strands",
+        "Diameter of Single wire max.",
+        "Conductor Diameter Max.",
+        "Insulation Wall Thickness Min.",
+        "Cable — Overall Diameter Max.",
+        "Weight Approx.",
+        "Current Carrying Capacity",
+        "Max. Conductor Resistance at 20° C",
+        "Standard Length*"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "kg/km",
+          "Amps",
+          "Ω/km",
+          "mtrs"
+        ],
+        [
+          "84802XX",
+          "0.22",
+          "7",
+          "0.21",
+          "0.70",
+          "0.20",
+          "1.20",
+          "3",
+          "11",
+          "84.8",
+          "500"
+        ],
+        [
+          "84805XX",
+          "0.35",
+          "7",
+          "0.27",
+          "0.90",
+          "0.20",
+          "1.30",
+          "5",
+          "14",
+          "54.4",
+          "500"
+        ],
+        [
+          "84806XX",
+          "0.5",
+          "19",
+          "0.19",
+          "1.10",
+          "0.22",
+          "1.60",
+          "6",
+          "19",
+          "37.1",
+          "500"
+        ],
+        [
+          "84808XX",
+          "0.75",
+          "19",
+          "0.24",
+          "1.30",
+          "0.24",
+          "1.90",
+          "9",
+          "25",
+          "24.7",
+          "500"
+        ],
+        [
+          "84810XX",
+          "1.0",
+          "19",
+          "0.27",
+          "1.50",
+          "0.24",
+          "2.10",
+          "11",
+          "30",
+          "18.5",
+          "500"
+        ],
+        [
+          "84813XX",
+          "1.5",
+          "19",
+          "0.33",
+          "1.80",
+          "0.24",
+          "2.40",
+          "16",
+          "38",
+          "12.7",
+          "500"
+        ],
+        [
+          "84816XX",
+          "2.5",
+          "37",
+          "0.28",
+          "2.20",
+          "0.28",
+          "3.00",
+          "25",
+          "54",
+          "7.60",
+          "500"
+        ]
+      ],
+      "catalogueNo": "848",
+      "info": {
+        "features": [
+          "Good mechanical and thermal properties.",
+          "Excellent chemical resistance.",
+          "Very good oil and fuel resistance.",
+          "Corrosion resistance.",
+          "High resistance to atmospheric conditions and ozone.",
+          "Board temperature range."
+        ],
+        "technical": [
+          "Temperature Range: -65˚C to +210˚C",
+          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm²",
+          "5kV (r.m.s.) for cables ≥ 0.5mm²",
+          "FL: Automotive Cable",
+          "R: Reduced wall thickness",
+          "6Y: Fluorinated Ethylene Propylene",
+          "A: Symmetrical (Structure A)",
+          "Standard: ISO 6722-1, Class F"
+        ],
+        "application": [
+          "Suitable for inside engine compartment.",
+          "Low-tension electric wire for automobiles.",
+          "Used in Motorcycles and other vehicles for starting, charging, lighting, signal and instrument panel circuits etc.",
+          "Used for temperature sensors & electromagnetic coils."
+        ],
+        "construction": [
+          "Conductor : Soft - Annealed Electrolytic Copper E-Cu ETP1 according to DIN 13602, Bare conductor (Symmetrical).",
+          "Optional : Tinned.",
+          "Insulation : FEP (Fluorinated Ethylene Propylene), (Thin wall).",
+          "Colour : As per customer order.",
+          "Single core."
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/b3a2aafd47.png?v=1795083751180",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/b3a2aafd47-3d.png?v=1795083754669"
+    },
+    {
       "id": "ame914cd5d",
       "family": "automotive",
       "name": "Siechem Automotive Engine Harness Wire ISO 6722 T4 Class D",
@@ -2739,159 +2917,6 @@
         ]
       ],
       "catalogueNo": "C"
-    },
-    {
-      "id": "5270143dbc",
-      "family": "automotive",
-      "name": "Auto 200 (T6)",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Strands",
-        "Diameter of Single wire Max.",
-        "Conductor Diameter Max.",
-        "Insulation Wall Thickness Nom.",
-        "Cable Overall Diameter Max.",
-        "Current Carrying Capacity",
-        "Cable Weight\nApprox.",
-        "Max. Conductor Resistance at 20°C",
-        "Standard Length*"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "Amps",
-          "kg/km",
-          "Ω/km",
-          "mtrs"
-        ],
-        [
-          "B62806XX*",
-          "0.5",
-          "19",
-          "0.19",
-          "1.10",
-          "0.28",
-          "1.6",
-          "21",
-          "8",
-          "37.1",
-          "500"
-        ],
-        [
-          "B62808XX",
-          "0.75",
-          "19",
-          "0.24",
-          "1.30",
-          "0.30",
-          "1.9",
-          "26",
-          "11.5",
-          "24.7",
-          "500"
-        ],
-        [
-          "B62810XX",
-          "1",
-          "19",
-          "0.27",
-          "1.50",
-          "0.30",
-          "2.1",
-          "31",
-          "14.5",
-          "18.5",
-          "500"
-        ],
-        [
-          "B62813XX",
-          "1.5",
-          "19",
-          "0.33",
-          "1.80",
-          "0.30",
-          "2.4",
-          "40",
-          "17",
-          "12.7",
-          "500"
-        ],
-        [
-          "B62814XX",
-          "2",
-          "19",
-          "0.38",
-          "2.00",
-          "0.35",
-          "2.8",
-          "48",
-          "24",
-          "9.42",
-          "500"
-        ],
-        [
-          "B62816XX",
-          "2.5",
-          "37",
-          "0.28",
-          "2.20",
-          "0.35",
-          "3.0",
-          "56",
-          "27",
-          "7.60",
-          "500"
-        ],
-        [
-          "B62817XX",
-          "3",
-          "37",
-          "0.34",
-          "2.40",
-          "0.40",
-          "3.4",
-          "63",
-          "35",
-          "6.15",
-          "500"
-        ]
-      ],
-      "catalogueNo": "B628",
-      "info": {
-        "features": [
-          "Good mechanical and thermal properties.",
-          "Excellent chemical resistance.",
-          "Very good oil and fuel resistance.",
-          "High resistance to atmospheric conditions and ozone."
-        ],
-        "technical": [
-          "Temperature Range: -40°C to +200°C (3000 Hours)",
-          "Test Voltage: 3kV (r.m.s.) for cables < 0.5mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
-          "Standard: ISO 6722-1",
-          "Voltage Rating: 60 VDC"
-        ],
-        "application": [
-          "Suitable for inside engine compartment.",
-          "Low-tension electric wire for automobiles.",
-          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
-        ],
-        "construction": [
-          "Conductor : Soft-Annealed Electrolytic Copper E-Cu-ETP1 According to DIN 13602, Bare Conductor (Symmetrical).",
-          "Optional : Tinned Copper COnductor.",
-          "Insulation : Teflon.",
-          "Colour : As per customer order.",
-          "Single core."
-        ]
-      },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/5270143dbc.png?v=1794897371432",
-      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/5270143dbc-3d.png?v=1794897374615"
     },
     {
       "id": "48ee3e940c",
@@ -10531,147 +10556,6 @@
       "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/dd87137203-3d.png?v=1794999334040"
     },
     {
-      "id": "1bd5030cba",
-      "family": "automotive",
-      "name": "R4 RoHS",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section mm²",
-        "No. of Strands Nos",
-        "Diameter of Single wire Nom. mm",
-        "Insulation Wall Thickness Min. mm",
-        "Overall Cable Diameter Max mm",
-        "Weight Approx. Kg/Km",
-        "Max. Conductor Resistance at 20°C Ω/km",
-        "Current  Carrying Capacity Amps",
-        "Standard Length* mtrs"
-      ],
-      "rows": [
-        [
-          "86605XX",
-          "0.35",
-          "7",
-          "0.26",
-          "0.20",
-          "1.4",
-          "4.5",
-          "54.4",
-          "5",
-          "500"
-        ],
-        [
-          "86606XX",
-          "0.5",
-          "19",
-          "0.19",
-          "0.22",
-          "1.6",
-          "6.0",
-          "37.1",
-          "8",
-          "500"
-        ],
-        [
-          "86608XX",
-          "0.75",
-          "19",
-          "0.23",
-          "0.24",
-          "1.9",
-          "9.4",
-          "24.7",
-          "10",
-          "500"
-        ],
-        [
-          "86610XX",
-          "1",
-          "32",
-          "0.20",
-          "0.24",
-          "2.1",
-          "12",
-          "18.5",
-          "12",
-          "500"
-        ],
-        [
-          "86613XX",
-          "1.5",
-          "37",
-          "0.22",
-          "0.24",
-          "2.4",
-          "16",
-          "12.7",
-          "16",
-          "500"
-        ],
-        [
-          "86616XX",
-          "2.5",
-          "37",
-          "0.28",
-          "0.28",
-          "3.0",
-          "25",
-          "7.6",
-          "22",
-          "500"
-        ],
-        [
-          "86619XX",
-          "4",
-          "56",
-          "0.31",
-          "0.32",
-          "3.7",
-          "47",
-          "4.71",
-          "30",
-          "500"
-        ],
-        [
-          "86623XX",
-          "6",
-          "84",
-          "0.31",
-          "0.32",
-          "4.30",
-          "69",
-          "3.14",
-          "38",
-          "500"
-        ]
-      ],
-      "catalogueNo": "866",
-      "info": {
-        "features": [
-          "Flame retardant",
-          "Highly resistant against acids, alkaline, Petrol and diesel.",
-          "Flexible conductors with Electron Beam Cross Linked Polyolefin thin wall insulation for smaller diameter and lesser weight.",
-          "Excellent flexibility.",
-          "Heat resistant."
-        ],
-        "technical": [
-          "Temperature Range : -40°C to +150°C (3000 Hours)",
-          "Standard : Volvo 1059032",
-          "Rated Voltage :50 VDC"
-        ],
-        "application": [
-          "Manufacturing specifications STD 7611,131."
-        ],
-        "construction": [
-          "Conductor : Extra multi stranded bare copper conductor, construction according to volvo 1059032",
-          "Insulation : Class 4, Equivalent to ISO 6722 Temperature Class D",
-          "Colour : As per customer order",
-          "Single core"
-        ]
-      },
-      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/1bd5030cba.png?v=1794573962820",
-      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/1bd5030cba-3d.png?v=1794573965527"
-    },
-    {
       "id": "7ede9f96ef",
       "family": "automotive",
       "name": "FLR31Y11Y",
@@ -12080,6 +11964,233 @@
       "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/6503843d0d-3d.png?v=1794554402817"
     },
     {
+      "id": "12918e564d",
+      "family": "automotive",
+      "name": "FLALRYW",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section",
+        "No. of Strands",
+        "Diameter of Single wire max.",
+        "Conductor Diameter Nom.",
+        "Insulation Wall Thickness Nom.",
+        "Cable — Overall Diameter Max.",
+        "Weight Approx",
+        "Current Carrying Capacity .",
+        "Max. Conductor Resistance at 20 °C",
+        "Standard Length*"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "kg/km",
+          "Amps",
+          "Ω/km",
+          "mtrs"
+        ],
+        [
+          "A87908XX*",
+          "0.75",
+          "11",
+          "0.3",
+          "1.3",
+          "0.24",
+          "1.9",
+          "4",
+          "15",
+          "43.6",
+          "500"
+        ],
+        [
+          "A87910XX",
+          "1",
+          "16",
+          "0.29",
+          "1.5",
+          "0.24",
+          "2.1",
+          "5",
+          "18",
+          "32.7",
+          "500"
+        ],
+        [
+          "A87912XX",
+          "1.25",
+          "16",
+          "0.32",
+          "1.7",
+          "0.24",
+          "2.3",
+          "6",
+          "21",
+          "24.8",
+          "500"
+        ],
+        [
+          "A87913XX",
+          "1.5",
+          "16",
+          "0.35",
+          "1.8",
+          "0.24",
+          "2.4",
+          "7",
+          "23",
+          "21.2",
+          "500"
+        ],
+        [
+          "A87914XX",
+          "2",
+          "15",
+          "0.42",
+          "2.0",
+          "0.28",
+          "2.8",
+          "9",
+          "28",
+          "15.7",
+          "500"
+        ],
+        [
+          "A87916XX",
+          "2.5",
+          "19",
+          "0.43",
+          "2.2",
+          "0.28",
+          "3.0",
+          "12",
+          "32",
+          "12.7",
+          "500"
+        ],
+        [
+          "A87917XX",
+          "3",
+          "23",
+          "0.42",
+          "2.4",
+          "0.32",
+          "3.4",
+          "14",
+          "38",
+          "10.2",
+          "500"
+        ],
+        [
+          "A87919XX",
+          "4",
+          "30",
+          "0.42",
+          "2.8",
+          "0.32",
+          "3.7",
+          "17",
+          "45",
+          "7.85",
+          "500"
+        ],
+        [
+          "A87921XX",
+          "5",
+          "36",
+          "0.42",
+          "3.1",
+          "0.32",
+          "4.2",
+          "19",
+          "51",
+          "6.57",
+          "500"
+        ],
+        [
+          "A87923XX",
+          "6",
+          "45",
+          "0.42",
+          "3.4",
+          "0.32",
+          "4.3",
+          "23",
+          "58",
+          "5.23",
+          "500"
+        ],
+        [
+          "A87925XX",
+          "8",
+          "59",
+          "0.42",
+          "4.3",
+          "0.32",
+          "5.0",
+          "29",
+          "70",
+          "3.97",
+          "500"
+        ],
+        [
+          "A87927XX",
+          "10",
+          "50",
+          "0.52",
+          "4.5",
+          "0.48",
+          "6.0",
+          "43",
+          "83",
+          "3.03",
+          "500"
+        ],
+        [
+          "A87928XX",
+          "16",
+          "78",
+          "0.52",
+          "5.8",
+          "0.52",
+          "7.2",
+          "63",
+          "111",
+          "1.93",
+          "500"
+        ]
+      ],
+      "catalogueNo": "A879",
+      "info": {
+        "features": [
+          "Hot pressure resistance.",
+          "Considerable weight savings compared to copper."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +125°C (3000 Hours)",
+          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
+          "FL: Automotive cable",
+          "AL: Aluminum Conductor",
+          "R: Reduced wall thickness",
+          "YW: Hot pressure resistance",
+          "Standard: ISO 6722, Class C"
+        ],
+        "application": [
+          "Suitable for application inside the engine compartment."
+        ],
+        "construction": [
+          "Conductor: Aluminum 99.7 % ≥ 1.25mm2 Aluminum alloy ≤1.25 mm2",
+          "Insulation: Soft -PVC With properties according to ISO 6722-2 Class C"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/12918e564d.png?v=1795081949736",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/12918e564d-3d.png?v=1795081953360"
+    },
+    {
       "id": "143fda44f4",
       "family": "automotive",
       "name": "FLR4Y-A",
@@ -13363,6 +13474,300 @@
       "colorNote": "Note : Brown - RAL 8003, Green - RAL 6018, Orange - RAL 2003  & Blue - RAL 5015\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog."
     },
     {
+      "id": "1bd5030cba",
+      "family": "automotive",
+      "name": "R4 RoHS",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section mm²",
+        "No. of Strands Nos",
+        "Diameter of Single wire Nom. mm",
+        "Insulation Wall Thickness Min. mm",
+        "Overall Cable Diameter Max mm",
+        "Weight Approx. Kg/Km",
+        "Max. Conductor Resistance at 20°C Ω/km",
+        "Current  Carrying Capacity Amps",
+        "Standard Length* mtrs"
+      ],
+      "rows": [
+        [
+          "86605XX",
+          "0.35",
+          "7",
+          "0.26",
+          "0.20",
+          "1.4",
+          "4.5",
+          "54.4",
+          "5",
+          "500"
+        ],
+        [
+          "86606XX",
+          "0.5",
+          "19",
+          "0.19",
+          "0.22",
+          "1.6",
+          "6.0",
+          "37.1",
+          "8",
+          "500"
+        ],
+        [
+          "86608XX",
+          "0.75",
+          "19",
+          "0.23",
+          "0.24",
+          "1.9",
+          "9.4",
+          "24.7",
+          "10",
+          "500"
+        ],
+        [
+          "86610XX",
+          "1",
+          "32",
+          "0.20",
+          "0.24",
+          "2.1",
+          "12",
+          "18.5",
+          "12",
+          "500"
+        ],
+        [
+          "86613XX",
+          "1.5",
+          "37",
+          "0.22",
+          "0.24",
+          "2.4",
+          "16",
+          "12.7",
+          "16",
+          "500"
+        ],
+        [
+          "86616XX",
+          "2.5",
+          "37",
+          "0.28",
+          "0.28",
+          "3.0",
+          "25",
+          "7.6",
+          "22",
+          "500"
+        ],
+        [
+          "86619XX",
+          "4",
+          "56",
+          "0.31",
+          "0.32",
+          "3.7",
+          "47",
+          "4.71",
+          "30",
+          "500"
+        ],
+        [
+          "86623XX",
+          "6",
+          "84",
+          "0.31",
+          "0.32",
+          "4.30",
+          "69",
+          "3.14",
+          "38",
+          "500"
+        ]
+      ],
+      "catalogueNo": "866",
+      "info": {
+        "features": [
+          "Flame retardant",
+          "Highly resistant against acids, alkaline, Petrol and diesel.",
+          "Flexible conductors with Electron Beam Cross Linked Polyolefin thin wall insulation for smaller diameter and lesser weight.",
+          "Excellent flexibility.",
+          "Heat resistant."
+        ],
+        "technical": [
+          "Temperature Range : -40°C to +150°C (3000 Hours)",
+          "Standard : Volvo 1059032",
+          "Rated Voltage :50 VDC"
+        ],
+        "application": [
+          "Manufacturing specifications STD 7611,131."
+        ],
+        "construction": [
+          "Conductor : Extra multi stranded bare copper conductor, construction according to volvo 1059032",
+          "Insulation : Class 4, Equivalent to ISO 6722 Temperature Class D",
+          "Colour : As per customer order",
+          "Single core"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/1bd5030cba.png?v=1794573962820",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/1bd5030cba-3d.png?v=1794573965527"
+    },
+    {
+      "id": "5270143dbc",
+      "family": "automotive",
+      "name": "Auto 200 (T6)",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section",
+        "No. of Strands",
+        "Diameter of Single wire Max.",
+        "Conductor Diameter Max.",
+        "Insulation Wall Thickness Nom.",
+        "Cable Overall Diameter Max.",
+        "Current Carrying Capacity",
+        "Cable Weight\nApprox.",
+        "Max. Conductor Resistance at 20°C",
+        "Standard Length*"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "Amps",
+          "kg/km",
+          "Ω/km",
+          "mtrs"
+        ],
+        [
+          "B62806XX*",
+          "0.5",
+          "19",
+          "0.19",
+          "1.10",
+          "0.28",
+          "1.6",
+          "21",
+          "8",
+          "37.1",
+          "500"
+        ],
+        [
+          "B62808XX",
+          "0.75",
+          "19",
+          "0.24",
+          "1.30",
+          "0.30",
+          "1.9",
+          "26",
+          "11.5",
+          "24.7",
+          "500"
+        ],
+        [
+          "B62810XX",
+          "1",
+          "19",
+          "0.27",
+          "1.50",
+          "0.30",
+          "2.1",
+          "31",
+          "14.5",
+          "18.5",
+          "500"
+        ],
+        [
+          "B62813XX",
+          "1.5",
+          "19",
+          "0.33",
+          "1.80",
+          "0.30",
+          "2.4",
+          "40",
+          "17",
+          "12.7",
+          "500"
+        ],
+        [
+          "B62814XX",
+          "2",
+          "19",
+          "0.38",
+          "2.00",
+          "0.35",
+          "2.8",
+          "48",
+          "24",
+          "9.42",
+          "500"
+        ],
+        [
+          "B62816XX",
+          "2.5",
+          "37",
+          "0.28",
+          "2.20",
+          "0.35",
+          "3.0",
+          "56",
+          "27",
+          "7.60",
+          "500"
+        ],
+        [
+          "B62817XX",
+          "3",
+          "37",
+          "0.34",
+          "2.40",
+          "0.40",
+          "3.4",
+          "63",
+          "35",
+          "6.15",
+          "500"
+        ]
+      ],
+      "catalogueNo": "B628",
+      "info": {
+        "features": [
+          "Good mechanical and thermal properties.",
+          "Excellent chemical resistance.",
+          "Very good oil and fuel resistance.",
+          "High resistance to atmospheric conditions and ozone."
+        ],
+        "technical": [
+          "Temperature Range: -40°C to +200°C (3000 Hours)",
+          "Test Voltage: 3kV (r.m.s.) for cables < 0.5mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
+          "Standard: ISO 6722-1",
+          "Voltage Rating: 60 VDC"
+        ],
+        "application": [
+          "Suitable for inside engine compartment.",
+          "Low-tension electric wire for automobiles.",
+          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
+        ],
+        "construction": [
+          "Conductor : Soft-Annealed Electrolytic Copper E-Cu-ETP1 According to DIN 13602, Bare Conductor (Symmetrical).",
+          "Optional : Tinned Copper COnductor.",
+          "Insulation : Teflon.",
+          "Colour : As per customer order.",
+          "Single core."
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/5270143dbc.png?v=1794897371432",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/5270143dbc-3d.png?v=1794897374615"
+    },
+    {
       "id": "00b7573517",
       "family": "automotive",
       "name": "Auto 125P RoHS",
@@ -13577,6 +13982,165 @@
       },
       "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/00b7573517.png?v=1794824483065",
       "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/00b7573517-3d.png?v=1794824485913"
+    },
+    {
+      "id": "20ad441740",
+      "family": "automotive",
+      "name": "FLR6Y- A (175°C)",
+      "headers": [
+        "Part Number",
+        "Conductor Construction — Nominal Cross- Section",
+        "No. of Strands",
+        "Diameter of Single wire max.",
+        "Conductor Diameter Max.",
+        "Insulation Wall Thickness Min.",
+        "Cable — Overall Diameter Max.",
+        "Weight Approx.",
+        "Current Carrying Capacity",
+        "Max. Conductor Resistance at 20° C",
+        "Standard Length*"
+      ],
+      "rows": [
+        [
+          "",
+          "mm²",
+          "nos.",
+          "mm",
+          "mm",
+          "mm",
+          "mm",
+          "kg/km",
+          "Amps",
+          "Ω/km",
+          "mtrs"
+        ],
+        [
+          "A75202XX",
+          "0.22",
+          "7",
+          "0.21",
+          "0.70",
+          "0.20",
+          "1.20",
+          "3",
+          "10",
+          "84.8",
+          "500"
+        ],
+        [
+          "A75205XX",
+          "0.35",
+          "7",
+          "0.27",
+          "0.90",
+          "0.20",
+          "1.30",
+          "5",
+          "13",
+          "54.4",
+          "500"
+        ],
+        [
+          "A75206XX",
+          "0.5",
+          "19",
+          "0.19",
+          "1.10",
+          "0.22",
+          "1.60",
+          "6",
+          "18",
+          "37.1",
+          "500"
+        ],
+        [
+          "A75208XX",
+          "0.75",
+          "19",
+          "0.24",
+          "1.30",
+          "0.24",
+          "1.90",
+          "9",
+          "23",
+          "24.7",
+          "500"
+        ],
+        [
+          "A75210XX",
+          "1.0",
+          "19",
+          "0.27",
+          "1.50",
+          "0.24",
+          "2.10",
+          "11",
+          "28",
+          "18.5",
+          "500"
+        ],
+        [
+          "A75213XX",
+          "1.5",
+          "19",
+          "0.33",
+          "1.80",
+          "0.24",
+          "2.40",
+          "16",
+          "36",
+          "12.7",
+          "500"
+        ],
+        [
+          "A75216XX",
+          "2.5",
+          "37",
+          "0.28",
+          "2.20",
+          "0.28",
+          "3.00",
+          "25",
+          "50",
+          "7.60",
+          "500"
+        ]
+      ],
+      "catalogueNo": "A752",
+      "info": {
+        "features": [
+          "Good mechanical and thremal properties.",
+          "Excellent chemical resistance.",
+          "Very good oil and fuel resistance.",
+          "Corrosion resistance.",
+          "High resistance to atmospheric conditions and ozone.",
+          "Board temperature range."
+        ],
+        "technical": [
+          "Temperature Range: -40˚C to +175˚C",
+          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
+          "FL: Automotive Cable",
+          "R: Reduced wall thickness",
+          "6Y: Fluorinated Ethylene Propylene",
+          "A: Symmetrical (Structure A)",
+          "Standard: ISO 6722-1, Class E, LV 112-1"
+        ],
+        "application": [
+          "Suitable for inside engine compartment.",
+          "Low-tension electric wire for Automobiles.",
+          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits etc.",
+          "Used for temperature sensors & electromagnetic coils."
+        ],
+        "construction": [
+          "Conductor : Soft - Annealed electrolytic Copper E-Cu ETP1 According to DIN 13602, Bare conductor (Symmetrical).",
+          "Optional :Tinned.",
+          "Insulation : FEP (Fluorinated Ethylene Propylene), Thin wall.",
+          "Colour : As per customer order.",
+          "Single core."
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/20ad441740.png?v=1795084825746",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/automotive/20ad441740-3d.png?v=1795084830381"
     },
     {
       "id": "e6d40a68db",
@@ -18442,406 +19006,6 @@
       "colorNote": "* Other length as per Customer order.\nCurrent Carrying capacity given is for the maximum conductor operating temperature of 120°C and ambient air temperature of 40°C.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog"
     },
     {
-      "id": "amffb82c55",
-      "family": "automotive",
-      "name": "Siechem FL2G- B",
-      "headers": [
-        "Part Number",
-        "Conductor Construction Nominal Cross- Section",
-        "Conductor Construction No. of Strands",
-        "Conductor Construction Diameter of Single wire max.",
-        "Conductor Construction Conductor Diameter Max.",
-        "Insulation Wall Thickness Min. Conductor Diameter Max.",
-        "Cable Overall Diameter Max.",
-        "Cable Weight Approx.",
-        "Current Carrying Capacity Weight Approx.",
-        "Max. Conductor Resistance at 20°C Weight Approx.",
-        "Standard Length* Weight Approx."
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "kg/km",
-          "Amps",
-          "Ω/km",
-          "mtrs"
-        ],
-        [
-          "C41806XX",
-          "0.5",
-          "16",
-          "0.21",
-          "1.10",
-          "0.48",
-          "2.30",
-          "9",
-          "21",
-          "37.1",
-          "500"
-        ],
-        [
-          "C41808XX",
-          "0.75",
-          "24",
-          "0.21",
-          "1.30",
-          "0.48",
-          "2.50",
-          "12",
-          "27",
-          "24.7",
-          "500"
-        ],
-        [
-          "C41810XX",
-          "1.0",
-          "32",
-          "0.21",
-          "1.50",
-          "0.48",
-          "2.70",
-          "14",
-          "32",
-          "18.5",
-          "500"
-        ],
-        [
-          "C41813XX",
-          "1.5",
-          "30",
-          "0.26",
-          "1.80",
-          "0.48",
-          "3.00",
-          "19",
-          "40",
-          "12.7",
-          "500"
-        ],
-        [
-          "C41813XX",
-          "2.5",
-          "50",
-          "0.26",
-          "2.20",
-          "0.56",
-          "3.60",
-          "30",
-          "55",
-          "7.60",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "4",
-          "56",
-          "0.31",
-          "2.80",
-          "0.64",
-          "4.40",
-          "47",
-          "75",
-          "4.71",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "6",
-          "84",
-          "0.31",
-          "3.40",
-          "0.64",
-          "5.00",
-          "67",
-          "96",
-          "3.14",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "10",
-          "80",
-          "0.41",
-          "4.50",
-          "0.80",
-          "6.50",
-          "111",
-          "136",
-          "1.82",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "16",
-          "126",
-          "0.41",
-          "5.80",
-          "0.80",
-          "8.30",
-          "169",
-          "181",
-          "1.16",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "25",
-          "196",
-          "0.41",
-          "7.20",
-          "1.04",
-          "10.40",
-          "263",
-          "238",
-          "0.743",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "35",
-          "276",
-          "0.41",
-          "8.50",
-          "1.04",
-          "11.60",
-          "358",
-          "292",
-          "0.527",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "50",
-          "396",
-          "0.41",
-          "10.50",
-          "1.20",
-          "13.50",
-          "509",
-          "364",
-          "0.368",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "70",
-          "360",
-          "0.51",
-          "12.50",
-          "1.20",
-          "15.50",
-          "704",
-          "447",
-          "0.259",
-          "500"
-        ],
-        [
-          "C41806XX",
-          "95",
-          "475",
-          "0.51",
-          "14.80",
-          "1.28",
-          "18.00",
-          "920",
-          "529",
-          "0.196",
-          "500"
-        ]
-      ],
-      "catalogueNo": "C418",
-      "info": {
-        "features": [
-          "Flame retardant",
-          "Highly resistant against acids, lyes, Petrol and diesel.",
-          "Extra flexibility."
-        ],
-        "technical": [
-          "Temperature Range:  - 40˚C to +200˚C (3000 Hours)",
-          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm²",
-          "5kV (r.m.s.) for cables ≥ 0.5 mm²",
-          "FL: Automotive Cable",
-          "2G: Silicone Rubber",
-          "B: Asymmetrical (Structure B)",
-          "Standard: ISO 6722, Class F"
-        ],
-        "application": [
-          "Low-tension electric wire for Automobiles.",
-          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits."
-        ],
-        "construction": [
-          "Conductor: Soft-annealed electrolytic Copper E-Cu - ETP1 according to DIN 13602, bare conductor (Asymmetrical structure B)",
-          "Optional: Tinned",
-          "Insulation: Silicone Rubber (Thick wall)",
-          "Colour : As per customer order."
-        ]
-      },
-      "colorNote": "Current Carrying capacity given is for the maximum conductor operating of 200° C and ambient air temperature of 40°C. \n* Other length as per Customer order.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog."
-    },
-    {
-      "id": "b3a2aafd47",
-      "family": "automotive",
-      "name": "FLR6Y- A (Auto 210 F-A)",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Strands",
-        "Diameter of Single wire max.",
-        "Conductor Diameter Max.",
-        "Insulation Wall Thickness Min.",
-        "Cable — Overall Diameter Max.",
-        "Weight Approx.",
-        "Current Carrying Capacity",
-        "Max. Conductor Resistance at 20° C",
-        "Standard Length*"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "kg/km",
-          "Amps",
-          "Ω/km",
-          "mtrs"
-        ],
-        [
-          "84802XX",
-          "0.22",
-          "7",
-          "0.21",
-          "0.70",
-          "0.20",
-          "1.20",
-          "3",
-          "11",
-          "84.8",
-          "500"
-        ],
-        [
-          "84805XX",
-          "0.35",
-          "7",
-          "0.27",
-          "0.90",
-          "0.20",
-          "1.30",
-          "5",
-          "14",
-          "54.4",
-          "500"
-        ],
-        [
-          "84806XX",
-          "0.5",
-          "19",
-          "0.19",
-          "1.10",
-          "0.22",
-          "1.60",
-          "6",
-          "19",
-          "37.1",
-          "500"
-        ],
-        [
-          "84808XX",
-          "0.75",
-          "19",
-          "0.24",
-          "1.30",
-          "0.24",
-          "1.90",
-          "9",
-          "25",
-          "24.7",
-          "500"
-        ],
-        [
-          "84810XX",
-          "1.0",
-          "19",
-          "0.27",
-          "1.50",
-          "0.24",
-          "2.10",
-          "11",
-          "30",
-          "18.5",
-          "500"
-        ],
-        [
-          "84813XX",
-          "1.5",
-          "19",
-          "0.33",
-          "1.80",
-          "0.24",
-          "2.40",
-          "16",
-          "38",
-          "12.7",
-          "500"
-        ],
-        [
-          "84816XX",
-          "2.5",
-          "37",
-          "0.28",
-          "2.20",
-          "0.28",
-          "3.00",
-          "25",
-          "54",
-          "7.60",
-          "500"
-        ]
-      ],
-      "catalogueNo": "848",
-      "info": {
-        "features": [
-          "Good mechanical and thermal properties",
-          "Excellent chemical resistance",
-          "Very good oil and fuel resistance",
-          "Corrosion resistance",
-          "High resistance to atmospheric conditions and ozone",
-          "Broad temperature range."
-        ],
-        "technical": [
-          "Temperature Range: -65˚C to +210˚C",
-          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm² 5kV (r.m.s.) for cables ≥ 0.5mm²",
-          "FL: Automotive Cable",
-          "R: Reduced wall thickness",
-          "6Y: Fluorinated Ethylene Propylene",
-          "A: Symmetrical (Structure A)",
-          "Standard: ISO 6722-1, Class F"
-        ],
-        "application": [
-          "Suitable for inside engine compartment",
-          "Low-tension electric wire for automobiles",
-          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits etc.",
-          "Used for temperature sensors & electromagnetic coils"
-        ],
-        "construction": [
-          "Conductor: Soft-annealed electrolytic Copper E-Cu - ETP1 according to DIN 13602, bare conductor (Symmetrical)",
-          "Optional: Tinned.",
-          "Insulation: FEP (Fluorinated Ethylene Propylene), (Thin wall).",
-          "Colour : As per customer order."
-        ]
-      },
-      "colorNote": "Current Carrying capacity given is for the maximum conductor operating of 210° C and ambient air temperature of 65°C.\nPart Number given is for bare copper the letter ‘T’ should be added for tinned copper (eg., T84802XX) \n* Other length as per customer order.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog"
-    },
-    {
       "id": "b93721361d",
       "family": "automotive",
       "name": "GXL RoHS",
@@ -19336,163 +19500,6 @@
         ]
       },
       "colorNote": "** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog.\nCurrent Carrying capacity given is for the maximum conductor operating of 150°C and ambient air temperature of 40°C. \n* Other length as per Customer order."
-    },
-    {
-      "id": "20ad441740",
-      "family": "automotive",
-      "name": "FLR6Y- A (175°C)",
-      "headers": [
-        "Part Number",
-        "Conductor Construction — Nominal Cross- Section",
-        "No. of Strands",
-        "Diameter of Single wire max.",
-        "Conductor Diameter Max.",
-        "Insulation Wall Thickness Min.",
-        "Cable — Overall Diameter Max.",
-        "Weight Approx.",
-        "Current Carrying Capacity",
-        "Max. Conductor Resistance at 20° C",
-        "Standard Length*"
-      ],
-      "rows": [
-        [
-          "",
-          "mm²",
-          "nos.",
-          "mm",
-          "mm",
-          "mm",
-          "mm",
-          "kg/km",
-          "Amps",
-          "Ω/km",
-          "mtrs"
-        ],
-        [
-          "A75202XX",
-          "0.22",
-          "7",
-          "0.21",
-          "0.70",
-          "0.20",
-          "1.20",
-          "3",
-          "10",
-          "84.8",
-          "500"
-        ],
-        [
-          "A75205XX",
-          "0.35",
-          "7",
-          "0.27",
-          "0.90",
-          "0.20",
-          "1.30",
-          "5",
-          "13",
-          "54.4",
-          "500"
-        ],
-        [
-          "A75206XX",
-          "0.5",
-          "19",
-          "0.19",
-          "1.10",
-          "0.22",
-          "1.60",
-          "6",
-          "18",
-          "37.1",
-          "500"
-        ],
-        [
-          "A75208XX",
-          "0.75",
-          "19",
-          "0.24",
-          "1.30",
-          "0.24",
-          "1.90",
-          "9",
-          "23",
-          "24.7",
-          "500"
-        ],
-        [
-          "A75210XX",
-          "1.0",
-          "19",
-          "0.27",
-          "1.50",
-          "0.24",
-          "2.10",
-          "11",
-          "28",
-          "18.5",
-          "500"
-        ],
-        [
-          "A75213XX",
-          "1.5",
-          "19",
-          "0.33",
-          "1.80",
-          "0.24",
-          "2.40",
-          "16",
-          "36",
-          "12.7",
-          "500"
-        ],
-        [
-          "A75216XX",
-          "2.5",
-          "37",
-          "0.28",
-          "2.20",
-          "0.28",
-          "3.00",
-          "25",
-          "50",
-          "7.60",
-          "500"
-        ]
-      ],
-      "catalogueNo": "A752",
-      "info": {
-        "features": [
-          "Good mechanical and thermal properties",
-          "Excellent chemical resistance",
-          "Very good oil and fuel resistance",
-          "Corrosion resistance",
-          "High resistance to atmospheric conditions and ozone",
-          "Broad temperature range."
-        ],
-        "technical": [
-          "Temperature Range: -40˚C to +175˚C",
-          "Test Voltage: 3kV (r.m.s.) for cables < 0.5 mm² 5kV (r.m.s.) for cables ≥ 0.5 mm²",
-          "FL: Automotive Cable",
-          "R: Reduced wall thickness",
-          "6Y: Fluorinated Ethylene Propylene",
-          "A: Symmetrical (Structure A)",
-          "Standard: ISO 6722-1, Class E, LV 112-1"
-        ],
-        "application": [
-          "Suitable for inside engine compartment",
-          "Low-tension electric wire for automobiles",
-          "Used in Motorcycles and other motor vehicles for starting, charging, lighting, signal and instrument panel circuits etc.",
-          "Used for temperature sensors & electromagnetic coils"
-        ],
-        "construction": [
-          "Conductor: Soft-annealed electrolytic Copper E-Cu - ETP1 according to DIN 13602, bare conductor (Symmetrical)",
-          "Optional: Tinned.",
-          "Insulation: FEP (Fluorinated Ethylene Propylene), (Thin wall).",
-          "Colour : As per customer order."
-        ]
-      },
-      "colorNote": "Current Carrying capacity given is for the maximum conductor operating of 175°C and ambient air temperature of 40°C.\n* Other length as per customer order.\n** We have obtained various approvals, accreditations, and certifications — some of which may not be relevant to this catalog."
     },
     {
       "id": "2de3a6a9c0",

@@ -7530,6 +7530,123 @@
       }
     },
     {
+      "id": "new-mwirmpna",
+      "family": "marine",
+      "name": "FMGCH",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "306 08 01",
+          "1 x 2 x 0.75",
+          "8.5",
+          "62",
+          "90"
+        ],
+        [
+          "306 08 02",
+          "2 x 2 x 0.75",
+          "9.0",
+          "87",
+          "130"
+        ],
+        [
+          "306 08 04",
+          "4 x 2 x 0.75",
+          "13.0",
+          "153",
+          "230"
+        ],
+        [
+          "306 08 07",
+          "7 x 2 x 0.75",
+          "15.5",
+          "230",
+          "340"
+        ],
+        [
+          "306 08 10",
+          "10 x 2 x 0.75",
+          "18.5",
+          "319",
+          "470"
+        ],
+        [
+          "306 08 14",
+          "14 x 2 x 0.75",
+          "21.0",
+          "445",
+          "610"
+        ],
+        [
+          "306 08 19",
+          "19 x 2 x 0.75",
+          "24.0",
+          "525",
+          "770"
+        ],
+        [
+          "306 08 24",
+          "24 x 2 x 0.75",
+          "27.0",
+          "663",
+          "950"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Tests & Materials : IEC - 60092/375",
+          "Halogen free : IEC 60754 / 1-2",
+          "Electron Beam Cross Linked",
+          "Smoke Density : IEC 61034/1-2",
+          "Gases corrosivity : IEC 60754-2",
+          "Gases toxicity : No toxicity to",
+          "IEC 60754-1",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40C to +120C",
+          "Rated Voltage (U/U)  : 250 V",
+          "Test Voltage  : 1.5 kV",
+          "Bending Radius(Min) :  8 x Cable Diameter",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp (Max.) : 280⁰C"
+        ],
+        "application": [
+          "Used as Control and Communication",
+          "cables in radio, radar & information",
+          "systems of marine vehicles.",
+          "Minimizes radio interferences and",
+          "electrical influences.",
+          "For use in above and below decks."
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation : HEPR (Halogen free)",
+          "Layup : Cores laid up in pairs, pairs laid up concentrically",
+          "Separator : Glass Mica Tape",
+          "Screen : Electrolytic copper braided screen(90% coverage)",
+          "Separator : Glass Mica Tape",
+          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Green)"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwirmpna.jpg?v=1795085488405",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwirmpna-3d.jpg?v=1795084382606"
+    },
+    {
       "id": "ad06c04bc2",
       "family": "marine",
       "name": "RFE-HF(I) Marine Cable",
@@ -10124,121 +10241,6 @@
           "Screen : Plastic coated aluminium tape & tinned copper braid, coverage 100%",
           "Inner Sheath : Purple, Cross Linked Polyolefin",
           "Outer Sheath : Grey, Cross Linked Polyolefin"
-        ]
-      }
-    },
-    {
-      "id": "new-mwirmpna",
-      "family": "marine",
-      "name": "FMGCH",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm² Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "306 08 01",
-          "1 x 2 x 0.75",
-          "8.5",
-          "62",
-          "90"
-        ],
-        [
-          "306 08 02",
-          "2 x 2 x 0.75",
-          "9.0",
-          "87",
-          "130"
-        ],
-        [
-          "306 08 04",
-          "4 x 2 x 0.75",
-          "13.0",
-          "153",
-          "230"
-        ],
-        [
-          "306 08 07",
-          "7 x 2 x 0.75",
-          "15.5",
-          "230",
-          "340"
-        ],
-        [
-          "306 08 10",
-          "10 x 2 x 0.75",
-          "18.5",
-          "319",
-          "470"
-        ],
-        [
-          "306 08 14",
-          "14 x 2 x 0.75",
-          "21.0",
-          "445",
-          "610"
-        ],
-        [
-          "306 08 19",
-          "19 x 2 x 0.75",
-          "24.0",
-          "525",
-          "770"
-        ],
-        [
-          "306 08 24",
-          "24 x 2 x 0.75",
-          "27.0",
-          "663",
-          "950"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Tests & Materials : IEC - 60092/375",
-          "Halogen free : IEC 60754 / 1-2",
-          "Electron Beam Cross Linked",
-          "Smoke Density : IEC 61034/1-2",
-          "Gases corrosivity : IEC 60754-2",
-          "Gases toxicity : No toxicity to",
-          "IEC 60754-1",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40C to +120C",
-          "Rated Voltage (U/U)  : 250 V",
-          "Test Voltage  : 1.5 kV",
-          "Bending Radius(Min) :  8 x Cable Diameter",
-          "Max. Conductor Temp. in Service : 85⁰C",
-          "Short-circuit temp (Max.) : 280⁰C"
-        ],
-        "application": [
-          "Used as Control and Communication",
-          "cables in radio, radar & information",
-          "systems of marine vehicles.",
-          "Minimizes radio interferences and",
-          "electrical influences.",
-          "For use in above and below decks."
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire.  IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation : HEPR (Halogen free)",
-          "Layup : Cores laid up in pairs, pairs laid up concentrically",
-          "Separator : Glass Mica Tape",
-          "Screen : Electrolytic copper braided screen(90% coverage)",
-          "Separator : Glass Mica Tape",
-          "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Green)"
         ]
       }
     },
