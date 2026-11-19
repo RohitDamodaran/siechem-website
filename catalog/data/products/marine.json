@@ -1702,113 +1702,6 @@
       }
     },
     {
-      "id": "3a52e950de",
-      "family": "marine",
-      "name": "FMGCG Marine Cable",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm2 Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "336 08 01",
-          "1P x 0.75",
-          "7.5/9.0",
-          "13",
-          "120"
-        ],
-        [
-          "336 08 02",
-          "2P x 0.75",
-          "8.5/10",
-          "26",
-          "170"
-        ],
-        [
-          "336 08 04",
-          "4P x 0.75",
-          "12/13.5",
-          "53",
-          "290"
-        ],
-        [
-          "336 08 07",
-          "7P x 0.75",
-          "15.0/17.0",
-          "86",
-          "410"
-        ],
-        [
-          "336 08 10",
-          "10P x 0.75",
-          "17.5/19.5",
-          "132",
-          "580"
-        ],
-        [
-          "336 08 14",
-          "14P x 0.75",
-          "19.5/22.5",
-          "185",
-          "740"
-        ],
-        [
-          "336 08 19",
-          "19P x 0.75",
-          "22.0/26.0",
-          "251",
-          "930"
-        ],
-        [
-          "336 08 24",
-          "24P x 0.75",
-          "25.0/28.5",
-          "317",
-          "1200"
-        ]
-      ],
-      "catalogueNo": "336",
-      "info": {
-        "features": [
-          "Flame retardant",
-          "Smoke density",
-          "Gases corrosivity",
-          "Gases toxicity",
-          "Electro magnetic interference",
-          "resistance"
-        ],
-        "technical": [
-          "Temperature Range : - 40⁰C to +120⁰C",
-          "Rated Voltage (U₀/U) :  60 V",
-          "Test Voltage  : 1500 V"
-        ],
-        "application": [
-          "Fixed installations in communication,",
-          "radio, control and data processing",
-          "facilities on ships."
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire.",
-          "Insulation : EPR ( Cross Linked Ethylene Propylene Rubber)",
-          "Laying up : Pair stranding (2 Pair Cable = Quad stranding)",
-          "Armour : Separator tape",
-          "Screen : Electrolytic Copper braid",
-          "Separator : Separator tape",
-          "Outer Sheath : CR (Cross Linked Polychloroprene Rubber)"
-        ]
-      }
-    },
-    {
       "id": "f000c53337",
       "family": "marine",
       "name": "MGCH APC, EMC Screened 0.6/1 kV Control Cable",
@@ -2241,7 +2134,115 @@
           "(Black or Grey)"
         ]
       },
-      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/f000c53337-3d.jpg?v=1794822047961"
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/f000c53337.jpg?v=1795066264037",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/f000c53337-3d.jpg?v=1795066281766"
+    },
+    {
+      "id": "3a52e950de",
+      "family": "marine",
+      "name": "FMGCG Marine Cable",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm2 Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "336 08 01",
+          "1P x 0.75",
+          "7.5/9.0",
+          "13",
+          "120"
+        ],
+        [
+          "336 08 02",
+          "2P x 0.75",
+          "8.5/10",
+          "26",
+          "170"
+        ],
+        [
+          "336 08 04",
+          "4P x 0.75",
+          "12/13.5",
+          "53",
+          "290"
+        ],
+        [
+          "336 08 07",
+          "7P x 0.75",
+          "15.0/17.0",
+          "86",
+          "410"
+        ],
+        [
+          "336 08 10",
+          "10P x 0.75",
+          "17.5/19.5",
+          "132",
+          "580"
+        ],
+        [
+          "336 08 14",
+          "14P x 0.75",
+          "19.5/22.5",
+          "185",
+          "740"
+        ],
+        [
+          "336 08 19",
+          "19P x 0.75",
+          "22.0/26.0",
+          "251",
+          "930"
+        ],
+        [
+          "336 08 24",
+          "24P x 0.75",
+          "25.0/28.5",
+          "317",
+          "1200"
+        ]
+      ],
+      "catalogueNo": "336",
+      "info": {
+        "features": [
+          "Flame retardant",
+          "Smoke density",
+          "Gases corrosivity",
+          "Gases toxicity",
+          "Electro magnetic interference",
+          "resistance"
+        ],
+        "technical": [
+          "Temperature Range : - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) :  60 V",
+          "Test Voltage  : 1500 V"
+        ],
+        "application": [
+          "Fixed installations in communication,",
+          "radio, control and data processing",
+          "facilities on ships."
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire.",
+          "Insulation : EPR ( Cross Linked Ethylene Propylene Rubber)",
+          "Laying up : Pair stranding (2 Pair Cable = Quad stranding)",
+          "Armour : Separator tape",
+          "Screen : Electrolytic Copper braid",
+          "Separator : Separator tape",
+          "Outer Sheath : CR (Cross Linked Polychloroprene Rubber)"
+        ]
+      }
     },
     {
       "id": "new-mwk9m5xs",
