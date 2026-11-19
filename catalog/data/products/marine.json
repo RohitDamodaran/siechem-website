@@ -8019,6 +8019,109 @@
       }
     },
     {
+      "id": "new-mwiscj2g",
+      "family": "marine",
+      "name": "FMGSGO",
+      "headers": [
+        "Part Number",
+        "Number of Cores and mm² Per Conductor",
+        "Outer Diameter in mm approx.",
+        "Copper Index",
+        "Total Weight\n    Kg/Km approx."
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Kg/Km",
+          ""
+        ],
+        [
+          "307 08 02",
+          "2 x 2 x 0.75",
+          "9.0",
+          "89",
+          "110"
+        ],
+        [
+          "307 08 04",
+          " 4 x 2 x 0.75",
+          "12.5",
+          "142",
+          "190"
+        ],
+        [
+          "307 08 06",
+          " 6 x 2 x 0.75",
+          "14.5",
+          "189",
+          "260"
+        ],
+        [
+          "307 08 08",
+          "8 x 2 x 0.75",
+          "15.5",
+          "225",
+          "310"
+        ],
+        [
+          "307 08 10",
+          "10 x 2 x 0.75",
+          "17.0",
+          "272",
+          "380"
+        ],
+        [
+          "307 08 14",
+          "14 x 2 x 0.75",
+          "18.5",
+          "338",
+          "465"
+        ],
+        [
+          "307 08 16",
+          "16 x 2 x 0.75",
+          "20.0",
+          "373",
+          "520"
+        ]
+      ],
+      "info": {
+        "features": [
+          "Flame retardant : IEC - 60332-3 (Cat A)",
+          "Non corrosive and low toxic gas emission",
+          "Electron Beam Cross Linked",
+          "Halogen free",
+          "Oil resistant"
+        ],
+        "technical": [
+          "Temperature Range : - 40⁰C to +120⁰C",
+          "Rated Voltage (U₀/U) : 250V",
+          "Insulation Resistance : 1400 MOhms x km",
+          "Bending Radius(Min) : 5 x Cable Diameter",
+          "Max. capacity at 800 Hz : 250nF/km",
+          "Max. Conductor Temp. in Service : 85⁰C",
+          "Short-circuit temp (max.) : 280⁰C"
+        ],
+        "application": [
+          "Fixed installations on marine craft",
+          "Minimizes radio interferences and",
+          "electrical influences",
+          "Fire resistant insulation"
+        ],
+        "construction": [
+          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
+          "Insulation :  Electron Beam Cross Linked Polyolefin",
+          "Screen :  Electrolytic Copper Braided Screen",
+          "Separator Foil : Polyester Tape",
+          "Outer Sheath : Electron Beam Cross Linked Polyolefin (Black)"
+        ]
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwiscj2g.jpg?v=1795088659960",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwiscj2g-3d.jpg?v=1795088683933"
+    },
+    {
       "id": "40689c93be",
       "family": "marine",
       "name": "RFA-HF (I) Marine Cable",
@@ -10245,107 +10348,6 @@
       }
     },
     {
-      "id": "new-mwiscj2g",
-      "family": "marine",
-      "name": "FMGSGO",
-      "headers": [
-        "Part Number",
-        "Number of Cores and mm² Per Conductor",
-        "Outer Diameter in mm approx.",
-        "Copper Index",
-        "Total Weight\n    Kg/Km approx."
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "Kg/Km",
-          ""
-        ],
-        [
-          "307 08 02",
-          "2 x 2 x 0.75",
-          "9.0",
-          "89",
-          "110"
-        ],
-        [
-          "307 08 04",
-          " 4 x 2 x 0.75",
-          "12.5",
-          "142",
-          "190"
-        ],
-        [
-          "307 08 06",
-          " 6 x 2 x 0.75",
-          "14.5",
-          "189",
-          "260"
-        ],
-        [
-          "307 08 08",
-          "8 x 2 x 0.75",
-          "15.5",
-          "225",
-          "310"
-        ],
-        [
-          "307 08 10",
-          "10 x 2 x 0.75",
-          "17.0",
-          "272",
-          "380"
-        ],
-        [
-          "307 08 14",
-          "14 x 2 x 0.75",
-          "18.5",
-          "338",
-          "465"
-        ],
-        [
-          "307 08 16",
-          "16 x 2 x 0.75",
-          "20.0",
-          "373",
-          "520"
-        ]
-      ],
-      "info": {
-        "features": [
-          "Flame retardant : IEC - 60332-3 (Cat A)",
-          "Non corrosive and low toxic gas emission",
-          "Electron Beam Cross Linked",
-          "Halogen free",
-          "Oil resistant"
-        ],
-        "technical": [
-          "Temperature Range : - 40⁰C to +120⁰C",
-          "Rated Voltage (U₀/U) : 250V",
-          "Insulation Resistance : 1400 MOhms x km",
-          "Bending Radius(Min) : 5 x Cable Diameter",
-          "Max. capacity at 800 Hz : 250nF/km",
-          "Max. Conductor Temp. in Service : 85⁰C",
-          "Short-circuit temp (max.) : 280⁰C"
-        ],
-        "application": [
-          "Fixed installations on marine craft",
-          "Minimizes radio interferences and",
-          "electrical influences",
-          "Fire resistant insulation"
-        ],
-        "construction": [
-          "Conductor : Electrolytic, stranded, annealed copper wire. IEC 60228 Class 2 (Class 5 / tinned on request)",
-          "Insulation :  Electron Beam Cross Linked Polyolefin",
-          "Screen :  Electrolytic Copper Braided Screen",
-          "Separator Foil : Polyester Tape",
-          "Outer Sheath : Electron Beam Cross Linked Polyolefin (Black)"
-        ]
-      }
-    },
-    {
       "id": "new-mwkiz1gc",
       "family": "marine",
       "name": "TABLE C4 : Twin and Multicore Cables",
@@ -11031,7 +11033,9 @@
           "Separator Foil : Polyester Tape",
           "Outer Sheath : Halogen free, flame retardant, thermoset, polyolefin based jacket compound (Black)"
         ]
-      }
+      },
+      "image2d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwisrkwd.jpg?v=1795090437505",
+      "image3d": "https://fihlhaqxpiobwfotxsxs.supabase.co/storage/v1/object/public/product-images/marine/new-mwisrkwd-3d.jpg?v=1795090457326"
     },
     {
       "id": "new-mwitf71t",

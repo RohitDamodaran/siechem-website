@@ -496,40 +496,12 @@
           "name": "Pink"
         },
         {
-          "code": "26",
-          "name": "Yellow-Blue"
+          "code": "A12",
+          "name": "Red-White"
         },
         {
-          "code": "27",
-          "name": "Yellow-Pink"
-        },
-        {
-          "code": "28",
-          "name": "Yellow-White"
-        },
-        {
-          "code": "29",
-          "name": "Green-Yellow"
-        },
-        {
-          "code": "30",
-          "name": "Blue-Black"
-        },
-        {
-          "code": "31",
-          "name": "Blue-Red"
-        },
-        {
-          "code": "32",
-          "name": "Blue-Yellow"
-        },
-        {
-          "code": "36",
-          "name": "Black-Blue"
-        },
-        {
-          "code": "30",
-          "name": "Black-"
+          "code": "A18",
+          "name": "Red-Grey"
         }
       ],
       "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering."
