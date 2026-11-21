@@ -391,7 +391,7 @@
       "sourcePdfs": [
         "Automotive cable Updated (1).pdf"
       ],
-      "seriesCount": 182,
+      "seriesCount": 183,
       "voltBuckets": [
         "300–750V",
         "751–1100V",
@@ -494,14 +494,6 @@
         {
           "code": "21",
           "name": "Pink"
-        },
-        {
-          "code": "A12",
-          "name": "Red-White"
-        },
-        {
-          "code": "A18",
-          "name": "Red-Grey"
         }
       ],
       "colorNote": "Note: XX* — please add the last two digits in the part number as per the colour code below, replacing XX while ordering."
